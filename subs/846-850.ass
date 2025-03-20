@@ -1,0 +1,1587 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.01,0:00:20.52,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:00:17.01,0:00:20.52,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,Default,,0000,0000,0000,,{\i1}The joy of letting our true \Nfeelings fly at each other{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,On Top,,0000,0000,0000,,{\i1}kimi to honki de kokoro \Nbutsukeatta yorokobi mo{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,Default,,0000,0000,0000,,{\i1}The pain from how we laughed \Nour heads off to dry our tears{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,On Top,,0000,0000,0000,,{\i1}warai korogete namida \Nkawakashita setsunasa mo{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,Default,,0000,0000,0000,,{\i1}We connect them together and in the wind Ah{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,On Top,,0000,0000,0000,,{\i1}tsunagi awasete kaze no naka Ah{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,Default,,0000,0000,0000,,{\i1}It's fluttering higher and higher{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,On Top,,0000,0000,0000,,{\i1}hatameiteiru yo takaku takaku{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,Default,,0000,0000,0000,,{\i1}Why did you give up on your search?{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,On Top,,0000,0000,0000,,{\i1}Why sagasu koto wo akirameta no{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,Default,,0000,0000,0000,,{\i1}Why do you keep fighting by yourself?{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,On Top,,0000,0000,0000,,{\i1}Why hitori tatakai tsudukeru no{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,Default,,0000,0000,0000,,{\i1}Say, what kind of future did you prepare for?{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,On Top,,0000,0000,0000,,{\i1}nee, donna mirai kakugo shita no{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,Default,,0000,0000,0000,,{\i1}Have you fulfilled your dream?{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,On Top,,0000,0000,0000,,{\i1}yume wa mou te ni shita no{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,Default,,0000,0000,0000,,{\i1}There is a place that I want to go with you{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,On Top,,0000,0000,0000,,{\i1}kimi to mezashitai basho ga aru{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,Default,,0000,0000,0000,,{\i1}The sea route that we take{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,On Top,,0000,0000,0000,,{\i1}susumiyuku kouro nara{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,On Top,,0000,0000,0000,,{\i1}tooi mukashi mou kimeteita{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,Default,,0000,0000,0000,,{\i1}Your voice that hasn't reached me yet{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,On Top,,0000,0000,0000,,{\i1}mada todokanai kimi no koe ga{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,Default,,0000,0000,0000,,{\i1}crushes my helpless heart{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,On Top,,0000,0000,0000,,{\i1}muryoku na mune wo oshitsubusu{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,Default,,0000,0000,0000,,{\i1}I'm wanting you{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,On Top,,0000,0000,0000,,{\i1}boku wa kimi wo motometeiru kara{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,Default,,0000,0000,0000,,{\i1}so I'll keep believing in the \Nmorning when the light comes in{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,On Top,,0000,0000,0000,,{\i1}hikari sashikomu asa wo shinjite iyou{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,Default,,0000,0000,0000,,{\i1}Close your eyes and listen carefully{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,On Top,,0000,0000,0000,,{\i1}me wo tojite mimi wo sumashite{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,Default,,0000,0000,0000,,{\i1}Let's look for your answer{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,On Top,,0000,0000,0000,,{\i1}sagashi dasou kimi no kotae wo{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,Default,,0000,0000,0000,,{\i1}The road always continues towards \Nthe sea that you've never seen{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,On Top,,0000,0000,0000,,{\i1}michi wa kanarazu tsuduiteiru \Nyo mada mitakoto no nai umi e{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,Default,,0000,0000,0000,,{\i1}There is a place I have to return to with you{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,On Top,,0000,0000,0000,,{\i1}kimi to kaeru beki basho ga aru{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,Default,,0000,0000,0000,,{\i1}We will be forever{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,On Top,,0000,0000,0000,,{\i1}boku tachi wa eien ni{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,On Top,,0000,0000,0000,,{\i1}tooi mukashi sou kimeteita{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:02:48.37,0:02:50.78,Italics,,0000,0000,0000,,{\i1}After failing to kill Big \NMom, Luffy and his allies
+Dialogue: 0,0:02:50.78,0:02:53.55,Italics,,0000,0000,0000,,escaped from the Whole Cake Chateau{\i0}
+Dialogue: 0,0:02:53.96,0:02:57.13,Default,,0000,0000,0000,,{\i1}and continue heading towards the Sunny.{\i0}
+Dialogue: 0,0:02:59.59,0:03:01.68,Default,,0000,0000,0000,,Ikoku Sovereignty!
+Dialogue: 0,0:03:15.36,0:03:20.65,Default,,0000,0000,0000,,{\i1}They fended off the onslaught of Big Mom\Nwho is experiencing a Hunger Pangs attack,{\i0}
+Dialogue: 0,0:03:20.70,0:03:24.09,Default,,0000,0000,0000,,{\i1}and entered the Seducing Woods\Nwhere Kingbaum rules...{\i0}
+Dialogue: 0,0:03:25.12,0:03:27.54,Default,,0000,0000,0000,,Seducing Woods!
+Dialogue: 0,0:03:28.91,0:03:31.23,Default,,0000,0000,0000,,Stop them!
+Dialogue: 0,0:03:32.46,0:03:37.59,Default,,0000,0000,0000,,{\i1}Big Mom has Luffy and the others \Ncornered even more by using the Homies.{\i0}
+Dialogue: 0,0:03:38.00,0:03:40.32,Default,,0000,0000,0000,,It turned back to the annoying forest.
+Dialogue: 0,0:03:44.33,0:03:45.57,Default,,0000,0000,0000,,Tree!
+Dialogue: 0,0:03:45.98,0:03:47.35,Default,,0000,0000,0000,,Kingbaum...
+Dialogue: 0,0:03:48.84,0:03:49.62,Default,,0000,0000,0000,,Nami-{\i1}san{\i0}!
+Dialogue: 0,0:03:54.00,0:03:57.84,Default,,0000,0000,0000,,Wedding cake!
+Dialogue: 0,0:03:59.99,0:04:03.01,Default,,0000,0000,0000,,So you need my chiffon cake.
+Dialogue: 0,0:04:03.41,0:04:04.12,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:04:04.85,0:04:09.52,Default,,0000,0000,0000,,If we combine my chocolate\Nand your chiffon cake,
+Dialogue: 0,0:04:09.52,0:04:12.83,Default,,0000,0000,0000,,we can make a wedding cake\Nthat will satisfy Mama!
+Dialogue: 0,0:04:13.24,0:04:16.98,Default,,0000,0000,0000,,If we let her eat it,\Nwe can stop her attack!
+Dialogue: 0,0:04:18.63,0:04:21.78,Default,,0000,0000,0000,,I need to stop Mama as soon as possible...
+Dialogue: 0,0:04:23.63,0:04:25.32,Default,,0000,0000,0000,,Otherwise, he...
+Dialogue: 0,0:04:25.32,0:04:28.63,Default,,0000,0000,0000,,...and his friends will get killed!
+Dialogue: 0,0:04:32.31,0:04:37.81,Default,,0000,0000,0000,,{\i1}"A Lightning Counterattack!\NNami and Zeus the Thundercloud!"{\i0}
+Dialogue: 0,0:04:50.99,0:04:58.21,DefaultLow,,0000,0000,0000,,SOUTHWEST COAST - SEDUCING WOODS
+Dialogue: 0,0:04:59.16,0:05:03.36,Default,,0000,0000,0000,,As long as Big Mom is having a Hunger Pangs attack,\Nall you can do is run!
+Dialogue: 0,0:05:03.49,0:05:06.11,Default,,0000,0000,0000,,Hunger Pangs? What is that?
+Dialogue: 0,0:05:06.91,0:05:08.74,Default,,0000,0000,0000,,It's a tantrum!
+Dialogue: 0,0:05:12.37,0:05:14.71,Default,,0000,0000,0000,,Until she gets to eat what she craves...
+Dialogue: 0,0:05:17.00,0:05:19.54,Default,,0000,0000,0000,,she keeps rampaging without discretion!
+Dialogue: 0,0:05:20.63,0:05:22.96,Default,,0000,0000,0000,,Wedding...
+Dialogue: 0,0:05:23.68,0:05:27.03,Default,,0000,0000,0000,,...cake!!
+Dialogue: 0,0:05:29.68,0:05:31.50,Default,,0000,0000,0000,,She's almost unconscious...
+Dialogue: 0,0:05:33.14,0:05:37.02,Default,,0000,0000,0000,,What she craves this time \Nseems to be a wedding cake!
+Dialogue: 0,0:05:42.36,0:05:47.24,Default,,0000,0000,0000,,Maybe because she didn't get to eat\Nthe cake at the wedding!
+Dialogue: 0,0:05:47.40,0:05:50.16,Default,,0000,0000,0000,,Luffy! You shouldn't have ruined the cake!
+Dialogue: 0,0:05:54.12,0:05:56.29,Default,,0000,0000,0000,,But the plan succeeded!
+Dialogue: 0,0:05:56.33,0:05:59.50,Default,,0000,0000,0000,,And you don't often get to eat\Na delicious cake like that!
+Dialogue: 0,0:06:04.88,0:06:06.88,Default,,0000,0000,0000,,Were you eating during the mission?!
+Dialogue: 0,0:06:11.35,0:06:15.02,Default,,0000,0000,0000,,I ate it, too! That was so good!
+Dialogue: 0,0:06:15.22,0:06:19.06,Default,,0000,0000,0000,,Anyway, hurry up!\NI'm sure the Sunny isn't that far from here!
+Dialogue: 0,0:06:21.73,0:06:25.73,Default,,0000,0000,0000,,But in this forest,\Nyou can't be sure if you're going straight!
+Dialogue: 0,0:06:42.33,0:06:45.42,Default,,0000,0000,0000,,Is this really the right way?!
+Dialogue: 0,0:06:45.88,0:06:47.34,Default,,0000,0000,0000,,Oh! Look!
+Dialogue: 0,0:06:49.09,0:06:51.26,Default,,0000,0000,0000,,That river looks familiar!
+Dialogue: 0,0:06:52.97,0:06:56.06,Default,,0000,0000,0000,,The Sunny must be right across the river!
+Dialogue: 0,0:06:57.21,0:06:58.39,Default,,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:07:04.11,0:07:07.15,Default,,0000,0000,0000,,If I remember right,\Nthat bridge was broken!
+Dialogue: 0,0:07:07.32,0:07:08.40,Default,,0000,0000,0000,,You're right...
+Dialogue: 0,0:07:08.91,0:07:12.03,Default,,0000,0000,0000,,If the forest is our enemy,\Nwe can't trust anything!
+Dialogue: 0,0:07:12.78,0:07:16.79,Default,,0000,0000,0000,,They're trying to fool us...
+Dialogue: 0,0:07:18.50,0:07:23.04,Default,,0000,0000,0000,,So I'm sure they're shifting the landscape\Nto confuse us...
+Dialogue: 0,0:07:23.83,0:07:25.25,Default,,0000,0000,0000,,In other words,
+Dialogue: 0,0:07:25.59,0:07:28.55,Default,,0000,0000,0000,,this isn't the place we think it is!
+Dialogue: 0,0:07:35.51,0:07:40.27,Default,,0000,0000,0000,,{\i1}Meanwhile, around the Juice River\Nin Sweet City...{\i0}
+Dialogue: 0,0:07:42.35,0:07:46.26,Default,,0000,0000,0000,,Oh, there it is! The Juice River!
+Dialogue: 0,0:07:46.73,0:07:50.03,Default,,0000,0000,0000,,The Shark Submerge is moored there!
+Dialogue: 0,0:07:50.65,0:07:52.40,Default,,0000,0000,0000,,So that's the river...
+Dialogue: 0,0:07:55.49,0:07:57.03,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:07:57.41,0:07:59.89,Default,,0000,0000,0000,,The river is filled with heavy cream!
+Dialogue: 0,0:08:00.33,0:08:02.96,Default,,0000,0000,0000,,Oh, it smells good!
+Dialogue: 0,0:08:05.29,0:08:08.98,Default,,0000,0000,0000,,It looks delicious! I'm gonna eat!
+Dialogue: 0,0:08:10.51,0:08:12.13,Default,,0000,0000,0000,,It's so sweet!
+Dialogue: 0,0:08:12.38,0:08:17.97,Default,,0000,0000,0000,,I can't believe the debris from\Nthe crumbled Whole Cake Chateau flew this far...
+Dialogue: 0,0:08:19.72,0:08:22.31,Default,,0000,0000,0000,,Mmm! Mmm! It's so good!
+Dialogue: 0,0:08:22.81,0:08:25.56,Default,,0000,0000,0000,,Now, what should we do...
+Dialogue: 0,0:08:25.98,0:08:27.40,Default,,0000,0000,0000,,I mean, Chopper-{\i1}san{\i0}!
+Dialogue: 0,0:08:32.03,0:08:34.53,Default,,0000,0000,0000,,Yum-yum!
+Dialogue: 0,0:08:41.54,0:08:44.17,Default,,0000,0000,0000,,We have to escape from Big Mom\Nof course...
+Dialogue: 0,0:08:45.25,0:08:50.05,Default,,0000,0000,0000,,But we gotta do something about the situation\Nor we won't reach the Sunny!
+Dialogue: 0,0:08:50.60,0:08:52.05,Default,,0000,0000,0000,,Isn't there any way?
+Dialogue: 0,0:08:52.59,0:08:55.72,Default,,0000,0000,0000,,Lola's Vivre Card won't help us anymore...
+Dialogue: 0,0:08:56.01,0:08:59.01,Default,,0000,0000,0000,,Yeah, since Mama herself is right behind us!
+Dialogue: 0,0:08:59.05,0:09:02.52,Default,,0000,0000,0000,,That gives you all the more reason\Nto keep feeding him, Nami.
+Dialogue: 0,0:09:02.68,0:09:04.69,Default,,0000,0000,0000,,Yeah... Zeus!
+Dialogue: 0,0:09:12.44,0:09:13.40,Default,,0000,0000,0000,,It's...
+Dialogue: 0,0:09:14.07,0:09:16.28,Default,,0000,0000,0000,,It's delicious! So delicious!
+Dialogue: 0,0:09:16.45,0:09:21.74,Default,,0000,0000,0000,,If we let Zeus go back to Mama,\Nwe'll have no chance to escape from her.
+Dialogue: 0,0:09:21.91,0:09:23.08,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:09:23.25,0:09:26.04,Default,,0000,0000,0000,,Hey! Give me more!
+Dialogue: 0,0:09:29.54,0:09:34.55,Default,,0000,0000,0000,,Come back, Zeus!
+Dialogue: 0,0:09:39.18,0:09:41.81,Default,,0000,0000,0000,,If we're too slow, she'll catch up!
+Dialogue: 0,0:09:41.97,0:09:44.93,Default,,0000,0000,0000,,Oh, no! I'm gonna get scolded!
+Dialogue: 0,0:09:45.10,0:09:46.06,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:46.44,0:09:47.52,Default,,0000,0000,0000,,Prometheus!
+Dialogue: 0,0:09:47.69,0:09:52.19,Default,,0000,0000,0000,,Why do you disobey Mama's orders, Zeus?!
+Dialogue: 0,0:09:52.36,0:09:54.65,Default,,0000,0000,0000,,Zeus! Look at me!
+Dialogue: 0,0:09:56.45,0:10:01.87,Default,,0000,0000,0000,,The exquisite Weather Egg\Nfilled with juicy thunderclouds!
+Dialogue: 0,0:10:01.87,0:10:03.99,Default,,0000,0000,0000,,Wow! That looks great!
+Dialogue: 0,0:10:04.16,0:10:06.75,Default,,0000,0000,0000,,Whoa, wait, Zeus!
+Dialogue: 0,0:10:10.04,0:10:11.50,Default,,0000,0000,0000,,Hey, Sun!
+Dialogue: 0,0:10:13.96,0:10:15.17,Default,,0000,0000,0000,,How dare you...
+Dialogue: 0,0:10:17.33,0:10:19.26,Default,,0000,0000,0000,,...burn up the tree guy!
+Dialogue: 0,0:10:20.39,0:10:22.10,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:10:22.14,0:10:25.56,Default,,0000,0000,0000,,...Hawk Gatling!
+Dialogue: 0,0:10:33.77,0:10:35.36,Default,,0000,0000,0000,,That's our Luffy!
+Dialogue: 0,0:10:47.11,0:10:48.21,Default,,0000,0000,0000,,What the?!
+Dialogue: 0,0:10:48.37,0:10:50.42,Default,,0000,0000,0000,,Don't think...
+Dialogue: 0,0:10:51.87,0:10:55.17,Default,,0000,0000,0000,,...that you can beat me with just that!
+Dialogue: 0,0:10:55.30,0:10:57.05,Default,,0000,0000,0000,,Oh! Ow, ow, ow!
+Dialogue: 0,0:10:57.17,0:11:01.09,Default,,0000,0000,0000,,If the Color of Arms doesn't work,\Nit'll prove more troubling than Logia!
+Dialogue: 0,0:11:01.22,0:11:03.64,Default,,0000,0000,0000,,I'm gonna burn you all to death!
+Dialogue: 0,0:11:04.10,0:11:06.77,Default,,0000,0000,0000,,Ow, ow! It's hot! Ouch, ouch, ouch!
+Dialogue: 0,0:11:12.86,0:11:14.15,Default,,0000,0000,0000,,Come back, Zeus!
+Dialogue: 0,0:11:14.32,0:11:17.28,Default,,0000,0000,0000,,I will! I will, but...
+Dialogue: 0,0:11:18.78,0:11:21.57,Default,,0000,0000,0000,,I wanna eat just one more juicy thundercloud!
+Dialogue: 0,0:11:21.74,0:11:22.57,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:11:26.25,0:11:26.87,Default,,0000,0000,0000,,Jimbei!
+Dialogue: 0,0:11:27.08,0:11:30.08,Default,,0000,0000,0000,,Cross the bridge now, you all!
+Dialogue: 0,0:11:30.25,0:11:31.29,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:11:31.75,0:11:33.29,Default,,0000,0000,0000,,Spear Wave!
+Dialogue: 0,0:11:33.54,0:11:35.25,Default,,0000,0000,0000,,Murasame!
+Dialogue: 0,0:11:37.34,0:11:38.46,Default,,0000,0000,0000,,Did it work?!
+Dialogue: 0,0:11:38.63,0:11:39.72,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:11:40.22,0:11:43.14,Default,,0000,0000,0000,,He's merely a mass of compressed flames!
+Dialogue: 0,0:11:43.14,0:11:45.41,Default,,0000,0000,0000,,He could just be considered \Na big talking fire!
+Dialogue: 0,0:11:47.80,0:11:49.56,Default,,0000,0000,0000,,You bastard...
+Dialogue: 0,0:11:52.69,0:11:55.52,Default,,0000,0000,0000,,Oh, the Shark Submerge!
+Dialogue: 0,0:11:59.32,0:12:01.45,Default,,0000,0000,0000,,I'm so happy!
+Dialogue: 0,0:12:01.57,0:12:04.37,Default,,0000,0000,0000,,Chopper-{\i1}san{\i0}, well done!
+Dialogue: 0,0:12:08.93,0:12:11.04,Default,,0000,0000,0000,,It's filled with cream in there, too!
+Dialogue: 0,0:12:11.21,0:12:12.79,Default,,0000,0000,0000,,I'm gonna eat it all!
+Dialogue: 0,0:12:14.38,0:12:16.92,Default,,0000,0000,0000,,Cake!
+Dialogue: 0,0:12:19.84,0:12:21.13,Default,,0000,0000,0000,,Don't stop!
+Dialogue: 0,0:12:22.22,0:12:24.76,Default,,0000,0000,0000,,--It's strange...\N--What's wrong?
+Dialogue: 0,0:12:27.39,0:12:31.48,Default,,0000,0000,0000,,I haven't seen Mama's children\Nwho were with her a while ago...
+Dialogue: 0,0:12:32.23,0:12:33.35,Default,,0000,0000,0000,,Don't tell me...!
+Dialogue: 0,0:12:37.77,0:12:38.98,Default,,0000,0000,0000,,Are they...?!
+Dialogue: 0,0:12:39.00,0:12:40.34,On Top,,0000,0000,0000,,MOBILE
+Dialogue: 0,0:12:40.51,0:12:41.84,On Top,,0000,0000,0000,,KATO
+Dialogue: 0,0:12:42.01,0:12:44.09,On Top,,0000,0000,0000,,COMPO
+Dialogue: 0,0:12:42.11,0:12:44.24,DefaultLow,,0000,0000,0000,,Be prepared, Straw Hats!
+Dialogue: 0,0:12:44.26,0:12:45.84,On Top,,0000,0000,0000,,LAURIN
+Dialogue: 0,0:12:44.36,0:12:46.31,DefaultLow,,0000,0000,0000,,This Seducing Woods will be...
+Dialogue: 0,0:12:46.01,0:12:48.10,On Top,,0000,0000,0000,,TABLET
+Dialogue: 0,0:12:46.31,0:12:48.24,DefaultLow,,0000,0000,0000,,Your graveyard!
+Dialogue: 0,0:12:48.26,0:12:49.85,On Top,,0000,0000,0000,,HIGH-FAT
+Dialogue: 0,0:12:48.37,0:12:49.95,DefaultLow,,0000,0000,0000,,Drop dead!
+Dialogue: 0,0:12:50.12,0:12:52.16,Default,,0000,0000,0000,,What?! I can't believe they got ahead of us!
+Dialogue: 0,0:12:52.33,0:12:55.21,Default,,0000,0000,0000,,The Homies must've shifted the landscape!
+Dialogue: 0,0:13:07.97,0:13:09.30,Default,,0000,0000,0000,,We're closed in from both sides...
+Dialogue: 0,0:13:09.47,0:13:12.22,Default,,0000,0000,0000,,Then, there's only one thing to do!
+Dialogue: 0,0:13:12.22,0:13:14.97,Default,,0000,0000,0000,,Yeah, let's kick their asses!
+Dialogue: 0,0:13:34.33,0:13:36.78,Default,,0000,0000,0000,,We managed to make it to the sea.
+Dialogue: 0,0:13:41.34,0:13:44.90,Default,,0000,0000,0000,,All we have to do now is get to the Sunny.
+Dialogue: 0,0:13:47.97,0:13:51.43,Default,,0000,0000,0000,,It's so sweet - I'm very happy!
+Dialogue: 0,0:13:51.60,0:13:54.64,Default,,0000,0000,0000,,What? I don't like it.\NIt's sticky all over...
+Dialogue: 0,0:13:55.48,0:13:58.00,Default,,0000,0000,0000,,See? The helm is slippery...
+Dialogue: 0,0:13:58.44,0:14:02.30,Default,,0000,0000,0000,,Watch out! Move out of my way, Fish-{\i1}san{\i0}!
+Dialogue: 0,0:14:06.07,0:14:08.66,Default,,0000,0000,0000,,Brook! Isn't that a mermaid?!
+Dialogue: 0,0:14:08.82,0:14:11.20,Default,,0000,0000,0000,,What?! Mermaid-{\i1}san{\i0}?!
+Dialogue: 0,0:14:11.37,0:14:12.66,Default,,0000,0000,0000,,I mean, a merman!
+Dialogue: 0,0:14:13.49,0:14:14.50,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:14:17.00,0:14:19.75,Default,,0000,0000,0000,,What is he doing? Fishing, maybe?
+Dialogue: 0,0:14:21.00,0:14:24.21,Default,,0000,0000,0000,,I don't care anymore...
+Dialogue: 0,0:14:24.38,0:14:26.39,Default,,0000,0000,0000,,Let's get closer!
+Dialogue: 0,0:14:26.39,0:14:27.77,Default,,0000,0000,0000,,I'm not interested...
+Dialogue: 0,0:14:28.23,0:14:29.84,Default,,0000,0000,0000,,What? Brook!
+Dialogue: 0,0:14:30.01,0:14:30.85,Default,,0000,0000,0000,,Forget it.
+Dialogue: 0,0:14:31.50,0:14:32.55,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:14:32.72,0:14:34.06,Default,,0000,0000,0000,,Boy! What do you want?!
+Dialogue: 0,0:14:42.40,0:14:44.31,Default,,0000,0000,0000,,Get away!
+Dialogue: 0,0:14:48.57,0:14:51.70,Default,,0000,0000,0000,,Go away! No, my hands are slipping!
+Dialogue: 0,0:15:06.51,0:15:10.68,Default,,0000,0000,0000,,You're Pedro, aren't you?\NI saw you five years ago, too...
+Dialogue: 0,0:15:18.89,0:15:20.14,Default,,0000,0000,0000,,Oopsy!
+Dialogue: 0,0:15:33.53,0:15:34.83,Default,,0000,0000,0000,,You silly rabbit!
+Dialogue: 0,0:15:38.16,0:15:40.29,Default,,0000,0000,0000,,Garchu!
+Dialogue: 0,0:15:41.75,0:15:43.79,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:15:48.17,0:15:49.72,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:15:50.17,0:15:51.51,Default,,0000,0000,0000,,Big Bro Tablet!
+Dialogue: 0,0:15:51.59,0:15:53.39,Default,,0000,0000,0000,,You'd better pay attention!
+Dialogue: 0,0:15:59.98,0:16:01.94,Default,,0000,0000,0000,,Diable Jambe!
+Dialogue: 0,0:16:07.78,0:16:11.03,Default,,0000,0000,0000,,Flambage Shot!
+Dialogue: 0,0:16:20.91,0:16:23.46,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:16:28.38,0:16:31.55,Default,,0000,0000,0000,,...Eagle Bazooka!
+Dialogue: 0,0:16:42.18,0:16:44.31,Default,,0000,0000,0000,,Shark Brick Fist!
+Dialogue: 0,0:16:50.32,0:16:51.99,Default,,0000,0000,0000,,Thanks, Jimbei!
+Dialogue: 0,0:16:52.15,0:16:55.91,Default,,0000,0000,0000,,Don't mention it! Keep luring Zeus!
+Dialogue: 0,0:16:56.07,0:16:56.71,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:16:58.03,0:16:59.58,Default,,0000,0000,0000,,It's you again...
+Dialogue: 0,0:17:00.04,0:17:01.79,Default,,0000,0000,0000,,So persistent...
+Dialogue: 0,0:17:03.77,0:17:05.04,Default,,0000,0000,0000,,It's not over yet!
+Dialogue: 0,0:17:28.61,0:17:33.03,Default,,0000,0000,0000,,That idiot who lost his life\Nby the deadly roulette that day...
+Dialogue: 0,0:17:35.28,0:17:37.12,Default,,0000,0000,0000,,Was his name Zepo?
+Dialogue: 0,0:17:38.24,0:17:40.78,Default,,0000,0000,0000,,I'll let you see him in hell now!
+Dialogue: 0,0:17:41.08,0:17:42.66,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:18:00.30,0:18:01.60,Default,,0000,0000,0000,,You-{\i1}gara{\i0}...
+Dialogue: 0,0:18:02.39,0:18:06.22,Default,,0000,0000,0000,,...have no right to call \Nmy partner an "idiot"!
+Dialogue: 0,0:18:15.57,0:18:18.28,Default,,0000,0000,0000,,Hey, everyone! Don't get separated!
+Dialogue: 0,0:18:18.68,0:18:19.78,Default,,0000,0000,0000,,Or we'll never see each other again!
+Dialogue: 0,0:18:20.53,0:18:21.34,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:18:22.87,0:18:23.87,Default,,0000,0000,0000,,--Yeah!\N--Okay!
+Dialogue: 0,0:18:24.12,0:18:25.95,Default,,0000,0000,0000,,Luffy, stop Carrot!
+Dialogue: 0,0:18:26.33,0:18:26.83,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:18:38.63,0:18:40.22,Default,,0000,0000,0000,,Is everyone okay?
+Dialogue: 0,0:18:40.39,0:18:41.39,Default,,0000,0000,0000,,Seems like it!
+Dialogue: 0,0:18:41.55,0:18:45.12,Default,,0000,0000,0000,,Cake!
+Dialogue: 0,0:18:45.85,0:18:48.10,Default,,0000,0000,0000,,You rats!
+Dialogue: 0,0:18:49.02,0:18:51.11,Default,,0000,0000,0000,,The Sun guy is back!
+Dialogue: 0,0:18:51.27,0:18:52.86,Default,,0000,0000,0000,,Go deep into the forest!
+Dialogue: 0,0:18:53.02,0:18:57.57,Default,,0000,0000,0000,,But if we just run without a plan,\Nthey might get ahead of us again!
+Dialogue: 0,0:18:57.78,0:18:59.23,Default,,0000,0000,0000,,You're right...
+Dialogue: 0,0:19:01.16,0:19:03.45,Default,,0000,0000,0000,,Oh, I have an idea!
+Dialogue: 0,0:19:03.58,0:19:08.37,Default,,0000,0000,0000,,Listen! I'll jump up and tell you\Nthe direction of the ship!
+Dialogue: 0,0:19:08.61,0:19:12.42,Default,,0000,0000,0000,,That way, even if they change the landscape,\Nwe'll be fine, right?
+Dialogue: 0,0:19:12.58,0:19:13.96,Default,,0000,0000,0000,,Yeah, you're right!
+Dialogue: 0,0:19:14.13,0:19:15.46,Default,,0000,0000,0000,,Okay, I'm going!
+Dialogue: 0,0:19:21.84,0:19:24.35,Default,,0000,0000,0000,,I won't let you do it!
+Dialogue: 0,0:19:25.60,0:19:27.43,Default,,0000,0000,0000,,Are you okay, Carrot-{\i1}chan{\i0}?
+Dialogue: 0,0:19:27.60,0:19:30.14,Default,,0000,0000,0000,,Uh-huh, I'm okay.
+Dialogue: 0,0:19:32.02,0:19:33.40,Default,,0000,0000,0000,,Seems like...
+Dialogue: 0,0:19:33.75,0:19:36.32,Default,,0000,0000,0000,,...it's not gonna be that easy.
+Dialogue: 0,0:19:38.03,0:19:39.53,Default,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:19:39.70,0:19:43.12,Default,,0000,0000,0000,,--Pedro, will you be okay?\N--Who do you think I am?
+Dialogue: 0,0:19:50.62,0:19:51.75,Default,,0000,0000,0000,,Awesome!
+Dialogue: 0,0:19:52.25,0:19:53.32,Default,,0000,0000,0000,,Beast Sword!
+Dialogue: 0,0:19:53.88,0:19:55.04,Default,,0000,0000,0000,,Karajishi!
+Dialogue: 0,0:20:07.56,0:20:08.71,Default,,0000,0000,0000,,There it is!
+Dialogue: 0,0:20:10.31,0:20:11.27,Default,,0000,0000,0000,,It's that way!
+Dialogue: 0,0:20:12.73,0:20:13.65,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:13.81,0:20:15.19,Default,,0000,0000,0000,,That's our Pedro!
+Dialogue: 0,0:20:15.36,0:20:17.23,Default,,0000,0000,0000,,I'll guide you from above!
+Dialogue: 0,0:20:17.40,0:20:19.74,Default,,0000,0000,0000,,--Okay, let's go!\N--Yeah!
+Dialogue: 0,0:20:20.07,0:20:22.20,Default,,0000,0000,0000,,I won't let you get away!
+Dialogue: 0,0:20:23.95,0:20:25.03,Default,,0000,0000,0000,,Duck!
+Dialogue: 0,0:20:42.30,0:20:44.18,Default,,0000,0000,0000,,Take this!
+Dialogue: 0,0:20:44.34,0:20:45.34,Default,,0000,0000,0000,,Watch out!
+Dialogue: 0,0:20:48.35,0:20:49.32,Default,,0000,0000,0000,,You...!
+Dialogue: 0,0:21:01.19,0:21:03.99,Default,,0000,0000,0000,,Cake!
+Dialogue: 0,0:21:06.57,0:21:08.03,Default,,0000,0000,0000,,Is this it?
+Dialogue: 0,0:21:08.20,0:21:09.79,Default,,0000,0000,0000,,I'll have it!
+Dialogue: 0,0:21:09.95,0:21:10.87,Default,,0000,0000,0000,,Zeus!
+Dialogue: 0,0:21:11.04,0:21:13.44,Default,,0000,0000,0000,,It's a delicious cloud!
+Dialogue: 0,0:21:18.17,0:21:19.09,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:21:19.25,0:21:20.59,Default,,0000,0000,0000,,Is that...
+Dialogue: 0,0:21:21.05,0:21:22.46,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:21:24.43,0:21:27.55,Default,,0000,0000,0000,,So delicious!
+Dialogue: 0,0:21:33.81,0:21:37.10,Default,,0000,0000,0000,,My Weather Egg is inside of Zeus...!
+Dialogue: 0,0:21:37.27,0:21:40.40,Default,,0000,0000,0000,,What is he doing?!
+Dialogue: 0,0:21:41.40,0:21:43.07,Default,,0000,0000,0000,,Hey, Zeus!
+Dialogue: 0,0:21:45.40,0:21:47.99,Default,,0000,0000,0000,,Sanji-{\i1}kun{\i0}! Carry me and run!
+Dialogue: 0,0:21:48.16,0:21:49.70,Default,,0000,0000,0000,,Okay, Nami-{\i1}san{\i0}!
+Dialogue: 0,0:21:49.87,0:21:52.95,Default,,0000,0000,0000,,Everyone, run as far as you can, too!
+Dialogue: 0,0:21:52.95,0:21:53.80,Default,,0000,0000,0000,,--Yeah!\N--Okay!
+Dialogue: 0,0:21:55.84,0:21:57.50,Default,,0000,0000,0000,,Do you have a plan?
+Dialogue: 0,0:21:57.67,0:21:58.41,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:22:00.00,0:22:02.25,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:22:02.63,0:22:05.38,Default,,0000,0000,0000,,I'm counting on you, Zeus!
+Dialogue: 0,0:22:27.34,0:22:29.62,Default,,0000,0000,0000,,Zeus Breeze...
+Dialogue: 0,0:22:35.83,0:22:37.08,Default,,0000,0000,0000,,What the?!
+Dialogue: 0,0:22:42.50,0:22:44.00,Default,,0000,0000,0000,,...Tempo!
+Dialogue: 0,0:23:24.75,0:23:26.88,Default,,0000,0000,0000,,{\i1}Big Mom's attacks stop!
+Dialogue: 0,0:23:27.38,0:23:31.72,Italics,,0000,0000,0000,,However, from deep in the dark \Nunderground, a creepy voice echoes!{\i0}
+Dialogue: 0,0:23:32.22,0:23:35.31,Italics,,0000,0000,0000,,{\i1}Meanwhile, Pudding shows a new side!{\i0}
+Dialogue: 0,0:23:35.35,0:23:40.87,Italics,,0000,0000,0000,,{\i1}She lets her girly mind go crazy\Nand shares with Sanji a plan to work miracles!{\i0}
+Dialogue: 0,0:23:40.85,0:23:42.35,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:42.35,0:23:46.11,Default,,0000,0000,0000,,"A Coincidental Reunion! Sanji \Nand the Lovestruck Evil Pudding!"
+Dialogue: 0,0:23:46.11,0:23:48.15,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:48.84,0:23:50.84,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:50.84,0:23:52.84,On Top,,0000,0000,0000,,
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.01,0:00:20.52,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:00:17.01,0:00:20.52,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,Default,,0000,0000,0000,,{\i1}The joy of letting our true \Nfeelings fly at each other{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,On Top,,0000,0000,0000,,{\i1}kimi to honki de kokoro \Nbutsukeatta yorokobi mo{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,Default,,0000,0000,0000,,{\i1}The pain from how we laughed \Nour heads off to dry our tears{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,On Top,,0000,0000,0000,,{\i1}warai korogete namida \Nkawakashita setsunasa mo{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,Default,,0000,0000,0000,,{\i1}We connect them together and in the wind Ah{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,On Top,,0000,0000,0000,,{\i1}tsunagi awasete kaze no naka Ah{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,Default,,0000,0000,0000,,{\i1}It's fluttering higher and higher{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,On Top,,0000,0000,0000,,{\i1}hatameiteiru yo takaku takaku{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,Default,,0000,0000,0000,,{\i1}Why did you give up on your search?{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,On Top,,0000,0000,0000,,{\i1}Why sagasu koto wo akirameta no{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,Default,,0000,0000,0000,,{\i1}Why do you keep fighting by yourself?{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,On Top,,0000,0000,0000,,{\i1}Why hitori tatakai tsudukeru no{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,Default,,0000,0000,0000,,{\i1}Say, what kind of future did you prepare for?{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,On Top,,0000,0000,0000,,{\i1}nee, donna mirai kakugo shita no{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,Default,,0000,0000,0000,,{\i1}Have you fulfilled your dream?{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,On Top,,0000,0000,0000,,{\i1}yume wa mou te ni shita no{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,Default,,0000,0000,0000,,{\i1}There is a place that I want to go with you{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,On Top,,0000,0000,0000,,{\i1}kimi to mezashitai basho ga aru{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,Default,,0000,0000,0000,,{\i1}The sea route that we take{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,On Top,,0000,0000,0000,,{\i1}susumiyuku kouro nara{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,On Top,,0000,0000,0000,,{\i1}tooi mukashi mou kimeteita{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,Default,,0000,0000,0000,,{\i1}Your voice that hasn't reached me yet{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,On Top,,0000,0000,0000,,{\i1}mada todokanai kimi no koe ga{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,Default,,0000,0000,0000,,{\i1}crushes my helpless heart{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,On Top,,0000,0000,0000,,{\i1}muryoku na mune wo oshitsubusu{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,Default,,0000,0000,0000,,{\i1}I'm wanting you{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,On Top,,0000,0000,0000,,{\i1}boku wa kimi wo motometeiru kara{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,Default,,0000,0000,0000,,{\i1}so I'll keep believing in the \Nmorning when the light comes in{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,On Top,,0000,0000,0000,,{\i1}hikari sashikomu asa wo shinjite iyou{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,Default,,0000,0000,0000,,{\i1}Close your eyes and listen carefully{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,On Top,,0000,0000,0000,,{\i1}me wo tojite mimi wo sumashite{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,Default,,0000,0000,0000,,{\i1}Let's look for your answer{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,On Top,,0000,0000,0000,,{\i1}sagashi dasou kimi no kotae wo{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,Default,,0000,0000,0000,,{\i1}The road always continues towards \Nthe sea that you've never seen{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,On Top,,0000,0000,0000,,{\i1}michi wa kanarazu tsuduiteiru \Nyo mada mitakoto no nai umi e{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,Default,,0000,0000,0000,,{\i1}There is a place I have to return to with you{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,On Top,,0000,0000,0000,,{\i1}kimi to kaeru beki basho ga aru{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,Default,,0000,0000,0000,,{\i1}We will be forever{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,On Top,,0000,0000,0000,,{\i1}boku tachi wa eien ni{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,On Top,,0000,0000,0000,,{\i1}tooi mukashi sou kimeteita{\i0}
+Dialogue: 0,0:02:48.58,0:02:50.88,Italics,,0000,0000,0000,,{\i1}After failing to kill Big Mom,
+Dialogue: 0,0:02:50.88,0:02:53.98,Italics,,0000,0000,0000,,Luffy and his allies escaped \Nfrom the Whole Cake Chateau{\i0}
+Dialogue: 0,0:02:53.98,0:02:56.82,Italics,,0000,0000,0000,,{\i1}and continue heading towards the Sunny.{\i0}
+Dialogue: 0,0:02:58.76,0:03:01.06,Default,,0000,0000,0000,,Wedding...
+Dialogue: 0,0:03:01.84,0:03:05.10,Default,,0000,0000,0000,,...cake!!
+Dialogue: 0,0:03:05.26,0:03:09.81,Default,,0000,0000,0000,,Maybe because she didn't get to eat\Nthe cake at the wedding!
+Dialogue: 0,0:03:10.27,0:03:15.50,Default,,0000,0000,0000,,{\i1}Luffy and the others were running desperately\Nwhile shaking off attacks from the family...{\i0}
+Dialogue: 0,0:03:18.28,0:03:20.65,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:03:25.53,0:03:28.03,Default,,0000,0000,0000,,...Eagle Bazooka!
+Dialogue: 0,0:03:29.75,0:03:32.00,Default,,0000,0000,0000,,Diable Jambe!
+Dialogue: 0,0:03:35.48,0:03:38.00,Default,,0000,0000,0000,,Flambage Shot!
+Dialogue: 0,0:03:39.73,0:03:42.76,Default,,0000,0000,0000,,{\i1}But they suffered even more onslaughts\Nfrom Big Mom.{\i0}
+Dialogue: 0,0:03:43.19,0:03:44.11,Default,,0000,0000,0000,,Duck!
+Dialogue: 0,0:03:55.65,0:04:00.30,Default,,0000,0000,0000,,{\i1}"A Coincidental Reunion!\NSanji and the Lovestruck Evil Pudding!"{\i0}
+Dialogue: 0,0:04:08.94,0:04:10.40,Default,,0000,0000,0000,,We're almost there.
+Dialogue: 0,0:04:10.40,0:04:11.91,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:04:18.68,0:04:19.69,Default,,0000,0000,0000,,There it is!
+Dialogue: 0,0:04:20.90,0:04:22.11,Default,,0000,0000,0000,,It's the Sunny!
+Dialogue: 0,0:04:22.26,0:04:24.86,Default,,0000,0000,0000,,I'm glad that it's safe!
+Dialogue: 0,0:04:27.98,0:04:30.83,Default,,0000,0000,0000,,Luffy and the others are already there,\Nit seems!
+Dialogue: 0,0:04:31.60,0:04:32.58,Default,,0000,0000,0000,,Let's hurry up!
+Dialogue: 0,0:04:44.22,0:04:46.26,Default,,0000,0000,0000,,Hey, guys!
+Dialogue: 0,0:04:46.43,0:04:49.57,Default,,0000,0000,0000,,Sorry to keep you waiting!
+Dialogue: 0,0:05:04.07,0:05:05.78,Default,,0000,0000,0000,,Why are they...
+Dialogue: 0,0:05:05.95,0:05:08.37,Default,,0000,0000,0000,,...On board our Sunny?
+Dialogue: 0,0:05:08.74,0:05:14.29,Default,,0000,0000,0000,,I'm sorry. Your friends aren't here. Lick!
+Dialogue: 0,0:05:23.13,0:05:25.24,Default,,0000,0000,0000,,Zeus Breeze...
+Dialogue: 0,0:05:28.93,0:05:30.39,Default,,0000,0000,0000,,...Tempo!
+Dialogue: 0,0:06:04.25,0:06:07.05,Default,,0000,0000,0000,,Don't tell me Luffy and the others are...
+Dialogue: 0,0:06:10.97,0:06:11.84,Default,,0000,0000,0000,,Is that...
+Dialogue: 0,0:06:12.47,0:06:18.23,Default,,0000,0000,0000,,Seems like Mama finished them off with Zeus.\NMama'll be here.
+Dialogue: 0,0:06:18.53,0:06:19.85,Default,,0000,0000,0000,,Lick!
+Dialogue: 0,0:06:21.28,0:06:23.23,Default,,0000,0000,0000,,The Straw Hat and his allies are dead.
+Dialogue: 0,0:06:23.96,0:06:30.61,Default,,0000,0000,0000,,Now if we can lead Mama to Pudding\Nand let her eat the cake, everything'll be okay.
+Dialogue: 0,0:06:32.03,0:06:33.83,Default,,0000,0000,0000,,Things are going smoothly.
+Dialogue: 0,0:06:41.88,0:06:45.59,Default,,0000,0000,0000,,He's saying such a thing but\Nthey'll be fine, right?
+Dialogue: 0,0:06:45.59,0:06:47.92,Default,,0000,0000,0000,,Yeah, I'm sure they will!
+Dialogue: 0,0:06:49.97,0:06:53.68,Default,,0000,0000,0000,,Lick! I guess your friends are dead...
+Dialogue: 0,0:06:53.85,0:06:57.22,Default,,0000,0000,0000,,That's never the case\Nfor Luffy-{\i1}san{\i0} and the others!
+Dialogue: 0,0:06:57.39,0:06:59.85,Default,,0000,0000,0000,,That's right! They'll be back!
+Dialogue: 0,0:07:00.05,0:07:03.09,Default,,0000,0000,0000,,And what are you two gonna do?
+Dialogue: 0,0:07:03.54,0:07:09.03,Default,,0000,0000,0000,,Even if you can take back the ship at the risk of your lives,\Nno one'll return.
+Dialogue: 0,0:07:12.32,0:07:18.79,Default,,0000,0000,0000,,If you wanna get out of here on that submarine,\NI don't mind letting you go, if it's just the two of you.
+Dialogue: 0,0:07:24.75,0:07:27.80,Default,,0000,0000,0000,,Oh, we appreciate your concern.
+Dialogue: 0,0:07:32.22,0:07:33.18,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:07:35.97,0:07:37.35,Default,,0000,0000,0000,,...no thanks.
+Dialogue: 0,0:07:41.23,0:07:43.02,Default,,0000,0000,0000,,Kung Fu Point!
+Dialogue: 0,0:07:44.98,0:07:48.23,Default,,0000,0000,0000,,Get off of the ship, you bastards!\NIt's our Sunny!
+Dialogue: 0,0:07:51.45,0:07:52.99,Default,,0000,0000,0000,,Do you want to fight?
+Dialogue: 0,0:07:53.23,0:07:54.74,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:07:57.41,0:07:59.66,Default,,0000,0000,0000,,We'll save the Sunny!
+Dialogue: 0,0:07:59.89,0:08:03.50,Default,,0000,0000,0000,,I guess you want to die. Lick!
+Dialogue: 0,0:08:15.72,0:08:19.39,Default,,0000,0000,0000,,Let's get started! A fully-standing show!
+Dialogue: 0,0:08:19.39,0:08:20.29,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:08:28.10,0:08:29.78,Default,,0000,0000,0000,,That was so powerful!
+Dialogue: 0,0:08:29.78,0:08:33.41,Default,,0000,0000,0000,,My Climate Baton can't generate\Nsuch strong lightning!
+Dialogue: 0,0:08:33.41,0:08:35.24,Default,,0000,0000,0000,,With that much power...
+Dialogue: 0,0:08:39.34,0:08:41.83,Default,,0000,0000,0000,,--Where's Big Mom?\N--She must've been hit directly!
+Dialogue: 0,0:08:41.83,0:08:44.75,Default,,0000,0000,0000,,She's probably in that giant hole!
+Dialogue: 0,0:08:44.92,0:08:47.46,Default,,0000,0000,0000,,Did we happen to take down Big Mom?!
+Dialogue: 0,0:09:01.18,0:09:01.85,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:09:05.81,0:09:08.10,Default,,0000,0000,0000,,Where's this sound coming from?
+Dialogue: 0,0:09:20.78,0:09:23.25,Default,,0000,0000,0000,,Wedding...!
+Dialogue: 0,0:09:23.42,0:09:24.79,Default,,0000,0000,0000,,Big Mom's voice?!
+Dialogue: 0,0:09:25.29,0:09:26.83,Default,,0000,0000,0000,,I thought so...
+Dialogue: 0,0:09:27.00,0:09:29.01,Default,,0000,0000,0000,,Cake!
+Dialogue: 0,0:09:29.46,0:09:30.89,Default,,0000,0000,0000,,Is she alive?!
+Dialogue: 0,0:09:34.21,0:09:37.86,Default,,0000,0000,0000,,She's not someone who'll get beaten\Nthat easily...
+Dialogue: 0,0:09:40.43,0:09:41.51,Default,,0000,0000,0000,,She's climbing up!
+Dialogue: 0,0:09:47.35,0:09:49.37,Default,,0000,0000,0000,,Is the hole too deep for her to climb out?
+Dialogue: 0,0:09:49.98,0:09:51.94,Default,,0000,0000,0000,,Let's run while she's at it!
+Dialogue: 0,0:09:51.94,0:09:55.28,Default,,0000,0000,0000,,Yeah. While Big Mom can't move!
+Dialogue: 0,0:09:58.32,0:10:00.99,Default,,0000,0000,0000,,No, she's already on her way...
+Dialogue: 0,0:10:03.62,0:10:05.45,Default,,0000,0000,0000,,--The ground is...\N--No way!
+Dialogue: 0,0:10:15.51,0:10:19.97,Default,,0000,0000,0000,,There's no stopping for Big Mom\Nwhen she has a Hunger Pangs attack!
+Dialogue: 0,0:10:20.14,0:10:23.29,Default,,0000,0000,0000,,Wedding...
+Dialogue: 0,0:10:23.29,0:10:25.90,Default,,0000,0000,0000,,...cake!
+Dialogue: 0,0:10:27.48,0:10:28.73,Default,,0000,0000,0000,,Oh no! Run!
+Dialogue: 0,0:10:29.60,0:10:33.73,Default,,0000,0000,0000,,Wedding...
+Dialogue: 0,0:10:33.90,0:10:36.36,Default,,0000,0000,0000,,No... The ground's gonna crack open!
+Dialogue: 0,0:10:38.78,0:10:39.74,Default,,0000,0000,0000,,Here she comes!
+Dialogue: 0,0:10:44.74,0:10:46.66,Default,,0000,0000,0000,,Run!
+Dialogue: 0,0:10:48.29,0:10:51.05,Default,,0000,0000,0000,,B-Bring...
+Dialogue: 0,0:10:51.60,0:10:54.88,Default,,0000,0000,0000,,...the cake!
+Dialogue: 0,0:11:12.69,0:11:14.61,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:11:32.29,0:11:34.29,Default,,0000,0000,0000,,Okay, baby?
+Dialogue: 0,0:11:49.73,0:11:50.68,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:11:50.85,0:11:53.35,Default,,0000,0000,0000,,For now, I want you to call me...
+Dialogue: 0,0:11:54.02,0:11:56.87,Default,,0000,0000,0000,,...Soul King!
+Dialogue: 0,0:12:06.66,0:12:12.29,Default,,0000,0000,0000,,This is the real scream of my soul!
+Dialogue: 0,0:12:12.46,0:12:15.00,Default,,0000,0000,0000,,Soul King!
+Dialogue: 0,0:12:16.63,0:12:19.15,Default,,0000,0000,0000,,A skeleton with a strange skill, huh?
+Dialogue: 0,0:12:31.27,0:12:36.15,Default,,0000,0000,0000,,How long are you gonna keep fighting?\NYour friends have already died.
+Dialogue: 0,0:12:36.15,0:12:40.11,Default,,0000,0000,0000,,Of course, I'll keep fighting\Nuntil I get the ship back...
+Dialogue: 0,0:12:40.60,0:12:45.91,Default,,0000,0000,0000,,Otherwise, I'll have no words of apology\Nto my friends when they get here!
+Dialogue: 0,0:12:46.64,0:12:47.95,Default,,0000,0000,0000,,What a waste of energy!
+Dialogue: 0,0:12:50.58,0:12:51.78,Default,,0000,0000,0000,,Soul...
+Dialogue: 0,0:12:53.12,0:12:54.45,Default,,0000,0000,0000,,...Parade!
+Dialogue: 0,0:12:57.54,0:12:59.17,Default,,0000,0000,0000,,I've been frozen?!
+Dialogue: 0,0:13:05.13,0:13:06.73,Default,,0000,0000,0000,,Ice Burn!
+Dialogue: 0,0:13:39.50,0:13:41.17,Default,,0000,0000,0000,,How can you keep standing on ice?!
+Dialogue: 0,0:13:43.67,0:13:45.01,Default,,0000,0000,0000,,I'm a...
+Dialogue: 0,0:13:45.97,0:13:47.38,Default,,0000,0000,0000,,...reindeer!
+Dialogue: 0,0:13:47.55,0:13:49.64,Default,,0000,0000,0000,,I thought you were a raccoon dog!
+Dialogue: 0,0:13:49.64,0:13:50.60,Default,,0000,0000,0000,,No, I'm not!
+Dialogue: 0,0:13:59.73,0:14:00.81,Default,,0000,0000,0000,,Good job!
+Dialogue: 0,0:14:01.25,0:14:02.73,Default,,0000,0000,0000,,Thanks to you!
+Dialogue: 0,0:14:11.91,0:14:14.43,Default,,0000,0000,0000,,The forest is... What happened?!
+Dialogue: 0,0:14:14.43,0:14:16.08,Default,,0000,0000,0000,,Is everyone okay?!
+Dialogue: 0,0:14:16.08,0:14:17.88,Default,,0000,0000,0000,,Rabian, go faster!
+Dialogue: 0,0:14:17.88,0:14:19.13,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:14:23.75,0:14:26.42,Default,,0000,0000,0000,,I'm sorry, Big Sis, for asking this...
+Dialogue: 0,0:14:26.59,0:14:31.42,Default,,0000,0000,0000,,That's okay! It's been a long time\Nsince we made a cake together!
+Dialogue: 0,0:14:33.22,0:14:34.24,Default,,0000,0000,0000,,On top of that...
+Dialogue: 0,0:14:39.06,0:14:41.44,Default,,0000,0000,0000,,You're going?! Are you kidding?!
+Dialogue: 0,0:14:41.44,0:14:47.40,Default,,0000,0000,0000,,Bege! Didn't I tell you?!\NThe Straw Hats saved my young sister, Lola's life!
+Dialogue: 0,0:14:47.57,0:14:50.74,Default,,0000,0000,0000,,But, Chiffon, it's dangerous! I'm worried!
+Dialogue: 0,0:14:50.91,0:14:53.79,Default,,0000,0000,0000,,He's right-{\i1}rero{\i0}!\NYou must escape with us-{\i1}rero{\i0}!
+Dialogue: 0,0:14:54.49,0:14:56.29,Default,,0000,0000,0000,,Oh, I'm sorry. That was too loud...
+Dialogue: 0,0:14:56.46,0:14:58.62,Default,,0000,0000,0000,,We can't leave without you, Ma'am!
+Dialogue: 0,0:14:59.16,0:15:00.67,Default,,0000,0000,0000,,Come back, Chiffon!
+Dialogue: 0,0:15:00.91,0:15:04.34,Default,,0000,0000,0000,,Dangerous?! Yes, I'm fully aware of it!
+Dialogue: 0,0:15:07.42,0:15:12.36,Default,,0000,0000,0000,,"Thank you for saving Lola."\NIt's so easy to just say the words!
+Dialogue: 0,0:15:12.66,0:15:17.43,Default,,0000,0000,0000,,Whether you really mean it or not will be proven\Nwhen the person you're indebted to is in trouble!
+Dialogue: 0,0:15:18.31,0:15:19.76,Default,,0000,0000,0000,,You're right, but...
+Dialogue: 0,0:15:20.81,0:15:25.64,Default,,0000,0000,0000,,That's how you do your duty,\Nright, darling?
+Dialogue: 0,0:15:28.24,0:15:30.07,Default,,0000,0000,0000,,If something happens to me,
+Dialogue: 0,0:15:33.32,0:15:34.60,Default,,0000,0000,0000,,please take care of...
+Dialogue: 0,0:15:35.43,0:15:36.54,Default,,0000,0000,0000,,...Pez for me!
+Dialogue: 0,0:15:43.04,0:15:44.92,Default,,0000,0000,0000,,Chiffon!
+Dialogue: 0,0:15:45.75,0:15:48.17,Default,,0000,0000,0000,,Ma'am!
+Dialogue: 0,0:15:54.51,0:15:58.61,Default,,0000,0000,0000,,I have to save Nami and the others\Nand return to my family!
+Dialogue: 0,0:15:59.11,0:16:00.87,Default,,0000,0000,0000,,Big Sis! There he is!
+Dialogue: 0,0:16:02.56,0:16:05.28,Default,,0000,0000,0000,,Pudding? Were you listening?
+Dialogue: 0,0:16:05.28,0:16:07.69,Default,,0000,0000,0000,,S... Sanji-{\i1}san{\i0} is...
+Dialogue: 0,0:16:10.07,0:16:11.22,Default,,0000,0000,0000,,S... S...
+Dialogue: 0,0:16:12.07,0:16:13.19,Default,,0000,0000,0000,,Sanji...
+Dialogue: 0,0:16:18.41,0:16:19.45,Default,,0000,0000,0000,,S...
+Dialogue: 0,0:16:20.12,0:16:20.91,Default,,0000,0000,0000,,S...
+Dialogue: 0,0:16:21.79,0:16:22.62,Default,,0000,0000,0000,,S...
+Dialogue: 0,0:16:23.96,0:16:26.13,Default,,0000,0000,0000,,Sanji's there! That fool!
+Dialogue: 0,0:16:26.13,0:16:27.18,Default,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:16:29.84,0:16:32.72,Default,,0000,0000,0000,,I know you guys have it!
+Dialogue: 0,0:16:34.55,0:16:37.97,Default,,0000,0000,0000,,Straw Hat!
+Dialogue: 0,0:16:39.43,0:16:40.72,Default,,0000,0000,0000,,She's coming up!
+Dialogue: 0,0:16:44.40,0:16:46.03,Default,,0000,0000,0000,,Can't we do something?!
+Dialogue: 0,0:16:46.03,0:16:48.57,Default,,0000,0000,0000,,It's no use! Just run!
+Dialogue: 0,0:16:52.40,0:16:56.12,Default,,0000,0000,0000,,Give it to me!
+Dialogue: 0,0:17:01.70,0:17:03.17,Default,,0000,0000,0000,,Straw Hats!
+Dialogue: 0,0:17:03.17,0:17:05.17,Default,,0000,0000,0000,,--What?\N--Pudding! Chiffon!
+Dialogue: 0,0:17:05.34,0:17:09.13,Default,,0000,0000,0000,,Oh, Pudding! What's wrong with you?!\NYou fooled us!
+Dialogue: 0,0:17:09.30,0:17:11.46,Default,,0000,0000,0000,,To stop Mama's Hunger Pangs attack...
+Dialogue: 0,0:17:11.63,0:17:15.13,Default,,0000,0000,0000,,See? We should've tied her up\Nin the first place!
+Dialogue: 0,0:17:15.30,0:17:16.76,Default,,0000,0000,0000,,To stop Mama's...
+Dialogue: 0,0:17:16.93,0:17:21.02,Default,,0000,0000,0000,,But why's Chiffon with her?!\NI thought she ran away with Bege's group!
+Dialogue: 0,0:17:21.19,0:17:22.60,Default,,0000,0000,0000,,--To stop...\N--Wanna fight?!
+Dialogue: 0,0:17:22.77,0:17:25.31,Default,,0000,0000,0000,,No, I don't! Listen to me!
+Dialogue: 0,0:17:25.80,0:17:27.77,Default,,0000,0000,0000,,Pudding-{\i1}chan{\i0}, you're okay!
+Dialogue: 0,0:17:28.86,0:17:32.48,Default,,0000,0000,0000,,I'm glad that your pretty self isn't hurt!
+Dialogue: 0,0:17:32.66,0:17:34.87,Default,,0000,0000,0000,,So lovely! So lovely!
+Dialogue: 0,0:17:34.87,0:17:35.82,Default,,0000,0000,0000,,Pudding, get it together!
+Dialogue: 0,0:17:41.16,0:17:42.75,Default,,0000,0000,0000,,Oh, no! Mama's coming!
+Dialogue: 0,0:17:43.15,0:17:43.95,Default,,0000,0000,0000,,Mama!
+Dialogue: 0,0:17:44.12,0:17:47.29,Default,,0000,0000,0000,,We have no time!\NPudding, get right to the point!
+Dialogue: 0,0:17:47.29,0:17:48.17,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:17:50.96,0:17:52.42,Default,,0000,0000,0000,,{\i1}Sanji-{\i0}san{\i1}...{\i0}
+Dialogue: 0,0:17:53.05,0:17:54.01,Default,,0000,0000,0000,,Pudding-{\i1}chan{\i0}...
+Dialogue: 0,0:17:55.55,0:17:59.61,Default,,0000,0000,0000,,{\i1}I'll save you at any price...{\i0}
+Dialogue: 0,0:18:00.85,0:18:01.81,Default,,0000,0000,0000,,{\i1}Price...{\i0}
+Dialogue: 0,0:18:04.60,0:18:05.52,Default,,0000,0000,0000,,P...
+Dialogue: 0,0:18:06.31,0:18:07.00,Default,,0000,0000,0000,,P...
+Dialogue: 0,0:18:08.27,0:18:09.02,Default,,0000,0000,0000,,P...
+Dialogue: 0,0:18:10.19,0:18:14.07,Default,,0000,0000,0000,,Pathetic! You fools!\NYou're not gonna make it!
+Dialogue: 0,0:18:15.36,0:18:17.22,Default,,0000,0000,0000,,Even if you escape by ship,
+Dialogue: 0,0:18:17.22,0:18:22.37,Default,,0000,0000,0000,,Mama will chase you to the farthest sea\Nand sink you to the ocean floor!
+Dialogue: 0,0:18:24.29,0:18:25.95,Default,,0000,0000,0000,,What did you say, you bastard?!
+Dialogue: 0,0:18:27.54,0:18:30.67,Default,,0000,0000,0000,,That is not it, Pudding!\NWhat are you talking about?!
+Dialogue: 0,0:18:30.67,0:18:34.17,Default,,0000,0000,0000,,You're right! You're right!\NWhat am I saying?!
+Dialogue: 0,0:18:34.34,0:18:35.44,Default,,0000,0000,0000,,Listen!
+Dialogue: 0,0:18:35.44,0:18:41.81,Default,,0000,0000,0000,,Mama believes that you guys stole the wedding cake\Nshe really wanted to eat!
+Dialogue: 0,0:18:41.81,0:18:45.27,Default,,0000,0000,0000,,What?! We don't have a cake!
+Dialogue: 0,0:18:45.44,0:18:52.27,Default,,0000,0000,0000,,I know! But right now, Mama would chase you\Neven across the water until she gets the cake!
+Dialogue: 0,0:18:52.44,0:18:56.13,Default,,0000,0000,0000,,That's right! So, Sanji! Come here!
+Dialogue: 0,0:18:56.13,0:19:01.89,Default,,0000,0000,0000,,Watch as your friends get killed by Mama\Nand go through hell!
+Dialogue: 0,0:19:06.91,0:19:10.04,Default,,0000,0000,0000,,That is not it!\NWhat are you talking about?!
+Dialogue: 0,0:19:10.04,0:19:12.42,Default,,0000,0000,0000,,You're right! I wanna disappear!
+Dialogue: 0,0:19:12.59,0:19:15.80,Default,,0000,0000,0000,,If that's what you came to say,\Ngo away, you fools!
+Dialogue: 0,0:19:15.97,0:19:17.96,Default,,0000,0000,0000,,Wait a minute! That wasn't it!
+Dialogue: 0,0:19:18.28,0:19:19.68,Default,,0000,0000,0000,,Black-Leg Sanji!
+Dialogue: 0,0:19:19.68,0:19:20.60,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:19:20.60,0:19:24.30,Default,,0000,0000,0000,,Pudding told me you're good at\Nmaking sweets, too!
+Dialogue: 0,0:19:24.48,0:19:27.73,Default,,0000,0000,0000,,Yeah, I'm excellent at any kind of cooking!
+Dialogue: 0,0:19:28.35,0:19:31.62,Default,,0000,0000,0000,,Okay! Then, help us bake the cake!
+Dialogue: 0,0:19:31.62,0:19:35.25,Default,,0000,0000,0000,,We'll make the cake which is the only thing\Nthat can stop Mama!
+Dialogue: 0,0:19:35.25,0:19:37.44,Default,,0000,0000,0000,,And we'll help you guys escape!
+Dialogue: 0,0:19:37.61,0:19:39.36,Default,,0000,0000,0000,,Chiffon! Why?!
+Dialogue: 0,0:19:39.53,0:19:44.78,Default,,0000,0000,0000,,I wanna pay my debt to you for saving Lola!\NAnd I'll risk my life to do it!
+Dialogue: 0,0:19:44.95,0:19:46.83,Default,,0000,0000,0000,,Thank you, Chiffon!
+Dialogue: 0,0:19:47.00,0:19:47.66,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:19:47.66,0:19:53.75,Default,,0000,0000,0000,,Hmph! Maybe that's how we end up!\NBut unlike my sister, I'm not doing it for you!
+Dialogue: 0,0:19:53.94,0:19:58.98,Default,,0000,0000,0000,,The cake that I was gonna bake for myself\Nhappened by chance to be the one Mama craves now!
+Dialogue: 0,0:19:58.98,0:20:03.30,Default,,0000,0000,0000,,A-A-And I just passed by here by coincidence!\NI didn't know you guys were here!
+Dialogue: 0,0:20:04.93,0:20:12.46,Default,,0000,0000,0000,,S-So it's not like I came all the way to stop her\Nbecause I didn't want you to die, Sanji...
+Dialogue: 0,0:20:13.69,0:20:14.86,Default,,0000,0000,0000,,...{\i1}san{\i0}!
+Dialogue: 0,0:20:19.19,0:20:21.65,Default,,0000,0000,0000,,{\i1}Her personality is like a roller coaster!{\i0}
+Dialogue: 0,0:20:21.82,0:20:25.82,Default,,0000,0000,0000,,I see! That's good!\NWhere can we bake the cake?!
+Dialogue: 0,0:20:26.00,0:20:26.69,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:27.83,0:20:29.24,Default,,0000,0000,0000,,Cho... Choco... Cho...
+Dialogue: 0,0:20:29.42,0:20:32.55,Default,,0000,0000,0000,,We have extra supplies of the ingredients\Nat Chocolat Town!
+Dialogue: 0,0:20:32.81,0:20:34.06,On Top,,0000,0000,0000,,WHOLE CAKE ISLAND
+Dialogue: 0,0:20:33.58,0:20:38.57,Default,,0000,0000,0000,,First, we'll go to Chocolat Town\Nand bake the cake as fast as we can!
+Dialogue: 0,0:20:34.48,0:20:43.11,On Top,,0000,0000,0000,,CHOCOLAT TOWN, CACAO ISLAND
+Dialogue: 0,0:20:39.05,0:20:43.22,Default,,0000,0000,0000,,Then, we'll carry it on a ship\Nand deliver it to you!
+Dialogue: 0,0:20:43.39,0:20:47.34,Default,,0000,0000,0000,,And we'll let Mama who comes after you\Neat the cake.
+Dialogue: 0,0:20:48.85,0:20:53.43,Default,,0000,0000,0000,,That way, we can distract her attention from you!\NSo hang in there until that time!
+Dialogue: 0,0:20:54.23,0:20:55.10,Default,,0000,0000,0000,,Is she coming?!
+Dialogue: 0,0:20:55.85,0:20:57.94,Default,,0000,0000,0000,,Wedding...
+Dialogue: 0,0:20:58.57,0:21:01.80,Default,,0000,0000,0000,,Once you sail out to sea,\Nyou'll have enemies in front of you, too!
+Dialogue: 0,0:21:02.26,0:21:05.11,Default,,0000,0000,0000,,But I believe you guys can endure it!
+Dialogue: 0,0:21:05.11,0:21:05.71,Default,,0000,0000,0000,,We will!
+Dialogue: 0,0:21:06.12,0:21:07.79,Default,,0000,0000,0000,,Then, I'll come with you!
+Dialogue: 0,0:21:07.79,0:21:09.99,Default,,0000,0000,0000,,--What?!\N--Yeah, hop on quickly!
+Dialogue: 0,0:21:10.16,0:21:15.13,Default,,0000,0000,0000,,W-W-Wait!\NWho said you can ride it, idiot?!
+Dialogue: 0,0:21:15.13,0:21:17.14,Default,,0000,0000,0000,,Th-There's no space!
+Dialogue: 0,0:21:18.50,0:21:20.38,Default,,0000,0000,0000,,Don't take my place!
+Dialogue: 0,0:21:20.59,0:21:23.25,Default,,0000,0000,0000,,Cake!
+Dialogue: 0,0:21:33.31,0:21:34.52,Default,,0000,0000,0000,,She surfaced!
+Dialogue: 0,0:21:37.10,0:21:42.32,Default,,0000,0000,0000,,The cake you guys will bake\Nis the only hope to stop Big Mom!
+Dialogue: 0,0:21:42.78,0:21:43.90,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:21:44.07,0:21:44.87,Default,,0000,0000,0000,,Guys!
+Dialogue: 0,0:21:45.65,0:21:48.56,Default,,0000,0000,0000,,I'm gonna leave you for now\Nbut I promise I'll return!
+Dialogue: 0,0:21:49.35,0:21:50.20,Default,,0000,0000,0000,,Uh-huh!
+Dialogue: 0,0:21:51.33,0:21:52.18,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:21:56.04,0:21:58.39,Default,,0000,0000,0000,,Yeah, I know you will!
+Dialogue: 0,0:22:06.09,0:22:07.24,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:22:07.24,0:22:08.21,Default,,0000,0000,0000,,Pudding!
+Dialogue: 0,0:22:08.65,0:22:09.76,Default,,0000,0000,0000,,Chiffon!
+Dialogue: 0,0:22:13.39,0:22:15.60,Default,,0000,0000,0000,,Oh no! She's gonna do it again!
+Dialogue: 0,0:22:18.77,0:22:19.69,Default,,0000,0000,0000,,Get away!
+Dialogue: 0,0:22:21.98,0:22:26.36,Default,,0000,0000,0000,,What are you doing right there?!
+Dialogue: 0,0:22:26.53,0:22:28.86,Default,,0000,0000,0000,,Luffy! See you at sea!
+Dialogue: 0,0:22:29.03,0:22:30.82,Default,,0000,0000,0000,,I'm counting on you, Sanji!
+Dialogue: 0,0:22:35.04,0:22:36.16,Default,,0000,0000,0000,,Ikoku Sovereignty!
+Dialogue: 0,0:23:24.55,0:23:30.25,Default,,0000,0000,0000,,{\i1}Katakuri and Perospero!\NBig Mom's strongest lackeys attack the Sunny!{\i0}
+Dialogue: 0,0:23:30.83,0:23:33.07,Italics,,0000,0000,0000,,{\i1}The sweet and horrific Candyman seeps into
+Dialogue: 0,0:23:33.07,0:23:37.02,Italics,,0000,0000,0000,,Chopper and Brook's bodies to take their \Nlives, leaving them in a desperate situation.{\i0}
+Dialogue: 0,0:23:37.20,0:23:39.98,Default,,0000,0000,0000,,{\i1}Will Luffy be able to make it in time?!{\i0}
+Dialogue: 0,0:23:39.98,0:23:41.48,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:41.48,0:23:45.35,Default,,0000,0000,0000,,"Save the Sunny! Fighting \NBravely! Chopper and Brook!"
+Dialogue: 0,0:23:45.35,0:23:47.88,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:48.51,0:23:50.51,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:50.51,0:23:52.51,On Top,,0000,0000,0000,,
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.01,0:00:20.52,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:00:17.01,0:00:20.52,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,Default,,0000,0000,0000,,{\i1}The joy of letting our true \Nfeelings fly at each other{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,On Top,,0000,0000,0000,,{\i1}kimi to honki de kokoro \Nbutsukeatta yorokobi mo{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,Default,,0000,0000,0000,,{\i1}The pain from how we laughed \Nour heads off to dry our tears{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,On Top,,0000,0000,0000,,{\i1}warai korogete namida \Nkawakashita setsunasa mo{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,Default,,0000,0000,0000,,{\i1}We connect them together and in the wind Ah{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,On Top,,0000,0000,0000,,{\i1}tsunagi awasete kaze no naka Ah{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,Default,,0000,0000,0000,,{\i1}It's fluttering higher and higher{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,On Top,,0000,0000,0000,,{\i1}hatameiteiru yo takaku takaku{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,Default,,0000,0000,0000,,{\i1}Why did you give up on your search?{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,On Top,,0000,0000,0000,,{\i1}Why sagasu koto wo akirameta no{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,Default,,0000,0000,0000,,{\i1}Why do you keep fighting by yourself?{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,On Top,,0000,0000,0000,,{\i1}Why hitori tatakai tsudukeru no{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,Default,,0000,0000,0000,,{\i1}Say, what kind of future did you prepare for?{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,On Top,,0000,0000,0000,,{\i1}nee, donna mirai kakugo shita no{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,Default,,0000,0000,0000,,{\i1}Have you fulfilled your dream?{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,On Top,,0000,0000,0000,,{\i1}yume wa mou te ni shita no{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,Default,,0000,0000,0000,,{\i1}There is a place that I want to go with you{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,On Top,,0000,0000,0000,,{\i1}kimi to mezashitai basho ga aru{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,Default,,0000,0000,0000,,{\i1}The sea route that we take{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,On Top,,0000,0000,0000,,{\i1}susumiyuku kouro nara{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,On Top,,0000,0000,0000,,{\i1}tooi mukashi mou kimeteita{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,Default,,0000,0000,0000,,{\i1}Your voice that hasn't reached me yet{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,On Top,,0000,0000,0000,,{\i1}mada todokanai kimi no koe ga{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,Default,,0000,0000,0000,,{\i1}crushes my helpless heart{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,On Top,,0000,0000,0000,,{\i1}muryoku na mune wo oshitsubusu{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,Default,,0000,0000,0000,,{\i1}I'm wanting you{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,On Top,,0000,0000,0000,,{\i1}boku wa kimi wo motometeiru kara{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,Default,,0000,0000,0000,,{\i1}so I'll keep believing in the \Nmorning when the light comes in{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,On Top,,0000,0000,0000,,{\i1}hikari sashikomu asa wo shinjite iyou{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,Default,,0000,0000,0000,,{\i1}Close your eyes and listen carefully{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,On Top,,0000,0000,0000,,{\i1}me wo tojite mimi wo sumashite{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,Default,,0000,0000,0000,,{\i1}Let's look for your answer{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,On Top,,0000,0000,0000,,{\i1}sagashi dasou kimi no kotae wo{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,Default,,0000,0000,0000,,{\i1}The road always continues towards \Nthe sea that you've never seen{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,On Top,,0000,0000,0000,,{\i1}michi wa kanarazu tsuduiteiru \Nyo mada mitakoto no nai umi e{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,Default,,0000,0000,0000,,{\i1}There is a place I have to return to with you{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,On Top,,0000,0000,0000,,{\i1}kimi to kaeru beki basho ga aru{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,Default,,0000,0000,0000,,{\i1}We will be forever{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,On Top,,0000,0000,0000,,{\i1}boku tachi wa eien ni{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,On Top,,0000,0000,0000,,{\i1}tooi mukashi sou kimeteita{\i0}
+Dialogue: 0,0:02:48.29,0:02:50.64,Italics,,0000,0000,0000,,{\i1}After failing to kill Big Mom,
+Dialogue: 0,0:02:50.64,0:02:53.63,Italics,,0000,0000,0000,,Luffy and his allies escaped \Nfrom the Whole Cake Chateau{\i0}
+Dialogue: 0,0:02:53.63,0:02:56.30,Default,,0000,0000,0000,,{\i1}and continue heading towards the Sunny.{\i0}
+Dialogue: 0,0:02:57.96,0:03:01.62,Default,,0000,0000,0000,,{\i1}Big Mom chases after them\Nin the middle of her Hunger Pangs attack.{\i0}
+Dialogue: 0,0:03:04.10,0:03:07.10,Default,,0000,0000,0000,,Bring...
+Dialogue: 0,0:03:07.14,0:03:10.85,Default,,0000,0000,0000,,...the cake!
+Dialogue: 0,0:03:11.60,0:03:15.71,Default,,0000,0000,0000,,{\i1}Meanwhile, Brook and Chopper\Narrived at the Sunny first,{\i0}
+Dialogue: 0,0:03:16.23,0:03:20.36,Default,,0000,0000,0000,,{\i1}but it was the Big Mom Pirates\Nwho were waiting for them.{\i0}
+Dialogue: 0,0:03:22.45,0:03:24.18,Default,,0000,0000,0000,,Do you want to fight?
+Dialogue: 0,0:03:24.50,0:03:25.93,Default,,0000,0000,0000,,Of course!
+Dialogue: 0,0:03:27.37,0:03:29.77,Default,,0000,0000,0000,,We'll save the Sunny!
+Dialogue: 0,0:03:30.79,0:03:33.27,Italics,,0000,0000,0000,,{\i1}Pudding asked Sanji to make a
+Dialogue: 0,0:03:33.27,0:03:37.02,Italics,,0000,0000,0000,,wedding cake since it's the only \Nthing that can stop Big Mom.{\i0}
+Dialogue: 0,0:03:37.13,0:03:41.30,Default,,0000,0000,0000,,That way, we can distract her attention from you!\NSo hang in there until that time!
+Dialogue: 0,0:03:41.97,0:03:47.01,Default,,0000,0000,0000,,{\i1}Sanji was about to part ways with\NLuffy and the others for the time being but...{\i0}
+Dialogue: 0,0:03:47.18,0:03:51.60,Default,,0000,0000,0000,,What are you doing right there?!
+Dialogue: 0,0:03:51.81,0:03:53.44,Default,,0000,0000,0000,,Get away!
+Dialogue: 0,0:03:57.44,0:04:02.88,Default,,0000,0000,0000,,{\i1}"Save the Sunny!\NFighting Bravely! Chopper and Brook!"{\i0}
+Dialogue: 0,0:04:04.36,0:04:05.55,Default,,0000,0000,0000,,Ikoku Sovereignty!
+Dialogue: 0,0:04:18.71,0:04:21.67,Default,,0000,0000,0000,,Enough already...
+Dialogue: 0,0:04:21.67,0:04:23.55,Default,,0000,0000,0000,,That was close.
+Dialogue: 0,0:04:23.55,0:04:25.24,Default,,0000,0000,0000,,Everyone's okay, right?
+Dialogue: 0,0:04:25.47,0:04:28.58,Default,,0000,0000,0000,,Let's go! The Sunny is waiting for us\Nat the coast!
+Dialogue: 0,0:04:30.68,0:04:32.95,Default,,0000,0000,0000,,Wait! Their course is off.
+Dialogue: 0,0:04:33.98,0:04:39.86,Default,,0000,0000,0000,,Rabian, descend again!\NFly straight from the previous spot to the sea coast!
+Dialogue: 0,0:04:39.86,0:04:40.96,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:04:42.24,0:04:44.17,Default,,0000,0000,0000,,Luffy-{\i1}kun{\i0} and everyone!
+Dialogue: 0,0:04:44.61,0:04:47.85,Default,,0000,0000,0000,,Wait! It's not that way!\NThere's a wall ahead of you!
+Dialogue: 0,0:04:48.08,0:04:50.81,Default,,0000,0000,0000,,What? Pudding? She's the nice Pudding!
+Dialogue: 0,0:04:50.87,0:04:53.54,Default,,0000,0000,0000,,I thought we were going straight.
+Dialogue: 0,0:04:53.54,0:04:55.69,Default,,0000,0000,0000,,Of course, we've been fooled.
+Dialogue: 0,0:04:55.71,0:04:57.96,Default,,0000,0000,0000,,Everyone! The sea coast is this way!
+Dialogue: 0,0:04:57.96,0:04:59.50,Default,,0000,0000,0000,,Okay, let's go!
+Dialogue: 0,0:05:00.96,0:05:02.36,Default,,0000,0000,0000,,We won't let you go!
+Dialogue: 0,0:05:04.72,0:05:06.53,Default,,0000,0000,0000,,Leave them to me!
+Dialogue: 0,0:05:07.76,0:05:10.06,Default,,0000,0000,0000,,Memory Filament!
+Dialogue: 0,0:05:17.60,0:05:19.77,Default,,0000,0000,0000,,Flashback!
+Dialogue: 0,0:05:23.15,0:05:25.88,Default,,0000,0000,0000,,Oh, I've got to go grocery shopping...
+Dialogue: 0,0:05:27.49,0:05:29.95,Default,,0000,0000,0000,,Big Brother hit me!
+Dialogue: 0,0:05:29.95,0:05:31.97,Default,,0000,0000,0000,,It's time to walk my dog.
+Dialogue: 0,0:05:31.97,0:05:35.77,Default,,0000,0000,0000,,My son is missing.\NHas anyone seen him?
+Dialogue: 0,0:05:36.58,0:05:38.10,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:05:38.10,0:05:40.98,Default,,0000,0000,0000,,Anyway, let's go before it's too late!
+Dialogue: 0,0:05:41.55,0:05:42.81,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:05:42.81,0:05:45.06,Default,,0000,0000,0000,,Memories of the former owners
+Dialogue: 0,0:05:45.06,0:05:47.65,Default,,0000,0000,0000,,of those souls that've been \Ninfused into the Homies...
+Dialogue: 0,0:05:47.65,0:05:50.48,Default,,0000,0000,0000,,...are flashing back temporarily.
+Dialogue: 0,0:05:50.48,0:05:54.07,Default,,0000,0000,0000,,While they're confused,\Nthey're not under Mama's control!
+Dialogue: 0,0:05:54.07,0:05:57.41,Default,,0000,0000,0000,,So Luffy-{\i1}kun{\i0} and the others can\Nget out of the forest now!
+Dialogue: 0,0:05:57.41,0:06:00.13,Default,,0000,0000,0000,,I see. Thank you, Pudding-{\i1}chan{\i0}!
+Dialogue: 0,0:06:03.78,0:06:07.50,Default,,0000,0000,0000,,Why?! Since when were you there, Sanji...
+Dialogue: 0,0:06:07.50,0:06:08.47,Default,,0000,0000,0000,,{\i1}...san{\i0}!
+Dialogue: 0,0:06:08.66,0:06:10.38,Default,,0000,0000,0000,,Well, since a short while ago.
+Dialogue: 0,0:06:10.38,0:06:13.60,Default,,0000,0000,0000,,--What?!\N--Didn't you notice?!
+Dialogue: 0,0:06:13.60,0:06:16.97,Default,,0000,0000,0000,,Now, Pudding-{\i1}chan{\i0},\Nlet's rush to Chocolat Town.
+Dialogue: 0,0:06:16.97,0:06:19.35,Default,,0000,0000,0000,,G-Get off and swim, idiot!
+Dialogue: 0,0:06:20.16,0:06:22.48,Default,,0000,0000,0000,,Your eye is beautiful even when you're mad...
+Dialogue: 0,0:06:26.63,0:06:28.20,Default,,0000,0000,0000,,Are you okay, Pudding?
+Dialogue: 0,0:06:28.74,0:06:32.82,Default,,0000,0000,0000,,I-I'm fine... D-D-Don't mess with me!
+Dialogue: 0,0:06:32.82,0:06:36.40,Default,,0000,0000,0000,,O-Or I'll kill you, Sanji...
+Dialogue: 0,0:06:36.40,0:06:37.96,Default,,0000,0000,0000,,{\i1}...san{\i0}!
+Dialogue: 0,0:06:37.96,0:06:40.57,Default,,0000,0000,0000,,Oh! It's the end of the forest!
+Dialogue: 0,0:06:40.57,0:06:43.88,Default,,0000,0000,0000,,All right! Let's go straight to Cacao Island!
+Dialogue: 0,0:06:50.16,0:06:52.05,Default,,0000,0000,0000,,Brook! Chopper!
+Dialogue: 0,0:06:52.05,0:06:54.18,Default,,0000,0000,0000,,Is that your ship?
+Dialogue: 0,0:06:54.46,0:06:56.60,Default,,0000,0000,0000,,Yeah, it's getting attacked.
+Dialogue: 0,0:06:57.04,0:06:59.00,Default,,0000,0000,0000,,I guess they were ambushed...
+Dialogue: 0,0:06:59.62,0:07:01.77,Default,,0000,0000,0000,,Oh, no! Our big brothers are there!
+Dialogue: 0,0:07:04.54,0:07:07.67,Default,,0000,0000,0000,,Our brothers are attacking \NSanji-{\i1}san{\i0}'s friends...
+Dialogue: 0,0:07:08.63,0:07:10.80,Default,,0000,0000,0000,,Hmph! Your friends are dead!
+Dialogue: 0,0:07:10.80,0:07:14.61,Default,,0000,0000,0000,,That will teach ya!\NThey're no match for my brothers!
+Dialogue: 0,0:07:14.61,0:07:18.33,Default,,0000,0000,0000,,Your friends will be swallowed by the sea!
+Dialogue: 0,0:07:19.81,0:07:22.06,Default,,0000,0000,0000,,What are you saying, Pudding?!
+Dialogue: 0,0:07:22.06,0:07:26.23,Default,,0000,0000,0000,,Oh, no! That's not what I meant to say!
+Dialogue: 0,0:07:27.36,0:07:30.35,Default,,0000,0000,0000,,What do you wanna do?\NGo back to the ship?
+Dialogue: 0,0:07:32.03,0:07:35.30,Default,,0000,0000,0000,,No, I'll come along with Pudding-{\i1}chan{\i0}.
+Dialogue: 0,0:07:35.30,0:07:36.35,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:37.91,0:07:41.39,Default,,0000,0000,0000,,Are you sure?\NWe'll keep on going then!
+Dialogue: 0,0:07:41.38,0:07:44.31,Default,,0000,0000,0000,,Yeah, we don't need to worry about them.
+Dialogue: 0,0:07:45.21,0:07:48.55,Default,,0000,0000,0000,,Instead, let's get started...
+Dialogue: 0,0:07:50.67,0:07:55.46,Default,,0000,0000,0000,,...on the cake that can make Big Mom unconscious\Nas soon as possible!
+Dialogue: 0,0:08:08.40,0:08:10.16,Default,,0000,0000,0000,,You're quite tough...
+Dialogue: 0,0:08:10.70,0:08:14.75,Default,,0000,0000,0000,,How could you hold out this long\Nagainst these many people?
+Dialogue: 0,0:08:14.75,0:08:16.22,Default,,0000,0000,0000,,Lick.
+Dialogue: 0,0:08:22.62,0:08:24.14,Default,,0000,0000,0000,,Go to hell!
+Dialogue: 0,0:08:24.56,0:08:25.62,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:08:25.62,0:08:27.00,Default,,0000,0000,0000,,Kung Fu Point!
+Dialogue: 0,0:08:30.59,0:08:32.09,Default,,0000,0000,0000,,Die!
+Dialogue: 0,0:08:37.68,0:08:39.12,Default,,0000,0000,0000,,How's that?!
+Dialogue: 0,0:08:40.18,0:08:42.65,Default,,0000,0000,0000,,What an interesting exotic animal...
+Dialogue: 0,0:08:45.60,0:08:48.67,Default,,0000,0000,0000,,Get off the ship!
+Dialogue: 0,0:08:49.27,0:08:50.75,Default,,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:09:03.96,0:09:08.15,Default,,0000,0000,0000,,You have to keep your \Neyes on the prize, baby.
+Dialogue: 0,0:09:12.21,0:09:15.03,Default,,0000,0000,0000,,Not that I have eyes myself.
+Dialogue: 0,0:09:22.43,0:09:26.19,Default,,0000,0000,0000,,You fight quite well against\Nthe Chess Peacekeepers, skeleton...
+Dialogue: 0,0:09:28.00,0:09:29.59,Default,,0000,0000,0000,,Because I am...
+Dialogue: 0,0:09:30.24,0:09:32.55,Default,,0000,0000,0000,,...Soul King!
+Dialogue: 0,0:09:33.32,0:09:36.55,Default,,0000,0000,0000,,Enemies keep coming out of the mirror...
+Dialogue: 0,0:09:39.45,0:09:44.18,Default,,0000,0000,0000,,It's the mirror in Nami and Robin's room.\NWill they get mad if we break it?
+Dialogue: 0,0:09:44.18,0:09:47.98,Default,,0000,0000,0000,,If we can break it, let's break it\Nand apologize later.
+Dialogue: 0,0:09:49.29,0:09:52.56,Default,,0000,0000,0000,,Who are you gonna apologize to? Lick.
+Dialogue: 0,0:09:52.56,0:09:55.19,Default,,0000,0000,0000,,You saw the lightning earlier, right?
+Dialogue: 0,0:09:55.80,0:09:58.28,Default,,0000,0000,0000,,That was pretty intense.
+Dialogue: 0,0:09:58.82,0:10:01.73,Default,,0000,0000,0000,,It shows how mad Mama is.
+Dialogue: 0,0:10:01.73,0:10:05.90,Default,,0000,0000,0000,,I bet there aren't even bones left of\NStraw Hat and the others.
+Dialogue: 0,0:10:05.90,0:10:09.17,Default,,0000,0000,0000,,No one will return to this ship.
+Dialogue: 0,0:10:12.86,0:10:16.92,Default,,0000,0000,0000,,I'm saying I'm going to\Nshow some mercy on you.
+Dialogue: 0,0:10:16.92,0:10:22.63,Default,,0000,0000,0000,,No matter how much you try,\Nour soldiers will emerge endlessly.
+Dialogue: 0,0:10:22.63,0:10:26.31,Default,,0000,0000,0000,,And you guys will use up all of your energy\Neventually.
+Dialogue: 0,0:10:27.11,0:10:33.26,Default,,0000,0000,0000,,If you submit right here, right now,\NI'll at least spare your life...
+Dialogue: 0,0:10:33.26,0:10:35.61,Default,,0000,0000,0000,,Just let it go already.
+Dialogue: 0,0:10:37.38,0:10:39.82,Default,,0000,0000,0000,,What a useless conversation.
+Dialogue: 0,0:10:40.78,0:10:45.16,Default,,0000,0000,0000,,We got sick and tired of answering to\Nthat line of yours...
+Dialogue: 0,0:10:46.89,0:10:49.45,Default,,0000,0000,0000,,I just need you to get off of the ship.
+Dialogue: 0,0:10:49.45,0:10:52.33,Default,,0000,0000,0000,,The Sunny is ours!
+Dialogue: 0,0:10:54.07,0:10:57.05,Default,,0000,0000,0000,,Do you really wanna fight me?
+Dialogue: 0,0:11:10.63,0:11:12.23,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:11:12.88,0:11:17.39,Default,,0000,0000,0000,,Seems like you really \Ndon't value your life...
+Dialogue: 0,0:11:17.39,0:11:19.02,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:11:19.02,0:11:22.23,Default,,0000,0000,0000,,I'll kill you with my own hands.
+Dialogue: 0,0:11:22.23,0:11:24.14,Default,,0000,0000,0000,,Lick.
+Dialogue: 0,0:11:33.23,0:11:35.63,Default,,0000,0000,0000,,Cake...
+Dialogue: 0,0:11:36.77,0:11:38.71,Default,,0000,0000,0000,,Where is it?
+Dialogue: 0,0:11:38.71,0:11:40.16,Default,,0000,0000,0000,,My...
+Dialogue: 0,0:11:40.16,0:11:44.30,Default,,0000,0000,0000,,...wedding cake!
+Dialogue: 0,0:11:50.33,0:11:52.59,Default,,0000,0000,0000,,I see the sea coast ahead!
+Dialogue: 0,0:11:52.59,0:11:53.73,Default,,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:11:54.16,0:11:58.53,Default,,0000,0000,0000,,We made it!\NBut, is Pudding really on our side now?!
+Dialogue: 0,0:11:58.53,0:12:03.66,Default,,0000,0000,0000,,I don't know! We shouldn't lower our guard\Nuntil we get out of their territory!
+Dialogue: 0,0:12:05.72,0:12:08.16,Default,,0000,0000,0000,,I think we can make it!
+Dialogue: 0,0:12:08.16,0:12:09.91,Default,,0000,0000,0000,,We're almost there!
+Dialogue: 0,0:12:17.73,0:12:20.29,Default,,0000,0000,0000,,I won't let you get away!
+Dialogue: 0,0:12:20.99,0:12:22.71,Default,,0000,0000,0000,,Hey, Zeus!
+Dialogue: 0,0:12:22.71,0:12:25.09,Default,,0000,0000,0000,,How could you do that?!
+Dialogue: 0,0:12:31.62,0:12:33.89,Default,,0000,0000,0000,,Why did you get us involved?!
+Dialogue: 0,0:12:33.89,0:12:37.75,Default,,0000,0000,0000,,I'm sorry... It wasn't my intention!
+Dialogue: 0,0:12:37.75,0:12:42.90,Default,,0000,0000,0000,,I don't care about your intention!\NDon't ever be inattentive again!
+Dialogue: 0,0:12:42.90,0:12:45.36,Default,,0000,0000,0000,,Yes, I know...
+Dialogue: 0,0:12:45.74,0:12:50.36,Default,,0000,0000,0000,,But those were so delicious...\NThose thundercloud eggs.
+Dialogue: 0,0:12:50.35,0:12:51.15,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:12:51.38,0:12:56.75,Default,,0000,0000,0000,,Hey, do you really understand?!\NMama's orders are absolute!
+Dialogue: 0,0:12:56.75,0:12:58.79,Default,,0000,0000,0000,,I know...
+Dialogue: 0,0:13:01.68,0:13:03.75,Default,,0000,0000,0000,,Give it to me!
+Dialogue: 0,0:13:03.75,0:13:09.05,Default,,0000,0000,0000,,My wedding cake!
+Dialogue: 0,0:13:09.05,0:13:09.93,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:13:12.83,0:13:13.89,Default,,0000,0000,0000,,Dodge!
+Dialogue: 0,0:13:21.00,0:13:22.11,Default,,0000,0000,0000,,Damn...
+Dialogue: 0,0:13:22.92,0:13:24.73,Default,,0000,0000,0000,,That was close!
+Dialogue: 0,0:13:24.73,0:13:26.45,Default,,0000,0000,0000,,Thank you, Jimbei!
+Dialogue: 0,0:13:26.45,0:13:29.24,Default,,0000,0000,0000,,Everyone, be careful!\NAnother one's coming!
+Dialogue: 0,0:13:38.14,0:13:40.36,Default,,0000,0000,0000,,Cake!
+Dialogue: 0,0:13:41.57,0:13:42.53,Default,,0000,0000,0000,,Duck!
+Dialogue: 0,0:13:45.53,0:13:46.76,Default,,0000,0000,0000,,Mama!
+Dialogue: 0,0:13:54.87,0:13:57.52,Default,,0000,0000,0000,,You can't get away from me...
+Dialogue: 0,0:13:57.96,0:14:00.29,Default,,0000,0000,0000,,Straw Hat!
+Dialogue: 0,0:14:06.75,0:14:09.78,Default,,0000,0000,0000,,Oh, please! We're almost to the Sunny!
+Dialogue: 0,0:14:13.89,0:14:17.72,Default,,0000,0000,0000,,Wedding cake!
+Dialogue: 0,0:14:17.99,0:14:18.75,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:14:18.75,0:14:22.13,Default,,0000,0000,0000,,Run! If we get caught,\Nwe're all going to die!
+Dialogue: 0,0:14:25.42,0:14:28.22,Default,,0000,0000,0000,,Give me the cake!
+Dialogue: 0,0:14:32.81,0:14:36.09,Default,,0000,0000,0000,,You can't get away, Straw Hat!
+Dialogue: 0,0:14:36.09,0:14:38.93,Default,,0000,0000,0000,,Come on, Prometheus!
+Dialogue: 0,0:14:38.93,0:14:40.56,Default,,0000,0000,0000,,Yes, Mama!
+Dialogue: 0,0:14:42.82,0:14:43.48,Default,,0000,0000,0000,,Luffy!
+Dialogue: 0,0:14:44.63,0:14:46.49,Default,,0000,0000,0000,,Heavenly...
+Dialogue: 0,0:14:47.55,0:14:49.36,Default,,0000,0000,0000,,Run, guys!
+Dialogue: 0,0:14:49.36,0:14:51.70,Default,,0000,0000,0000,,...Fire!
+Dialogue: 0,0:15:34.43,0:15:37.62,Default,,0000,0000,0000,,Are you tired now, Soul King?
+Dialogue: 0,0:15:39.23,0:15:40.41,Default,,0000,0000,0000,,Gavotte...
+Dialogue: 0,0:15:40.70,0:15:42.25,Default,,0000,0000,0000,,...Bond en Avant!
+Dialogue: 0,0:15:43.63,0:15:44.71,Default,,0000,0000,0000,,It's not working...
+Dialogue: 0,0:15:50.40,0:15:51.34,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:15:55.12,0:15:56.72,Default,,0000,0000,0000,,Are you okay, Brook?!
+Dialogue: 0,0:15:56.72,0:16:00.43,Default,,0000,0000,0000,,Don't worry... I can still fight...
+Dialogue: 0,0:16:02.87,0:16:07.57,Default,,0000,0000,0000,,You've cut down quite a lot of our troops...
+Dialogue: 0,0:16:07.57,0:16:11.24,Default,,0000,0000,0000,,We'll bring you guys down\Nand take back the Sunny!
+Dialogue: 0,0:16:11.92,0:16:16.58,Default,,0000,0000,0000,,You're so naive...\NI'll make you face reality.
+Dialogue: 0,0:16:24.77,0:16:26.16,Default,,0000,0000,0000,,Huh? What the...
+Dialogue: 0,0:16:26.16,0:16:27.21,Default,,0000,0000,0000,,My leg...
+Dialogue: 0,0:16:29.19,0:16:31.51,Default,,0000,0000,0000,,Damn! I can't move!
+Dialogue: 0,0:16:32.01,0:16:32.93,Default,,0000,0000,0000,,Chopper-{\i1}san{\i0}!
+Dialogue: 0,0:16:36.66,0:16:38.03,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:16:40.56,0:16:42.10,Default,,0000,0000,0000,,You fools...
+Dialogue: 0,0:16:42.10,0:16:47.65,Default,,0000,0000,0000,,Those candies will slowly \Nseep into your bodies.
+Dialogue: 0,0:16:52.63,0:16:56.55,Default,,0000,0000,0000,,It's no use.\NYou won't be able to move from there...
+Dialogue: 0,0:17:00.31,0:17:01.72,Default,,0000,0000,0000,,Chopper-{\i1}san{\i0}!
+Dialogue: 0,0:17:03.25,0:17:05.74,Default,,0000,0000,0000,,Don't panic, don't panic.
+Dialogue: 0,0:17:05.74,0:17:07.17,Default,,0000,0000,0000,,Man...
+Dialogue: 0,0:17:07.80,0:17:14.33,Default,,0000,0000,0000,,What kind of positive thinking did you have\Nto believe you could take the ship back?
+Dialogue: 0,0:17:14.33,0:17:17.96,Default,,0000,0000,0000,,In order to catch you guys,
+Dialogue: 0,0:17:17.96,0:17:22.05,Default,,0000,0000,0000,,we're mobilizing all of our soldiers\Nacross the island
+Dialogue: 0,0:17:22.05,0:17:25.68,Default,,0000,0000,0000,,to set up surrounding nets at various places.
+Dialogue: 0,0:17:25.68,0:17:29.19,Default,,0000,0000,0000,,You have nowhere to run.
+Dialogue: 0,0:17:30.21,0:17:33.61,Default,,0000,0000,0000,,The difference in power is obvious!
+Dialogue: 0,0:17:35.22,0:17:36.51,Default,,0000,0000,0000,,Damn!
+Dialogue: 0,0:17:37.30,0:17:40.05,Default,,0000,0000,0000,,I... I can't even transform!
+Dialogue: 0,0:17:40.81,0:17:42.62,Default,,0000,0000,0000,,Free Chopper-{\i1}san{\i0}!
+Dialogue: 0,0:17:42.92,0:17:45.40,Default,,0000,0000,0000,,Idiot! It's too late!
+Dialogue: 0,0:17:45.40,0:17:48.37,Default,,0000,0000,0000,,It's punishment for standing against me!
+Dialogue: 0,0:17:48.37,0:17:51.70,Default,,0000,0000,0000,,I'll turn you into a Candyman and lick you!
+Dialogue: 0,0:17:51.70,0:17:52.96,Default,,0000,0000,0000,,Lick!
+Dialogue: 0,0:17:54.14,0:17:57.17,Default,,0000,0000,0000,,The candy will coat your whole body,
+Dialogue: 0,0:17:57.17,0:18:00.42,Default,,0000,0000,0000,,fill you up inside and stop your breathing.
+Dialogue: 0,0:18:00.42,0:18:03.43,Default,,0000,0000,0000,,And with that agony,
+Dialogue: 0,0:18:04.37,0:18:07.98,Default,,0000,0000,0000,,it only takes three minutes \Nto kill the target!
+Dialogue: 0,0:18:09.53,0:18:10.44,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:18:10.89,0:18:16.70,Default,,0000,0000,0000,,And then, it's complete!\NA sweet corpse - Candyman!
+Dialogue: 0,0:18:23.56,0:18:24.92,Default,,0000,0000,0000,,Chopper-{\i1}san{\i0}!
+Dialogue: 0,0:18:24.92,0:18:26.54,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:18:31.11,0:18:34.62,Default,,0000,0000,0000,,It's too late to cry over your choices!
+Dialogue: 0,0:18:34.62,0:18:37.50,Default,,0000,0000,0000,,I certainly gave you a chance!
+Dialogue: 0,0:18:37.50,0:18:41.30,Default,,0000,0000,0000,,I said I'd let just the two of you go.
+Dialogue: 0,0:18:41.79,0:18:44.76,Default,,0000,0000,0000,,You guys really don't know anything!
+Dialogue: 0,0:18:45.70,0:18:47.76,Default,,0000,0000,0000,,This island...
+Dialogue: 0,0:18:47.76,0:18:50.42,Default,,0000,0000,0000,,...isn't sweet at all!
+Dialogue: 0,0:18:51.38,0:18:53.83,Default,,0000,0000,0000,,Chopper-{\i1}san{\i0}!
+Dialogue: 0,0:18:55.18,0:18:58.15,Default,,0000,0000,0000,,Why don't you count the sound of\Nthe second hand?
+Dialogue: 0,0:19:04.72,0:19:07.74,Default,,0000,0000,0000,,That's just what sweet fools \Nlike you guys deserve...
+Dialogue: 0,0:19:09.52,0:19:13.16,Default,,0000,0000,0000,,Oh, stop! I don't wanna get sweetened!
+Dialogue: 0,0:19:13.16,0:19:14.52,Default,,0000,0000,0000,,Oh, stop!
+Dialogue: 0,0:19:17.40,0:19:22.48,Default,,0000,0000,0000,,I'll turn you into a Candyman and lick you!
+Dialogue: 0,0:19:33.75,0:19:35.77,Default,,0000,0000,0000,,Hey, Big Brother Peros!
+Dialogue: 0,0:19:36.96,0:19:38.36,Default,,0000,0000,0000,,That's Mama...
+Dialogue: 0,0:19:38.36,0:19:42.24,Default,,0000,0000,0000,,Wedding...
+Dialogue: 0,0:19:42.76,0:19:45.32,Default,,0000,0000,0000,,Her Hunger Pangs attack won't stop...
+Dialogue: 0,0:19:45.32,0:19:48.10,Default,,0000,0000,0000,,Cake!
+Dialogue: 0,0:19:49.31,0:19:53.16,Default,,0000,0000,0000,,We have to lead her to \NPudding on Cacao Island...
+Dialogue: 0,0:19:53.16,0:19:57.92,Default,,0000,0000,0000,,If she finds out there's no cake \Non this ship, she'll kill me.
+Dialogue: 0,0:20:02.92,0:20:05.74,Default,,0000,0000,0000,,I don't think we have gotten that far yet...
+Dialogue: 0,0:20:09.62,0:20:12.10,Default,,0000,0000,0000,,Let me eat!
+Dialogue: 0,0:20:24.14,0:20:26.49,Default,,0000,0000,0000,,Cake!
+Dialogue: 0,0:20:26.72,0:20:29.29,Default,,0000,0000,0000,,It's the coast! Get to the Sunny!
+Dialogue: 0,0:20:31.10,0:20:33.87,Default,,0000,0000,0000,,He was alive? Straw Hat...
+Dialogue: 0,0:20:34.55,0:20:37.42,Default,,0000,0000,0000,,It must be our soldiers who got struck\Nby the lightning...
+Dialogue: 0,0:20:40.99,0:20:42.01,Default,,0000,0000,0000,,Who are they?!
+Dialogue: 0,0:20:42.50,0:20:44.80,Default,,0000,0000,0000,,The ship has been hijacked!
+Dialogue: 0,0:20:44.80,0:20:47.39,Default,,0000,0000,0000,,What? Brook?! Chopper?!
+Dialogue: 0,0:20:47.38,0:20:48.64,Default,,0000,0000,0000,,What's that?!
+Dialogue: 0,0:20:50.62,0:20:52.31,Default,,0000,0000,0000,,Get back to the Mirroworld.
+Dialogue: 0,0:20:53.71,0:20:56.30,Default,,0000,0000,0000,,All of you will end up...
+Dialogue: 0,0:20:56.30,0:20:59.44,Default,,0000,0000,0000,,...lying at his feet in a few seconds.
+Dialogue: 0,0:21:01.84,0:21:04.07,Default,,0000,0000,0000,,Jump into the mirror!
+Dialogue: 0,0:21:04.31,0:21:08.61,Default,,0000,0000,0000,,Perospero and Katakuri...\NThose two of all others...
+Dialogue: 0,0:21:08.61,0:21:10.95,Default,,0000,0000,0000,,The disaster continues!
+Dialogue: 0,0:21:13.35,0:21:18.70,Default,,0000,0000,0000,,It's amazing that you got this far...\NI'm impressed.
+Dialogue: 0,0:21:19.94,0:21:24.21,Default,,0000,0000,0000,,But your destination is a graveyard!
+Dialogue: 0,0:21:24.21,0:21:26.93,Default,,0000,0000,0000,,You must die here!
+Dialogue: 0,0:21:35.12,0:21:37.35,Default,,0000,0000,0000,,Candy Maiden!
+Dialogue: 0,0:21:37.35,0:21:38.86,Default,,0000,0000,0000,,A wall of candy!
+Dialogue: 0,0:21:38.86,0:21:43.32,Default,,0000,0000,0000,,It's obvious that it's not just a wall!
+Dialogue: 0,0:21:48.66,0:21:50.70,Default,,0000,0000,0000,,Fish-Man Karate...
+Dialogue: 0,0:21:51.06,0:21:52.95,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:21:54.77,0:21:56.87,Default,,0000,0000,0000,,Shark Brick Fist!
+Dialogue: 0,0:21:56.87,0:21:59.21,Default,,0000,0000,0000,,Jet Bazooka!
+Dialogue: 0,0:22:02.65,0:22:03.59,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:22:05.53,0:22:07.12,Default,,0000,0000,0000,,Not yet, not yet...
+Dialogue: 0,0:22:07.12,0:22:10.26,Default,,0000,0000,0000,,Don't underestimate me!
+Dialogue: 0,0:22:11.41,0:22:12.93,Default,,0000,0000,0000,,Huh? What is it?!
+Dialogue: 0,0:22:16.41,0:22:18.60,Default,,0000,0000,0000,,Candy Maiden...
+Dialogue: 0,0:22:19.21,0:22:21.06,Default,,0000,0000,0000,,...Decoration!
+Dialogue: 0,0:22:21.84,0:22:23.92,Default,,0000,0000,0000,,It's gigantic...
+Dialogue: 0,0:22:24.72,0:22:26.36,Default,,0000,0000,0000,,This is it!
+Dialogue: 0,0:22:32.10,0:22:33.95,Default,,0000,0000,0000,,No one can get through here!
+Dialogue: 0,0:22:36.48,0:22:38.21,Default,,0000,0000,0000,,Go around and get to the ship!
+Dialogue: 0,0:22:40.10,0:22:42.00,Default,,0000,0000,0000,,No, run straight!
+Dialogue: 0,0:22:47.99,0:22:50.43,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:22:54.37,0:22:56.85,Default,,0000,0000,0000,,...Red Hawk!
+Dialogue: 0,0:23:24.70,0:23:27.55,Italics,,0000,0000,0000,,{\i1}The man who once attained everything \Nthis world has to offer...
+Dialogue: 0,0:23:27.55,0:23:29.58,Italics,,0000,0000,0000,,Gold Roger, the King of the Pirates.{\i0}
+Dialogue: 0,0:23:29.58,0:23:31.11,Italics,,0000,0000,0000,,{\i1}There is a Mink who carries
+Dialogue: 0,0:23:31.11,0:23:34.38,Italics,,0000,0000,0000,,the King's last wishes on his shoulders \Nand fights at the risk of his life!{\i0}
+Dialogue: 0,0:23:34.38,0:23:37.55,Italics,,0000,0000,0000,,{\i1}To clear the way for Luffy \Nand the others who are in
+Dialogue: 0,0:23:37.55,0:23:41.65,Italics,,0000,0000,0000,,a desperate situation, Pedro, that \Nman, takes the bet of a lifetime!{\i0}
+Dialogue: 0,0:23:41.65,0:23:43.04,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:43.04,0:23:46.06,Default,,0000,0000,0000,,"Before the Dawn! Pedro, the \NCaptain of the Guardians!"
+Dialogue: 0,0:23:46.06,0:23:48.63,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:48.63,0:23:50.63,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:50.63,0:23:52.63,On Top,,0000,0000,0000,,
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.01,0:00:20.52,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:00:17.01,0:00:20.52,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:00:20.56,0:00:23.94,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:00:23.98,0:00:29.73,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:29.78,0:00:31.32,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,On Top,,0000,0000,0000,,{\i1}kimi to honki de kokoro \Nbutsukeatta yorokobi mo{\i0}
+Dialogue: 0,0:00:37.37,0:00:44.21,Default,,0000,0000,0000,,{\i1}The joy of letting our true \Nfeelings fly at each other{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,On Top,,0000,0000,0000,,{\i1}warai korogete namida \Nkawakashita setsunasa mo{\i0}
+Dialogue: 0,0:00:44.25,0:00:51.46,Default,,0000,0000,0000,,{\i1}The pain from how we laughed \Nour heads off to dry our tears{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,On Top,,0000,0000,0000,,{\i1}tsunagi awasete kaze no naka Ah{\i0}
+Dialogue: 0,0:00:51.51,0:00:58.35,Default,,0000,0000,0000,,{\i1}We connect them together and in the wind Ah{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,On Top,,0000,0000,0000,,{\i1}hatameiteiru yo takaku takaku{\i0}
+Dialogue: 0,0:00:58.39,0:01:05.10,Default,,0000,0000,0000,,{\i1}It's fluttering higher and higher{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,On Top,,0000,0000,0000,,{\i1}Why sagasu koto wo akirameta no{\i0}
+Dialogue: 0,0:01:05.14,0:01:08.27,Default,,0000,0000,0000,,{\i1}Why did you give up on your search?{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,On Top,,0000,0000,0000,,{\i1}Why hitori tatakai tsudukeru no{\i0}
+Dialogue: 0,0:01:08.31,0:01:11.69,Default,,0000,0000,0000,,{\i1}Why do you keep fighting by yourself?{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,On Top,,0000,0000,0000,,{\i1}nee, donna mirai kakugo shita no{\i0}
+Dialogue: 0,0:01:11.73,0:01:14.57,Default,,0000,0000,0000,,{\i1}Say, what kind of future did you prepare for?{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,On Top,,0000,0000,0000,,{\i1}yume wa mou te ni shita no{\i0}
+Dialogue: 0,0:01:14.61,0:01:18.12,Default,,0000,0000,0000,,{\i1}Have you fulfilled your dream?{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i0}
+Dialogue: 0,0:01:18.53,0:01:22.04,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i0}
+Dialogue: 0,0:01:22.08,0:01:25.79,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo \Nkawaranu kizuna furikazasou{\i0}
+Dialogue: 0,0:01:25.83,0:01:31.34,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll \Nbrandish our unchanging bond{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:31.38,0:01:32.55,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:01:32.75,0:01:36.13,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,On Top,,0000,0000,0000,,{\i1}kimi to mezashitai basho ga aru{\i0}
+Dialogue: 0,0:01:36.17,0:01:38.68,Default,,0000,0000,0000,,{\i1}There is a place that I want to go with you{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,On Top,,0000,0000,0000,,{\i1}susumiyuku kouro nara{\i0}
+Dialogue: 0,0:01:38.72,0:01:41.47,Default,,0000,0000,0000,,{\i1}The sea route that we take{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,On Top,,0000,0000,0000,,{\i1}tooi mukashi mou kimeteita{\i0}
+Dialogue: 0,0:01:41.51,0:01:48.23,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,On Top,,0000,0000,0000,,{\i1}mada todokanai kimi no koe ga{\i0}
+Dialogue: 0,0:01:58.91,0:02:02.41,Default,,0000,0000,0000,,{\i1}Your voice that hasn't reached me yet{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,On Top,,0000,0000,0000,,{\i1}muryoku na mune wo oshitsubusu{\i0}
+Dialogue: 0,0:02:02.45,0:02:06.04,Default,,0000,0000,0000,,{\i1}crushes my helpless heart{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,On Top,,0000,0000,0000,,{\i1}boku wa kimi wo motometeiru kara{\i0}
+Dialogue: 0,0:02:06.08,0:02:09.29,Default,,0000,0000,0000,,{\i1}I'm wanting you{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,On Top,,0000,0000,0000,,{\i1}hikari sashikomu asa wo shinjite iyou{\i0}
+Dialogue: 0,0:02:09.33,0:02:14.13,Default,,0000,0000,0000,,{\i1}so I'll keep believing in the \Nmorning when the light comes in{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,On Top,,0000,0000,0000,,{\i1}me wo tojite mimi wo sumashite{\i0}
+Dialogue: 0,0:02:14.17,0:02:17.97,Default,,0000,0000,0000,,{\i1}Close your eyes and listen carefully{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,On Top,,0000,0000,0000,,{\i1}sagashi dasou kimi no kotae wo{\i0}
+Dialogue: 0,0:02:18.01,0:02:21.47,Default,,0000,0000,0000,,{\i1}Let's look for your answer{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,On Top,,0000,0000,0000,,{\i1}michi wa kanarazu tsuduiteiru \Nyo mada mitakoto no nai umi e{\i0}
+Dialogue: 0,0:02:21.51,0:02:27.27,Default,,0000,0000,0000,,{\i1}The road always continues towards \Nthe sea that you've never seen{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,On Top,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:27.31,0:02:28.31,Default,,0000,0000,0000,,{\i1}We are hope{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i0}
+Dialogue: 0,0:02:28.48,0:02:31.86,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,On Top,,0000,0000,0000,,{\i1}kimi to kaeru beki basho ga aru{\i0}
+Dialogue: 0,0:02:31.90,0:02:34.36,Default,,0000,0000,0000,,{\i1}There is a place I have to return to with you{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,On Top,,0000,0000,0000,,{\i1}boku tachi wa eien ni{\i0}
+Dialogue: 0,0:02:34.40,0:02:37.15,Default,,0000,0000,0000,,{\i1}We will be forever{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,On Top,,0000,0000,0000,,{\i1}tooi mukashi sou kimeteita{\i0}
+Dialogue: 0,0:02:37.19,0:02:44.33,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i0}
+Dialogue: 0,0:02:48.08,0:02:50.65,Default,,0000,0000,0000,,{\i1}After failing to kill Big Mom,
+Dialogue: 0,0:02:50.65,0:02:53.59,Italics,,0000,0000,0000,,Luffy and his allies\Nescaped from the Whole Cake Chateau{\i0}
+Dialogue: 0,0:02:53.59,0:02:56.92,Italics,,0000,0000,0000,,{\i1}and continue heading towards the Sunny.{\i0}
+Dialogue: 0,0:02:57.67,0:03:01.11,Italics,,0000,0000,0000,,{\i1}Big Mom chases after them\Nin the middle of her Hunger Pangs attack.{\i0}
+Dialogue: 0,0:03:01.13,0:03:03.70,Italics,,0000,0000,0000,,It's the coast! Get to the Sunny!
+Dialogue: 0,0:03:04.01,0:03:06.91,Italics,,0000,0000,0000,,{\i1}Meanwhile, in order to take back the Sunny
+Dialogue: 0,0:03:06.91,0:03:08.83,Italics,,0000,0000,0000,,that has been captured \Nby the Big Mom Pirates,{\i0}
+Dialogue: 0,0:03:09.06,0:03:11.65,Italics,,0000,0000,0000,,{\i1}Brook and Chopper continue a perilous fight.{\i0}
+Dialogue: 0,0:03:12.44,0:03:17.77,Default,,0000,0000,0000,,{\i1}However, due to Perospero's ability,\Nthey have been coated with candy.{\i0}
+Dialogue: 0,0:03:19.03,0:03:22.38,Default,,0000,0000,0000,,{\i1}Finally, just as Luffy and the \Nothers who got through the
+Dialogue: 0,0:03:22.38,0:03:24.60,Default,,0000,0000,0000,,Seducing Woods come close to the Sunny...{\i0}
+Dialogue: 0,0:03:27.12,0:03:29.56,Default,,0000,0000,0000,,Candy Maiden...
+Dialogue: 0,0:03:29.75,0:03:31.55,Default,,0000,0000,0000,,...Decoration!
+Dialogue: 0,0:03:35.29,0:03:39.57,Default,,0000,0000,0000,,{\i1}"Before the Dawn!\NPedro, the Captain of the Guardians!"{\i0}
+Dialogue: 0,0:03:41.05,0:03:42.99,Default,,0000,0000,0000,,No one can get through here!
+Dialogue: 0,0:03:42.99,0:03:44.82,Default,,0000,0000,0000,,Go around and get to the ship!
+Dialogue: 0,0:03:44.85,0:03:47.02,Default,,0000,0000,0000,,No, run straight!
+Dialogue: 0,0:03:51.23,0:03:53.62,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:03:57.57,0:04:00.01,Default,,0000,0000,0000,,...Red Hawk!
+Dialogue: 0,0:04:08.74,0:04:10.10,Default,,0000,0000,0000,,Is it a flame?!
+Dialogue: 0,0:04:50.04,0:04:51.97,Default,,0000,0000,0000,,Pedro!
+Dialogue: 0,0:04:52.45,0:04:56.92,Default,,0000,0000,0000,,The dawn of the world will come before long!
+Dialogue: 0,0:05:24.07,0:05:26.97,Default,,0000,0000,0000,,His-{\i1}teia{\i0} ability is just like Luffy's!
+Dialogue: 0,0:05:51.07,0:05:53.58,Default,,0000,0000,0000,,Wedding...
+Dialogue: 0,0:05:55.35,0:05:59.00,Default,,0000,0000,0000,,...cake!
+Dialogue: 0,0:06:03.61,0:06:04.76,Default,,0000,0000,0000,,Here she comes!
+Dialogue: 0,0:06:08.78,0:06:11.39,Default,,0000,0000,0000,,What should we do, Luffy?!\NWe're surrounded!
+Dialogue: 0,0:06:16.81,0:06:19.76,Default,,0000,0000,0000,,Luffy! Kick Katakuri off of the ship!
+Dialogue: 0,0:06:19.76,0:06:21.90,Default,,0000,0000,0000,,We'll try to set sail somehow!
+Dialogue: 0,0:06:21.90,0:06:23.40,Default,,0000,0000,0000,,I got it!
+Dialogue: 0,0:06:23.42,0:06:25.71,Default,,0000,0000,0000,,--This way!\N--Okay!
+Dialogue: 0,0:06:28.51,0:06:31.57,Default,,0000,0000,0000,,That bastard!\NHe must've come through the mirror dimension!
+Dialogue: 0,0:06:37.73,0:06:42.64,Default,,0000,0000,0000,,{\i1}Listen! Everyone has their own turn.{\i0}
+Dialogue: 0,0:06:48.11,0:06:54.03,Default,,0000,0000,0000,,Wedding cake!
+Dialogue: 0,0:06:54.78,0:06:58.88,Default,,0000,0000,0000,,I don't wanna get involved with\NMama's Hunger Pangs.
+Dialogue: 0,0:06:58.88,0:07:00.20,Default,,0000,0000,0000,,Lick.
+Dialogue: 0,0:07:01.46,0:07:03.86,Default,,0000,0000,0000,,Armament Hardening!
+Dialogue: 0,0:07:05.91,0:07:08.63,Default,,0000,0000,0000,,Gum-Gum...
+Dialogue: 0,0:07:10.68,0:07:13.89,Default,,0000,0000,0000,,...Hawk Gatling!
+Dialogue: 0,0:07:26.78,0:07:29.51,Default,,0000,0000,0000,,Why?! I'm using Haki but I can't hit him...
+Dialogue: 0,0:08:00.48,0:08:03.04,Default,,0000,0000,0000,,Chopper! Brook! Are you all right?!
+Dialogue: 0,0:08:03.04,0:08:04.21,Default,,0000,0000,0000,,Stay with us!
+Dialogue: 0,0:08:12.61,0:08:15.59,Default,,0000,0000,0000,,Where is it?
+Dialogue: 0,0:08:15.59,0:08:18.01,Default,,0000,0000,0000,,The cake!
+Dialogue: 0,0:08:23.16,0:08:24.14,Default,,0000,0000,0000,,Carrot.
+Dialogue: 0,0:08:25.97,0:08:27.77,Default,,0000,0000,0000,,Don't get shocked by the unexpected.
+Dialogue: 0,0:08:27.77,0:08:28.69,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:29.63,0:08:31.19,Default,,0000,0000,0000,,I think...
+Dialogue: 0,0:08:31.88,0:08:33.32,Default,,0000,0000,0000,,...Luffy and his crew are...
+Dialogue: 0,0:08:34.05,0:08:35.94,Default,,0000,0000,0000,,...the ones who our tribe
+Dialogue: 0,0:08:35.94,0:08:39.65,Default,,0000,0000,0000,,and the Kozuki Family\Nhave been awaiting for centuries....
+Dialogue: 0,0:08:39.65,0:08:43.54,Default,,0000,0000,0000,,The ones who'll lead the \Nworld to the new dawn!
+Dialogue: 0,0:08:43.54,0:08:45.00,Default,,0000,0000,0000,,For centuries?!
+Dialogue: 0,0:08:56.87,0:08:59.97,Default,,0000,0000,0000,,Hey, Montd'Or, can you hear me?
+Dialogue: 0,0:08:59.97,0:09:02.24,Default,,0000,0000,0000,,Yes, I can hear you.
+Dialogue: 0,0:09:02.24,0:09:07.73,Default,,0000,0000,0000,,{\i1}Surround the southwest coast of the \NWhole Cake Island with battleships.{\i0}
+Dialogue: 0,0:09:07.99,0:09:10.40,Default,,0000,0000,0000,,Roger, Big Bro Peros.
+Dialogue: 0,0:09:10.40,0:09:11.65,Default,,0000,0000,0000,,Clank.
+Dialogue: 0,0:09:11.65,0:09:14.55,Default,,0000,0000,0000,,Surround the coastline-{\i1}soir{\i0}?
+Dialogue: 0,0:09:15.02,0:09:17.91,Default,,0000,0000,0000,,I guess Straw Hat and the \Nothers are still alive.
+Dialogue: 0,0:09:17.91,0:09:19.27,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:19.27,0:09:25.37,Default,,0000,0000,0000,,Mama was pursuing on land\Nand Katakuri-{\i1}sama{\i0} was waiting at the ship,
+Dialogue: 0,0:09:25.37,0:09:27.25,Default,,0000,0000,0000,,but are they still alive-{\i1}bon{\i0}?
+Dialogue: 0,0:09:27.25,0:09:29.83,Default,,0000,0000,0000,,Yeah, they're so persistent.
+Dialogue: 0,0:09:30.26,0:09:33.30,Default,,0000,0000,0000,,Tarte of Nuts Island, respond!
+Dialogue: 0,0:09:33.86,0:09:36.43,Default,,0000,0000,0000,,This is Amande on Nuts Island.
+Dialogue: 0,0:09:36.43,0:09:38.71,Default,,0000,0000,0000,,Surround the southwest coast.
+Dialogue: 0,0:09:39.10,0:09:42.43,Default,,0000,0000,0000,,Don't let Straw Hat and his clan get away\Nat any cost!
+Dialogue: 0,0:09:42.43,0:09:44.10,Default,,0000,0000,0000,,Roger.
+Dialogue: 0,0:09:48.88,0:09:50.72,Default,,0000,0000,0000,,Coup de...
+Dialogue: 0,0:09:50.72,0:09:52.02,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:52.02,0:09:56.39,Default,,0000,0000,0000,,Coup de Burst!\NThis ship can leap 1 km ahead!
+Dialogue: 0,0:09:56.39,0:10:00.45,Default,,0000,0000,0000,,If we try to set sail normally,\Nthe ship will be sunk by Big Mom!
+Dialogue: 0,0:10:00.45,0:10:03.95,Default,,0000,0000,0000,,I don't quite understand\Nbut we can escape that way, right?
+Dialogue: 0,0:10:03.95,0:10:04.91,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:10:04.91,0:10:08.04,Default,,0000,0000,0000,,Okay! Let's bet on it!
+Dialogue: 0,0:10:09.56,0:10:11.75,Default,,0000,0000,0000,,Big Mom is coming!
+Dialogue: 0,0:10:15.24,0:10:18.01,Default,,0000,0000,0000,,There you are!
+Dialogue: 0,0:10:18.70,0:10:21.70,Default,,0000,0000,0000,,Carrot! You-{\i1}gara{\i0} go help them\Nget ready to sail!
+Dialogue: 0,0:10:21.70,0:10:23.51,Default,,0000,0000,0000,,--What?\N--Hurry up!
+Dialogue: 0,0:10:23.51,0:10:24.66,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:29.96,0:10:33.01,Default,,0000,0000,0000,,Is it there?
+Dialogue: 0,0:10:33.01,0:10:36.36,Default,,0000,0000,0000,,The wedding cake?!
+Dialogue: 0,0:10:41.89,0:10:46.07,Default,,0000,0000,0000,,Hey, Brook, Chopper!\NStay with me!
+Dialogue: 0,0:10:46.07,0:10:50.29,Default,,0000,0000,0000,,Even if we can make it out of here,\Nit's meaningless if you guys end up dead...
+Dialogue: 0,0:10:52.83,0:10:56.34,Default,,0000,0000,0000,,We spotted the Straw Hats \Nat the southwest coast!
+Dialogue: 0,0:10:56.67,0:11:00.19,Default,,0000,0000,0000,,This is Minister Amande from \Nthe Tarte of Nuts Island...
+Dialogue: 0,0:11:00.19,0:11:01.97,Default,,0000,0000,0000,,We'll corner Straw Hat and the others.
+Dialogue: 0,0:11:10.71,0:11:12.40,Default,,0000,0000,0000,,It's terrible.
+Dialogue: 0,0:11:12.40,0:11:15.93,Default,,0000,0000,0000,,Battleships are coming from the sea,\Nand Big Mom from the land.
+Dialogue: 0,0:11:15.93,0:11:18.53,Default,,0000,0000,0000,,We're totally stuck in the middle!
+Dialogue: 0,0:11:26.10,0:11:28.74,Default,,0000,0000,0000,,Nami! We have to get going!
+Dialogue: 0,0:11:28.73,0:11:32.88,Default,,0000,0000,0000,,I know! But I have to load\Ntwo more barrels of cola!
+Dialogue: 0,0:11:32.88,0:11:36.75,Default,,0000,0000,0000,,I'll do the rest so you go prepare\Nfor the Coup-de-something!
+Dialogue: 0,0:11:37.00,0:11:39.07,Default,,0000,0000,0000,,All right, I'll leave it to you then!
+Dialogue: 0,0:11:56.67,0:11:59.74,Default,,0000,0000,0000,,Candy Wave!
+Dialogue: 0,0:12:09.97,0:12:11.29,Default,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:12:12.64,0:12:13.91,Default,,0000,0000,0000,,Candy?!
+Dialogue: 0,0:12:13.91,0:12:17.50,Default,,0000,0000,0000,,Oh, no! We can't use Coup de Burst like this!
+Dialogue: 0,0:12:26.65,0:12:27.72,Default,,0000,0000,0000,,What's wrong?!
+Dialogue: 0,0:12:28.04,0:12:31.40,Default,,0000,0000,0000,,This is serious!\NThe Sunny has been caught by candy!
+Dialogue: 0,0:12:31.39,0:12:32.27,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:36.25,0:12:39.81,Default,,0000,0000,0000,,Did you see the power of Candy Wave?!
+Dialogue: 0,0:12:39.81,0:12:42.57,Default,,0000,0000,0000,,I'm a perfectionist!
+Dialogue: 0,0:12:42.57,0:12:44.32,Default,,0000,0000,0000,,Oh, there he is!
+Dialogue: 0,0:12:46.84,0:12:48.49,Default,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:12:48.49,0:12:52.41,Default,,0000,0000,0000,,Turn Brook and Chopper back,\Nas well as the ship, candy jerk!
+Dialogue: 0,0:12:54.95,0:12:56.29,Default,,0000,0000,0000,,If nothing is done...
+Dialogue: 0,0:12:56.29,0:12:59.46,Default,,0000,0000,0000,,Cake!
+Dialogue: 0,0:12:59.46,0:13:02.17,Default,,0000,0000,0000,,It's either being destroyed by Mama...
+Dialogue: 0,0:13:02.16,0:13:05.91,Default,,0000,0000,0000,,...or being sunk by the cannons!
+Dialogue: 0,0:13:18.88,0:13:24.57,Default,,0000,0000,0000,,Either way, you have no chance to survive!
+Dialogue: 0,0:14:13.24,0:14:15.93,Default,,0000,0000,0000,,Beast Sword - Karajishi!
+Dialogue: 0,0:14:25.90,0:14:30.08,Default,,0000,0000,0000,,Hey, do you know how much my bounty is?
+Dialogue: 0,0:14:30.08,0:14:31.72,Default,,0000,0000,0000,,It's 700 million.
+Dialogue: 0,0:14:33.24,0:14:37.38,Default,,0000,0000,0000,,I'm not someone who a weakling \Nlike you can defeat!
+Dialogue: 0,0:14:37.38,0:14:38.81,Default,,0000,0000,0000,,Lick!
+Dialogue: 0,0:14:39.46,0:14:42.94,Default,,0000,0000,0000,,This will be the last time we talk...
+Dialogue: 0,0:14:56.89,0:15:00.69,Default,,0000,0000,0000,,You escaped death. Lick.
+Dialogue: 0,0:15:02.15,0:15:07.00,Default,,0000,0000,0000,,It's pointless to die here!\NThe dawn of the new world is coming!
+Dialogue: 0,0:15:07.00,0:15:09.22,Default,,0000,0000,0000,,I have to go back!
+Dialogue: 0,0:15:11.83,0:15:14.09,Default,,0000,0000,0000,,You're so handsome.
+Dialogue: 0,0:15:14.09,0:15:17.13,Default,,0000,0000,0000,,I'll reduce it to 50 years.
+Dialogue: 0,0:15:17.13,0:15:19.23,Default,,0000,0000,0000,,Go on with your life.
+Dialogue: 0,0:15:20.75,0:15:22.22,Default,,0000,0000,0000,,At that time,
+Dialogue: 0,0:15:22.22,0:15:27.78,Default,,0000,0000,0000,,if you hadn't sacrificed your left eye,\Nyou would've been killed for sure...
+Dialogue: 0,0:15:29.34,0:15:32.18,Default,,0000,0000,0000,,Was that how bad you wanted to survive?
+Dialogue: 0,0:15:33.83,0:15:35.44,Default,,0000,0000,0000,,All right...
+Dialogue: 0,0:15:35.44,0:15:37.97,Default,,0000,0000,0000,,How old are you now?
+Dialogue: 0,0:15:38.39,0:15:39.91,Default,,0000,0000,0000,,I'm 27...
+Dialogue: 0,0:15:39.91,0:15:46.55,Default,,0000,0000,0000,,You've had 50 years of your lifespan drained\Nso it's like you've lived 77 years already.
+Dialogue: 0,0:15:48.37,0:15:52.01,Default,,0000,0000,0000,,Now, I wonder how many years\Nyou can expect to live...
+Dialogue: 0,0:15:53.57,0:15:56.89,Default,,0000,0000,0000,,I at least wanna choose where to die myself.
+Dialogue: 0,0:15:58.66,0:16:00.34,Default,,0000,0000,0000,,By the way,
+Dialogue: 0,0:16:00.34,0:16:04.26,Default,,0000,0000,0000,,you were the captain of the Nox Pirates...
+Dialogue: 0,0:16:04.26,0:16:08.27,Default,,0000,0000,0000,,"Nox" means "night," doesn't it?
+Dialogue: 0,0:16:08.27,0:16:10.57,Default,,0000,0000,0000,,That sounds rather negative.
+Dialogue: 0,0:16:11.11,0:16:13.41,Default,,0000,0000,0000,,They say, "Every night comes to an end."
+Dialogue: 0,0:16:14.55,0:16:15.75,Default,,0000,0000,0000,,And...
+Dialogue: 0,0:16:16.89,0:16:19.65,Default,,0000,0000,0000,,..."nox" means the same as...
+Dialogue: 0,0:16:21.14,0:16:23.06,Default,,0000,0000,0000,,..."before the dawn"...
+Dialogue: 0,0:16:24.65,0:16:26.26,Default,,0000,0000,0000,,{\i1}If I can serve as a foundation for the
+Dialogue: 0,0:16:26.26,0:16:29.25,Default,,0000,0000,0000,,new dawn of the world\Nthat the Master and the others are hoping for,{\i0}
+Dialogue: 0,0:16:29.25,0:16:30.63,Default,,0000,0000,0000,,{\i1}that's what I want the most.{\i0}
+Dialogue: 0,0:16:32.07,0:16:34.75,Default,,0000,0000,0000,,{\i1}I think I have enough time for that...{\i0}
+Dialogue: 0,0:16:38.74,0:16:45.34,Default,,0000,0000,0000,,You once said that "before the dawn"\Nand "nox" meant the same thing...
+Dialogue: 0,0:16:45.34,0:16:51.86,Default,,0000,0000,0000,,But the only thing that's waiting for you\Nis the eternal darkness called death.
+Dialogue: 0,0:16:51.86,0:16:52.74,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:17:10.78,0:17:14.30,Default,,0000,0000,0000,,There it comes! Gather up!
+Dialogue: 0,0:17:43.64,0:17:47.79,Default,,0000,0000,0000,,So that's the Roger Pirates' ship...\NThe Oro Jackson!
+Dialogue: 0,0:18:08.62,0:18:12.27,Default,,0000,0000,0000,,Roger! Oden-{\i1}sama{\i0}! Take me along!
+Dialogue: 0,0:18:18.84,0:18:22.31,Default,,0000,0000,0000,,I'll do anything! Take me with you!
+Dialogue: 0,0:18:24.56,0:18:28.00,Default,,0000,0000,0000,,Kid, you still have to wait.
+Dialogue: 0,0:18:28.00,0:18:30.96,Default,,0000,0000,0000,,I'm not a kid, I'm Pedro!
+Dialogue: 0,0:18:36.61,0:18:39.63,Default,,0000,0000,0000,,My time is limited.
+Dialogue: 0,0:18:39.63,0:18:44.64,Default,,0000,0000,0000,,Listen! Everyone has their own turn.
+Dialogue: 0,0:18:46.66,0:18:48.76,Default,,0000,0000,0000,,Be patient and wait!
+Dialogue: 0,0:18:48.76,0:18:54.05,Default,,0000,0000,0000,,It'll come naturally. Your turn, I mean...
+Dialogue: 0,0:18:55.50,0:18:58.30,Default,,0000,0000,0000,,Goodbye, Pedro.
+Dialogue: 0,0:18:59.97,0:19:02.62,Default,,0000,0000,0000,,Okay, Roger!
+Dialogue: 0,0:19:12.94,0:19:14.44,Default,,0000,0000,0000,,Pedro!
+Dialogue: 0,0:19:15.19,0:19:16.42,Default,,0000,0000,0000,,Roger...
+Dialogue: 0,0:19:16.73,0:19:18.34,Default,,0000,0000,0000,,What about him?
+Dialogue: 0,0:19:22.20,0:19:23.64,Default,,0000,0000,0000,,They say he died!
+Dialogue: 0,0:19:25.37,0:19:26.71,Default,,0000,0000,0000,,You've got to be kidding!
+Dialogue: 0,0:19:26.71,0:19:30.35,Default,,0000,0000,0000,,He's not gonna die!\NHe's the King of the Pirates!
+Dialogue: 0,0:19:31.21,0:19:32.85,Default,,0000,0000,0000,,I'm not kidding!
+Dialogue: 0,0:19:32.85,0:19:37.09,Default,,0000,0000,0000,,He got caught by the Navy\Nand at an execution ground in the East Blue...
+Dialogue: 0,0:19:59.32,0:20:01.48,Default,,0000,0000,0000,,My treasure?
+Dialogue: 0,0:20:01.92,0:20:04.39,Default,,0000,0000,0000,,If you want it, you can have it!
+Dialogue: 0,0:20:04.62,0:20:06.30,Default,,0000,0000,0000,,Find it!
+Dialogue: 0,0:20:06.30,0:20:09.52,Default,,0000,0000,0000,,I left everything this \Nworld has to offer there!
+Dialogue: 0,0:20:21.42,0:20:27.48,Default,,0000,0000,0000,,This is the beginning.\NA new era has finally dawned.
+Dialogue: 0,0:20:46.28,0:20:51.34,Default,,0000,0000,0000,,{\i1}Wishes will be carried over.\NThe tide of time, people's dreams...{\i0}
+Dialogue: 0,0:20:51.34,0:20:54.80,Default,,0000,0000,0000,,{\i1}Those things can't be stopped.{\i0}
+Dialogue: 0,0:20:56.16,0:20:59.27,Default,,0000,0000,0000,,{\i1}As long as people search for\Nthe meaning of freedom,{\i0}
+Dialogue: 0,0:20:59.27,0:21:02.99,Default,,0000,0000,0000,,{\i1}those things will see no end.{\i0}
+Dialogue: 0,0:21:09.22,0:21:10.66,Default,,0000,0000,0000,,Roger...
+Dialogue: 0,0:21:14.60,0:21:15.87,Default,,0000,0000,0000,,I decided.
+Dialogue: 0,0:21:20.36,0:21:23.21,Default,,0000,0000,0000,,I'll take... to sea, too!
+Dialogue: 0,0:21:26.34,0:21:31.80,Default,,0000,0000,0000,,Even if you deny it,\Nthe dawn didn't come to you...
+Dialogue: 0,0:21:31.80,0:21:33.06,Default,,0000,0000,0000,,Lick.
+Dialogue: 0,0:21:33.41,0:21:35.44,Default,,0000,0000,0000,,You think... so?
+Dialogue: 0,0:21:36.87,0:21:41.94,Default,,0000,0000,0000,,Roger said, "Everyone has their own turn"!
+Dialogue: 0,0:21:42.25,0:21:43.94,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:21:43.94,0:21:45.78,Default,,0000,0000,0000,,This is my turn!
+Dialogue: 0,0:21:48.72,0:21:52.24,Default,,0000,0000,0000,,This will break all of your-{\i1}gara \N\{\i0}Nmagic spells, right?
+Dialogue: 0,0:21:53.02,0:21:54.15,Default,,0000,0000,0000,,Bombs?!
+Dialogue: 0,0:21:54.15,0:21:57.94,Default,,0000,0000,0000,,Stop, you fool!\NWhat are you thinking?!
+Dialogue: 0,0:21:58.44,0:22:00.13,Default,,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:22:04.82,0:22:06.11,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:22:07.28,0:22:10.26,Default,,0000,0000,0000,,...had a feeling that this \Nwould be my last journey.
+Dialogue: 0,0:22:10.26,0:22:12.37,Default,,0000,0000,0000,,What do you mean, Pedro?
+Dialogue: 0,0:22:18.68,0:22:19.85,Default,,0000,0000,0000,,Pedro?!
+Dialogue: 0,0:22:20.46,0:22:21.69,Default,,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:22:51.28,0:22:53.31,Default,,0000,0000,0000,,What do you mean, Pedro?
+Dialogue: 0,0:22:53.78,0:22:57.23,Default,,0000,0000,0000,,One day, you'll see how important it was...
+Dialogue: 0,0:22:57.75,0:23:02.54,Default,,0000,0000,0000,,...to save Luffy and the others here\Nand let them set sail!
+Dialogue: 0,0:23:06.55,0:23:09.24,Default,,0000,0000,0000,,Pedro!!
+Dialogue: 0,0:23:10.43,0:23:11.98,Default,,0000,0000,0000,,{\i1}Listen!{\i0}
+Dialogue: 0,0:23:11.98,0:23:15.08,Italics,,0000,0000,0000,,{\i1}You-{\i0}gara{\i1} guys must go forward!{\i0}
+Dialogue: 0,0:23:24.36,0:23:27.51,Italics,,0000,0000,0000,,{\i1}Pedro cleared the path for \Na slight chance of escape!{\i0}
+Dialogue: 0,0:23:27.96,0:23:30.22,Italics,,0000,0000,0000,,{\i1}However, to crush that ray of hope,
+Dialogue: 0,0:23:30.22,0:23:33.80,Italics,,0000,0000,0000,,Big Mom and Katakuri \Nmercilessly attack the Sunny!{\i0}
+Dialogue: 0,0:23:33.96,0:23:36.09,Italics,,0000,0000,0000,,{\i1}There is only one way to survive!
+Dialogue: 0,0:23:36.09,0:23:40.89,Italics,,0000,0000,0000,,With Pedro's wishes in mind,\NLuffy takes a big bet with determination!{\i0}
+Dialogue: 0,0:23:40.89,0:23:45.72,Default,,0000,0000,0000,,On the next episode of One Piece!\N"I'll Be Back! Luffy, Deadly Departure!"
+Dialogue: 0,0:23:45.72,0:23:48.19,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!
+Dialogue: 0,0:23:48.84,0:23:50.84,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:50.84,0:23:52.84,On Top,,0000,0000,0000,,
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:17.01,0:00:20.52,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i}
+Dialogue: 0,0:00:17.01,0:00:20.52,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i}
+Dialogue: 0,0:00:20.56,0:00:23.94,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i}
+Dialogue: 0,0:00:20.56,0:00:23.94,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i}
+Dialogue: 0,0:00:23.98,0:00:29.73,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll brandish our unchanging bond{\i}
+Dialogue: 0,0:00:23.98,0:00:29.73,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo kawaranu kizuna furikazasou{\i}
+Dialogue: 0,0:00:29.78,0:00:31.32,Default,,0000,0000,0000,,{\i1}We are hope{\i}
+Dialogue: 0,0:00:29.78,0:00:31.32,On Top,,0000,0000,0000,,{\i1}We are hope{\i}
+Dialogue: 0,0:00:37.37,0:00:44.21,Default,,0000,0000,0000,,{\i1}The joy of letting our true feelings fly at each other{\i}
+Dialogue: 0,0:00:37.37,0:00:44.21,On Top,,0000,0000,0000,,{\i1}kimi to honki de kokoro butsukeatta yorokobi mo{\i}
+Dialogue: 0,0:00:44.25,0:00:51.46,Default,,0000,0000,0000,,{\i1}The pain from how we laughed our heads off to dry our tears{\i}
+Dialogue: 0,0:00:44.25,0:00:51.46,On Top,,0000,0000,0000,,{\i1}warai korogete namida kawakashita setsunasa mo{\i}
+Dialogue: 0,0:00:51.51,0:00:58.35,Default,,0000,0000,0000,,{\i1}We connect them together and in the wind Ah{\i}
+Dialogue: 0,0:00:51.51,0:00:58.35,On Top,,0000,0000,0000,,{\i1}tsunagi awasete kaze no naka Ah{\i}
+Dialogue: 0,0:00:58.39,0:01:05.10,Default,,0000,0000,0000,,{\i1}It's fluttering higher and higher{\i}
+Dialogue: 0,0:00:58.39,0:01:05.10,On Top,,0000,0000,0000,,{\i1}hatameiteiru yo takaku takaku{\i}
+Dialogue: 0,0:01:05.14,0:01:08.27,Default,,0000,0000,0000,,{\i1}Why did you give up on your search?{\i}
+Dialogue: 0,0:01:05.14,0:01:08.27,On Top,,0000,0000,0000,,{\i1}Why sagasu koto wo akirameta no{\i}
+Dialogue: 0,0:01:08.31,0:01:11.69,Default,,0000,0000,0000,,{\i1}Why do you keep fighting by yourself?{\i}
+Dialogue: 0,0:01:08.31,0:01:11.69,On Top,,0000,0000,0000,,{\i1}Why hitori tatakai tsudukeru no{\i}
+Dialogue: 0,0:01:11.73,0:01:14.57,Default,,0000,0000,0000,,{\i1}Say, what kind of future did you prepare for?{\i}
+Dialogue: 0,0:01:11.73,0:01:14.57,On Top,,0000,0000,0000,,{\i1}nee, donna mirai kakugo shita no{\i}
+Dialogue: 0,0:01:14.61,0:01:18.12,Default,,0000,0000,0000,,{\i1}Have you fulfilled your dream?{\i}
+Dialogue: 0,0:01:14.61,0:01:18.12,On Top,,0000,0000,0000,,{\i1}yume wa mou te ni shita no{\i}
+Dialogue: 0,0:01:18.53,0:01:22.04,Default,,0000,0000,0000,,{\i1}My heart throbs at the thought of you{\i}
+Dialogue: 0,0:01:18.53,0:01:22.04,On Top,,0000,0000,0000,,{\i1}kimi e no omoi ga takanatte{\i}
+Dialogue: 0,0:01:22.08,0:01:25.79,Default,,0000,0000,0000,,{\i1}Limitless power surges{\i}
+Dialogue: 0,0:01:22.08,0:01:25.79,On Top,,0000,0000,0000,,{\i1}kagirinaki chikara umareru{\i}
+Dialogue: 0,0:01:25.83,0:01:31.34,Default,,0000,0000,0000,,{\i1}As long as you wish, we'll brandish our unchanging bond{\i}
+Dialogue: 0,0:01:25.83,0:01:31.34,On Top,,0000,0000,0000,,{\i1}motomeru naraba dokomademo kawaranu kizuna furikazasou{\i}
+Dialogue: 0,0:01:31.38,0:01:32.55,Default,,0000,0000,0000,,{\i1}We are hope{\i}
+Dialogue: 0,0:01:31.38,0:01:32.55,On Top,,0000,0000,0000,,{\i1}We are hope{\i}
+Dialogue: 0,0:01:32.75,0:01:36.13,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i}
+Dialogue: 0,0:01:32.75,0:01:36.13,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i}
+Dialogue: 0,0:01:36.17,0:01:38.68,Default,,0000,0000,0000,,{\i1}There is a place that I want to go with you{\i}
+Dialogue: 0,0:01:36.17,0:01:38.68,On Top,,0000,0000,0000,,{\i1}kimi to mezashitai basho ga aru{\i}
+Dialogue: 0,0:01:38.72,0:01:41.47,Default,,0000,0000,0000,,{\i1}The sea route that we take{\i}
+Dialogue: 0,0:01:38.72,0:01:41.47,On Top,,0000,0000,0000,,{\i1}susumiyuku kouro nara{\i}
+Dialogue: 0,0:01:41.51,0:01:48.23,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i}
+Dialogue: 0,0:01:41.51,0:01:48.23,On Top,,0000,0000,0000,,{\i1}tooi mukashi mou kimeteita{\i}
+Dialogue: 0,0:01:58.91,0:02:02.41,Default,,0000,0000,0000,,{\i1}Your voice that hasn't reached me yet{\i}
+Dialogue: 0,0:01:58.91,0:02:02.41,On Top,,0000,0000,0000,,{\i1}mada todokanai kimi no koe ga{\i}
+Dialogue: 0,0:02:02.45,0:02:06.04,Default,,0000,0000,0000,,{\i1}crushes my helpless heart{\i}
+Dialogue: 0,0:02:02.45,0:02:06.04,On Top,,0000,0000,0000,,{\i1}muryoku na mune wo oshitsubusu{\i}
+Dialogue: 0,0:02:06.08,0:02:09.29,Default,,0000,0000,0000,,{\i1}I'm wanting you{\i}
+Dialogue: 0,0:02:06.08,0:02:09.29,On Top,,0000,0000,0000,,{\i1}boku wa kimi wo motometeiru kara{\i}
+Dialogue: 0,0:02:09.33,0:02:14.13,Default,,0000,0000,0000,,{\i1}so I'll keep believing in the morning when the light comes in{\i}
+Dialogue: 0,0:02:09.33,0:02:14.13,On Top,,0000,0000,0000,,{\i1}hikari sashikomu asa wo shinjite iyou{\i}
+Dialogue: 0,0:02:14.17,0:02:17.97,Default,,0000,0000,0000,,{\i1}Close your eyes and listen carefully{\i}
+Dialogue: 0,0:02:14.17,0:02:17.97,On Top,,0000,0000,0000,,{\i1}me wo tojite mimi wo sumashite{\i}
+Dialogue: 0,0:02:18.01,0:02:21.47,Default,,0000,0000,0000,,{\i1}Let's look for your answer{\i}
+Dialogue: 0,0:02:18.01,0:02:21.47,On Top,,0000,0000,0000,,{\i1}sagashi dasou kimi no kotae wo{\i}
+Dialogue: 0,0:02:21.51,0:02:27.27,Default,,0000,0000,0000,,{\i1}The road always continues towards the sea that you've never seen{\i}
+Dialogue: 0,0:02:21.51,0:02:27.27,On Top,,0000,0000,0000,,{\i1}michi wa kanarazu tsuduiteiru yo mada mitakoto no nai umi e{\i}
+Dialogue: 0,0:02:27.31,0:02:28.31,Default,,0000,0000,0000,,{\i1}We are hope{\i}
+Dialogue: 0,0:02:27.31,0:02:28.31,On Top,,0000,0000,0000,,{\i1}We are hope{\i}
+Dialogue: 0,0:02:28.48,0:02:31.86,Default,,0000,0000,0000,,{\i1}At the broad, blue end of the world{\i}
+Dialogue: 0,0:02:28.48,0:02:31.86,On Top,,0000,0000,0000,,{\i1}aoku hiroi sekai no hate ni{\i}
+Dialogue: 0,0:02:31.90,0:02:34.36,Default,,0000,0000,0000,,{\i1}There is a place I have to return to with you{\i}
+Dialogue: 0,0:02:31.90,0:02:34.36,On Top,,0000,0000,0000,,{\i1}kimi to kaeru beki basho ga aru{\i}
+Dialogue: 0,0:02:34.40,0:02:37.15,Default,,0000,0000,0000,,{\i1}We will be forever{\i}
+Dialogue: 0,0:02:34.40,0:02:37.15,On Top,,0000,0000,0000,,{\i1}boku tachi wa eien ni{\i}
+Dialogue: 0,0:02:37.19,0:02:44.33,Default,,0000,0000,0000,,{\i1}decided long ago in the past{\i}
+Dialogue: 0,0:02:37.19,0:02:44.33,On Top,,0000,0000,0000,,{\i1}tooi mukashi sou kimeteita{\i}
+Dialogue: 0,0:02:48.16,0:02:54.67,Default,,0000,0000,0000,,{\i1}In order to escape from the Whole Cake Island,\NLuffy and his allies finally reached the Sunny.{\i}
+Dialogue: 0,0:02:56.76,0:03:02.72,Default,,0000,0000,0000,,{\i1}However, Sweet General Katakuri and the others\Nwho were there waiting blocked their way!{\i}
+Dialogue: 0,0:03:02.76,0:03:04.35,Default,,0000,0000,0000,,{\i1}While Big Mom closes in{\i}
+Dialogue: 0,0:03:04.39,0:03:09.85,Default,,0000,0000,0000,,{\i1}and the grand fleet of Tarte ships led by Amande\Nnarrows its encirclement,{\i}
+Dialogue: 0,0:03:09.89,0:03:16.53,Default,,0000,0000,0000,,{\i1}Perospero covered the Sunny with candy\Nand restrained its movement.{\i}
+Dialogue: 0,0:03:17.44,0:03:20.90,Default,,0000,0000,0000,,Did you see the power of Candy Wave?!
+Dialogue: 0,0:03:20.95,0:03:23.62,Default,,0000,0000,0000,,I'm a perfectionist!
+Dialogue: 0,0:03:26.03,0:03:29.29,Default,,0000,0000,0000,,{\i1}To let the Sunny flee, Pedro...{\i}
+Dialogue: 0,0:03:29.45,0:03:34.25,Default,,0000,0000,0000,,Roger said, "Everyone has their own turn"!
+Dialogue: 0,0:03:34.63,0:03:36.34,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:03:36.50,0:03:38.17,Default,,0000,0000,0000,,This is my turn!
+Dialogue: 0,0:03:40.80,0:03:44.18,Default,,0000,0000,0000,,This will break all of your-{\i1}gara{\i} magic spells, right?
+Dialogue: 0,0:03:44.97,0:03:46.18,Default,,0000,0000,0000,,Bombs?!
+Dialogue: 0,0:03:46.22,0:03:49.27,Default,,0000,0000,0000,,Stop, you fool!\NWhat are you thinking?!
+Dialogue: 0,0:03:50.10,0:03:51.31,Default,,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:04:16.59,0:04:19.00,Default,,0000,0000,0000,,Pedro!!
+Dialogue: 0,0:04:20.13,0:04:21.55,Default,,0000,0000,0000,,{\i1}Listen!{\i}
+Dialogue: 0,0:04:21.59,0:04:24.47,Default,,0000,0000,0000,,{\i1}You-{\i}gara{\i1} guys must go forward!{\i}
+Dialogue: 0,0:04:27.76,0:04:33.35,Default,,0000,0000,0000,,{\i1}"I'll Be Back!\NLuffy, Deadly Departure!"{\i}
+Dialogue: 0,0:04:42.53,0:04:44.15,Default,,0000,0000,0000,,Pedro!
+Dialogue: 0,0:04:44.99,0:04:47.57,Default,,0000,0000,0000,,Don't tell me Big Bro Peros is...
+Dialogue: 0,0:04:51.79,0:04:55.71,Default,,0000,0000,0000,,Oh, no! Mama and Perospero-{\i1}sama{\i}...
+Dialogue: 0,0:04:55.87,0:04:57.92,Default,,0000,0000,0000,,...Got involved in the explosion!
+Dialogue: 0,0:05:10.72,0:05:13.89,Default,,0000,0000,0000,,The candy of his special ability\Nis starting to melt!
+Dialogue: 0,0:05:18.61,0:05:21.40,Default,,0000,0000,0000,,I can't believe he sacrificed himself...
+Dialogue: 0,0:05:21.44,0:05:24.03,Default,,0000,0000,0000,,How dare you, Pedro!
+Dialogue: 0,0:05:37.25,0:05:39.63,Default,,0000,0000,0000,,I thought I was gonna die!
+Dialogue: 0,0:05:39.79,0:05:41.80,Default,,0000,0000,0000,,Are you guys okay?!
+Dialogue: 0,0:05:49.47,0:05:50.80,Default,,0000,0000,0000,,No, Carrot!
+Dialogue: 0,0:05:50.97,0:05:55.52,Default,,0000,0000,0000,,Let go of me! Let me get back to where Pedro was!\NMaybe he's still alive!
+Dialogue: 0,0:05:55.68,0:06:00.65,Default,,0000,0000,0000,,No! You saw that explosion...\NHe saved us!
+Dialogue: 0,0:06:00.69,0:06:04.40,Default,,0000,0000,0000,,We've had no chance to survive\Nup until now!
+Dialogue: 0,0:06:04.44,0:06:08.07,Default,,0000,0000,0000,,You have to understand Pedro's reasoning!\NPlease!
+Dialogue: 0,0:06:11.24,0:06:13.54,Default,,0000,0000,0000,,Ready to fly, Nami?!
+Dialogue: 0,0:06:14.49,0:06:16.25,Default,,0000,0000,0000,,Yes, it's all set!
+Dialogue: 0,0:06:16.29,0:06:19.83,Default,,0000,0000,0000,,Chopper! Brook! Are you with us?
+Dialogue: 0,0:06:20.88,0:06:22.00,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:06:22.04,0:06:23.09,Default,,0000,0000,0000,,Jimbei!
+Dialogue: 0,0:06:23.25,0:06:25.67,Default,,0000,0000,0000,,Yes, they're with us!
+Dialogue: 0,0:06:26.55,0:06:28.63,Default,,0000,0000,0000,,Set sail, you guys!
+Dialogue: 0,0:06:35.64,0:06:38.10,Default,,0000,0000,0000,,If we waste this moment...
+Dialogue: 0,0:06:38.14,0:06:40.81,Default,,0000,0000,0000,,we'd make Pedro ashamed of us!
+Dialogue: 0,0:06:40.85,0:06:44.02,Default,,0000,0000,0000,,We'll get out of here no matter what!
+Dialogue: 0,0:06:50.49,0:06:52.20,Default,,0000,0000,0000,,At any price!
+Dialogue: 0,0:06:54.20,0:06:55.99,Default,,0000,0000,0000,,Why is everyone...
+Dialogue: 0,0:06:57.25,0:06:59.41,Default,,0000,0000,0000,,...so heated up?!
+Dialogue: 0,0:07:02.29,0:07:04.92,Default,,0000,0000,0000,,Go away, Big Mom Pirates!
+Dialogue: 0,0:07:05.09,0:07:06.00,Default,,0000,0000,0000,,Carrot!
+Dialogue: 0,0:07:22.48,0:07:25.11,Default,,0000,0000,0000,,Come on! Is that all you've got?!
+Dialogue: 0,0:07:25.40,0:07:27.03,Default,,0000,0000,0000,,Ow, ow, ow...
+Dialogue: 0,0:07:27.19,0:07:30.49,Default,,0000,0000,0000,,Don't hold back! Try to strike harder!
+Dialogue: 0,0:07:30.53,0:07:35.03,Default,,0000,0000,0000,,You can master swordsmanship\Nafter you dedicate all of yourself!
+Dialogue: 0,0:07:41.71,0:07:43.33,Default,,0000,0000,0000,,Oops...
+Dialogue: 0,0:07:44.21,0:07:48.38,Default,,0000,0000,0000,,Get up! Get on your feet, Carrot!\NAnd take the sword!
+Dialogue: 0,0:07:48.42,0:07:54.89,Default,,0000,0000,0000,,Until you-{\i1}gara{\i} become a full-fledged swordswoman,\NI'll teach you with all my might!
+Dialogue: 0,0:07:55.97,0:07:58.64,Default,,0000,0000,0000,,She-{\i1}gara{\i} have no aptitude for swords.
+Dialogue: 0,0:07:58.85,0:08:01.35,Default,,0000,0000,0000,,Pedro! It's none of your business.
+Dialogue: 0,0:08:01.39,0:08:05.15,Default,,0000,0000,0000,,Carrot will become a strong swordswoman\Nunder my guidance.
+Dialogue: 0,0:08:05.31,0:08:10.61,Default,,0000,0000,0000,,There is more than one way to get stronger.\NThere must be a way that's better suited for her.
+Dialogue: 0,0:08:13.07,0:08:15.45,Default,,0000,0000,0000,,No, no! You're too soft, Pedro!
+Dialogue: 0,0:08:15.49,0:08:19.49,Default,,0000,0000,0000,,Training should push you to your limits\Nand break you!
+Dialogue: 0,0:08:19.66,0:08:21.96,Default,,0000,0000,0000,,That's so annoying.
+Dialogue: 0,0:08:22.00,0:08:25.04,Default,,0000,0000,0000,,If you think everyone's like you-{\i1}gara{\i},\Nyou're totally wrong.
+Dialogue: 0,0:08:25.21,0:08:26.29,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:26.46,0:08:29.05,Default,,0000,0000,0000,,Can I take her-{\i1}gara{\i} under my care?
+Dialogue: 0,0:08:29.46,0:08:33.13,Default,,0000,0000,0000,,Of course, only if she's interested.
+Dialogue: 0,0:08:43.10,0:08:44.27,Default,,0000,0000,0000,,What is this?
+Dialogue: 0,0:08:46.60,0:08:48.15,Default,,0000,0000,0000,,Take a fighting pose.
+Dialogue: 0,0:08:50.65,0:08:53.36,Default,,0000,0000,0000,,That's more suited for you-{\i1}gara{\i}.
+Dialogue: 0,0:08:59.24,0:09:02.16,Default,,0000,0000,0000,,You-{\i1}gara{\i} can float in the air for quite a while.
+Dialogue: 0,0:09:02.20,0:09:08.50,Default,,0000,0000,0000,,If you take advantage of that and your Electro,\Nyou-{\i1}gara{\i} can acquire your own strength and way of fighting.
+Dialogue: 0,0:09:08.67,0:09:09.67,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:09:10.04,0:09:11.34,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:11.38,0:09:14.51,Default,,0000,0000,0000,,Attack me. I'll be your training partner.
+Dialogue: 0,0:09:14.67,0:09:16.18,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:09:29.77,0:09:32.82,Default,,0000,0000,0000,,I thought I couldn't become strong.
+Dialogue: 0,0:09:33.15,0:09:36.36,Default,,0000,0000,0000,,I can't believe there's a suited skill for me.
+Dialogue: 0,0:09:36.95,0:09:39.32,Default,,0000,0000,0000,,Thanks to you, Pedro.
+Dialogue: 0,0:09:39.62,0:09:41.87,Default,,0000,0000,0000,,It doesn't matter how you fight.
+Dialogue: 0,0:09:41.91,0:09:45.75,Default,,0000,0000,0000,,From now on, you must be a strong fighter\Nand constantly prepared.
+Dialogue: 0,0:09:48.12,0:09:51.71,Default,,0000,0000,0000,,Everyone has their own turn.
+Dialogue: 0,0:09:52.59,0:09:53.92,Default,,0000,0000,0000,,Carrot...
+Dialogue: 0,0:09:54.30,0:09:55.92,Default,,0000,0000,0000,,You'll have your turn, too.
+Dialogue: 0,0:10:14.94,0:10:16.74,Default,,0000,0000,0000,,Don't worry...
+Dialogue: 0,0:10:16.78,0:10:18.74,Default,,0000,0000,0000,,I know you can do it...
+Dialogue: 0,0:10:23.58,0:10:25.75,Default,,0000,0000,0000,,I'm sure you can...
+Dialogue: 0,0:10:35.38,0:10:36.80,Default,,0000,0000,0000,,Electrical...
+Dialogue: 0,0:10:44.47,0:10:47.98,Default,,0000,0000,0000,,As long as I'm here, I won't let you set sail!
+Dialogue: 0,0:10:58.40,0:11:02.82,Default,,0000,0000,0000,,{\i1}From now on, you must be a strong fighter\Nand constantly prepared.{\i}
+Dialogue: 0,0:11:02.87,0:11:06.04,Default,,0000,0000,0000,,{\i1}Everyone has their own turn.{\i}
+Dialogue: 0,0:11:06.08,0:11:08.66,Default,,0000,0000,0000,,{\i1}I know you can do it...{\i}
+Dialogue: 0,0:11:09.29,0:11:11.25,Default,,0000,0000,0000,,{\i1}I'm sure you can...{\i}
+Dialogue: 0,0:11:11.83,0:11:14.09,Default,,0000,0000,0000,,{\i1}Wait, Pedro!{\i}
+Dialogue: 0,0:11:14.59,0:11:16.46,Default,,0000,0000,0000,,{\i1}Don't go!{\i}
+Dialogue: 0,0:11:32.56,0:11:35.11,Default,,0000,0000,0000,,{\i1}I'm sorry, Pedro...{\i}
+Dialogue: 0,0:11:35.15,0:11:37.61,Default,,0000,0000,0000,,{\i1}You took the trouble to teach me...{\i}
+Dialogue: 0,0:11:37.65,0:11:41.15,Default,,0000,0000,0000,,{\i1}I can't believe I'm completely helpless...{\i}
+Dialogue: 0,0:11:41.53,0:11:49.66,Default,,0000,0000,0000,,{\i1}I have to live up to the expectations you had...\Nthat made you sacrifice yourself for our escape...{\i}
+Dialogue: 0,0:11:49.70,0:11:53.00,Default,,0000,0000,0000,,{\i1}Pedro... I'm sorry...{\i}
+Dialogue: 0,0:11:57.05,0:11:59.80,Default,,0000,0000,0000,,Get your foot off of Carrot!
+Dialogue: 0,0:12:06.01,0:12:07.97,Default,,0000,0000,0000,,Carrot! Leave him to me!
+Dialogue: 0,0:12:09.02,0:12:10.39,Default,,0000,0000,0000,,Luffy...
+Dialogue: 0,0:12:16.11,0:12:18.69,Default,,0000,0000,0000,,I hope you're strong enough to kick me out...
+Dialogue: 0,0:12:23.82,0:12:28.20,Default,,0000,0000,0000,,We'll set sail! I'm the captain of this ship!
+Dialogue: 0,0:12:28.24,0:12:31.96,Default,,0000,0000,0000,,Gum-Gum Elephant Gun!
+Dialogue: 0,0:12:43.47,0:12:45.05,Default,,0000,0000,0000,,--Nami!\N--I know!
+Dialogue: 0,0:12:45.93,0:12:48.22,Default,,0000,0000,0000,,Okay! While they're at it...
+Dialogue: 0,0:12:48.26,0:12:50.01,Default,,0000,0000,0000,,The sails can stay like that.
+Dialogue: 0,0:12:51.22,0:12:53.85,Default,,0000,0000,0000,,Towards the northwest, Coup de Burst!
+Dialogue: 0,0:12:53.89,0:12:58.86,Default,,0000,0000,0000,,Azimuth: 45 degrees to northwest!\NPitch: 35 degrees!
+Dialogue: 0,0:12:58.90,0:13:04.03,Default,,0000,0000,0000,,Three cola barrels are loaded.\NAgitate the energy!
+Dialogue: 0,0:13:09.03,0:13:10.45,Default,,0000,0000,0000,,What is this vibration?!
+Dialogue: 0,0:13:10.87,0:13:15.71,Default,,0000,0000,0000,,By shaking the cola barrels up and down,\Nwe're tapping the energy of the carbonation!
+Dialogue: 0,0:13:18.71,0:13:20.21,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:13:20.25,0:13:23.46,Default,,0000,0000,0000,,I certainly can't attack others\NIf you do that.
+Dialogue: 0,0:13:23.63,0:13:27.22,Default,,0000,0000,0000,,This way, you can't stop it\Neven if you know what'll happen!
+Dialogue: 0,0:13:29.26,0:13:33.35,Default,,0000,0000,0000,,Those fools... I won't let them get away...
+Dialogue: 0,0:13:33.39,0:13:35.60,Default,,0000,0000,0000,,I'll avenge Big Bro Peros!
+Dialogue: 0,0:13:36.19,0:13:39.52,Default,,0000,0000,0000,,All ships, prepare to fire towards the enemy ship!
+Dialogue: 0,0:13:39.56,0:13:41.40,Default,,0000,0000,0000,,Adjust the angle of elevation!
+Dialogue: 0,0:13:42.03,0:13:44.19,Default,,0000,0000,0000,,Shark-{\i1}chan{\i}, come back!
+Dialogue: 0,0:13:45.78,0:13:51.66,Default,,0000,0000,0000,,Chopper-{\i1}san{\i}, could you grab it over there?\NLet's pull it close to the Sunny before they start attacking!
+Dialogue: 0,0:13:51.83,0:13:52.45,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:13:52.62,0:13:57.46,Default,,0000,0000,0000,,One, two! One, two! One, two!
+Dialogue: 0,0:14:10.68,0:14:14.97,Default,,0000,0000,0000,,Hurry up, hurry up!\NLet's pull it close before Big Mom comes!
+Dialogue: 0,0:14:15.14,0:14:16.98,Default,,0000,0000,0000,,Jimbei-{\i1}san{\i}, thank you!
+Dialogue: 0,0:14:17.14,0:14:19.27,Default,,0000,0000,0000,,Tie the rope to the bar!
+Dialogue: 0,0:14:19.31,0:14:20.98,Default,,0000,0000,0000,,Give us a hand, Nami!
+Dialogue: 0,0:14:21.15,0:14:23.40,Default,,0000,0000,0000,,Sorry! I'm not done here yet!
+Dialogue: 0,0:14:33.37,0:14:36.87,Default,,0000,0000,0000,,--She's coming...\N--...This way!
+Dialogue: 0,0:14:42.09,0:14:44.09,Default,,0000,0000,0000,,Nami! Not yet?!
+Dialogue: 0,0:14:44.25,0:14:46.38,Default,,0000,0000,0000,,I know! A little more to go!
+Dialogue: 0,0:14:46.88,0:14:51.72,Default,,0000,0000,0000,,Be careful with my brother and Mama!\NAim at its bow!
+Dialogue: 0,0:14:51.76,0:14:53.43,Default,,0000,0000,0000,,Okay! Fire!
+Dialogue: 0,0:15:19.12,0:15:22.67,Default,,0000,0000,0000,,--She's coming...\N--...This way!
+Dialogue: 0,0:15:24.75,0:15:26.75,Default,,0000,0000,0000,,Nami! Not yet?!
+Dialogue: 0,0:15:26.92,0:15:29.05,Default,,0000,0000,0000,,I know! A little more to go!
+Dialogue: 0,0:15:29.22,0:15:30.84,Default,,0000,0000,0000,,Okay! Fire!
+Dialogue: 0,0:15:39.43,0:15:42.23,Default,,0000,0000,0000,,They're firing at us one after another!
+Dialogue: 0,0:15:42.40,0:15:44.56,Default,,0000,0000,0000,,--We're in trouble!\N--Nami!
+Dialogue: 0,0:15:46.57,0:15:49.19,Default,,0000,0000,0000,,The cola energy has reached its maximum!
+Dialogue: 0,0:15:49.36,0:15:51.24,Default,,0000,0000,0000,,Now! Go!
+Dialogue: 0,0:15:52.45,0:15:54.16,Default,,0000,0000,0000,,Coup de...
+Dialogue: 0,0:15:56.03,0:15:58.33,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:16:02.83,0:16:04.04,Default,,0000,0000,0000,,What's wrong?!
+Dialogue: 0,0:16:08.09,0:16:09.88,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:16:10.84,0:16:12.18,Default,,0000,0000,0000,,Big Mom!
+Dialogue: 0,0:16:13.05,0:16:14.93,Default,,0000,0000,0000,,Oh, no! We gotta get going!
+Dialogue: 0,0:16:15.68,0:16:17.64,Default,,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:16:20.39,0:16:22.27,Default,,0000,0000,0000,,I can't use the Coup de Burst!
+Dialogue: 0,0:16:22.44,0:16:25.48,Default,,0000,0000,0000,,--Nami!\N--What's the matter? I thought it'd fly!
+Dialogue: 0,0:16:25.65,0:16:28.48,Default,,0000,0000,0000,,I think cola has leaked due to the impact!
+Dialogue: 0,0:16:28.65,0:16:29.98,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:32.57,0:16:34.82,Default,,0000,0000,0000,,--They're coming!\N--Let's bring them down!
+Dialogue: 0,0:16:34.99,0:16:35.99,Default,,0000,0000,0000,,No problem!
+Dialogue: 0,0:16:45.12,0:16:48.79,Default,,0000,0000,0000,,Good job, you guys! Let me have a go, too!
+Dialogue: 0,0:16:48.96,0:16:50.25,Default,,0000,0000,0000,,Jimbei, wait!
+Dialogue: 0,0:16:50.92,0:16:55.05,Default,,0000,0000,0000,,I'll go load cola so could you take my place?\NPlease!
+Dialogue: 0,0:16:55.22,0:16:55.93,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:56.09,0:17:01.72,Default,,0000,0000,0000,,Don't worry. We have a Tone Dial\Nwith an audio recording of Franky for these occasions.
+Dialogue: 0,0:17:02.85,0:17:05.06,Default,,0000,0000,0000,,Th-This?!
+Dialogue: 0,0:17:05.94,0:17:09.73,Default,,0000,0000,0000,,{\i1}Franky's navigation system, activate.{\i}
+Dialogue: 0,0:17:10.40,0:17:12.99,Default,,0000,0000,0000,,O... Okay...
+Dialogue: 0,0:17:14.99,0:17:18.45,Default,,0000,0000,0000,,Second round, prepare to fire!\NMaintain your aim.
+Dialogue: 0,0:17:21.24,0:17:24.04,Default,,0000,0000,0000,,Oh, good... Seems like it's not broken.
+Dialogue: 0,0:17:24.46,0:17:27.96,Default,,0000,0000,0000,,It's just one of the barrels fell on the floor...
+Dialogue: 0,0:17:28.13,0:17:31.17,Default,,0000,0000,0000,,All ships are prepared to fire for a second round!
+Dialogue: 0,0:17:31.34,0:17:32.30,Default,,0000,0000,0000,,Fire!
+Dialogue: 0,0:17:33.92,0:17:35.01,Default,,0000,0000,0000,,They fired again!
+Dialogue: 0,0:17:35.17,0:17:39.47,Default,,0000,0000,0000,,Chopper-{\i1}san{\i}, let's bring them down no matter what\Nuntil the cola energy is filled up!
+Dialogue: 0,0:17:39.64,0:17:40.56,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:17:44.56,0:17:49.40,Default,,0000,0000,0000,,{\i1}When the barrel of cola is loaded,\Npush the lever forward!{\i}
+Dialogue: 0,0:17:49.56,0:17:50.73,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:17:55.70,0:17:58.45,Default,,0000,0000,0000,,It's starting to move! I gotta hurry!
+Dialogue: 0,0:18:03.45,0:18:08.33,Default,,0000,0000,0000,,Where is it...? The wedding cake!
+Dialogue: 0,0:18:08.50,0:18:12.50,Default,,0000,0000,0000,,What are you doing?!\NDon't bite our Sunny!
+Dialogue: 0,0:18:12.55,0:18:15.55,Default,,0000,0000,0000,,Damn! If it goes on like this...
+Dialogue: 0,0:18:17.55,0:18:18.88,Default,,0000,0000,0000,,Idiot! Go away!
+Dialogue: 0,0:18:20.39,0:18:22.39,Default,,0000,0000,0000,,Big Bro, I'm here to save you!
+Dialogue: 0,0:18:23.39,0:18:26.48,Default,,0000,0000,0000,,Carrot! Hang on. Can you get up?
+Dialogue: 0,0:18:26.64,0:18:30.10,Default,,0000,0000,0000,,Yes... Nami, thank you.
+Dialogue: 0,0:18:32.90,0:18:35.57,Default,,0000,0000,0000,,Where is it?!
+Dialogue: 0,0:18:35.74,0:18:36.78,Default,,0000,0000,0000,,Big Mom!
+Dialogue: 0,0:18:36.94,0:18:41.99,Default,,0000,0000,0000,,We're really in trouble!\NWe have to get out of here before the ship is destroyed!
+Dialogue: 0,0:18:49.00,0:18:53.42,Default,,0000,0000,0000,,Is that... Pedro?! Is he alive?!
+Dialogue: 0,0:19:06.39,0:19:09.73,Default,,0000,0000,0000,,Damn! Pedro, that bastard!
+Dialogue: 0,0:19:09.89,0:19:12.48,Default,,0000,0000,0000,,--That's not Pedro!\N--No...
+Dialogue: 0,0:19:12.65,0:19:15.82,Default,,0000,0000,0000,,Oh, man... I felt my blood freeze...
+Dialogue: 0,0:19:15.86,0:19:19.32,Default,,0000,0000,0000,,My Candy Armor is destroyed completely...
+Dialogue: 0,0:19:21.95,0:19:26.41,Default,,0000,0000,0000,,No way... Why is he-{\i1}teia{\i} alive?!
+Dialogue: 0,0:19:28.41,0:19:31.54,Default,,0000,0000,0000,,Seems like all the shots of the second round\Nwere intercepted!
+Dialogue: 0,0:19:31.71,0:19:34.54,Default,,0000,0000,0000,,Third round! Hurry up and load!
+Dialogue: 0,0:19:36.09,0:19:38.88,Default,,0000,0000,0000,,L-Let go of me!
+Dialogue: 0,0:19:39.05,0:19:40.47,Default,,0000,0000,0000,,Nami! Carrot!
+Dialogue: 0,0:19:41.34,0:19:42.68,Default,,0000,0000,0000,,Jimbei!
+Dialogue: 0,0:19:42.72,0:19:44.10,Default,,0000,0000,0000,,Brook!
+Dialogue: 0,0:19:44.14,0:19:45.55,Default,,0000,0000,0000,,Chopper!
+Dialogue: 0,0:20:02.24,0:20:03.70,Default,,0000,0000,0000,,Listen to me!
+Dialogue: 0,0:20:04.32,0:20:07.87,Default,,0000,0000,0000,,I'll be back! I'll leave the rest to you!
+Dialogue: 0,0:20:08.04,0:20:10.41,Default,,0000,0000,0000,,What?! What do you mean by that?!
+Dialogue: 0,0:20:16.00,0:20:20.59,Default,,0000,0000,0000,,{\i1}When the lever returns to its original position,\Nthe filling is complete!{\i}
+Dialogue: 0,0:20:20.76,0:20:23.47,Default,,0000,0000,0000,,All right, everyone! Hang onto something!
+Dialogue: 0,0:20:23.63,0:20:24.76,Default,,0000,0000,0000,,I got it!
+Dialogue: 0,0:20:24.93,0:20:27.22,Default,,0000,0000,0000,,We're ready anytime!
+Dialogue: 0,0:20:27.39,0:20:28.76,Default,,0000,0000,0000,,We're ready, too!
+Dialogue: 0,0:20:30.81,0:20:32.23,Default,,0000,0000,0000,,Okay, here we go!
+Dialogue: 0,0:20:33.73,0:20:36.40,Default,,0000,0000,0000,,Don't let them get away! Fire!
+Dialogue: 0,0:20:39.94,0:20:40.73,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:20:40.90,0:20:44.36,Default,,0000,0000,0000,,{\i1}Everybody! Don't forget to shout it!{\i}
+Dialogue: 0,0:20:44.53,0:20:47.78,Default,,0000,0000,0000,,Coup de...
+Dialogue: 0,0:20:50.04,0:20:52.96,Default,,0000,0000,0000,,...Burst!
+Dialogue: 0,0:20:56.38,0:20:59.55,Default,,0000,0000,0000,,{\i1}Super!{\i}
+Dialogue: 0,0:21:05.76,0:21:08.47,Default,,0000,0000,0000,,{\i1}Guys! Did it go well?!{\i}
+Dialogue: 0,0:21:08.51,0:21:12.31,Default,,0000,0000,0000,,{\i1}Fly away at max speed!{\i}
+Dialogue: 0,0:21:12.48,0:21:13.48,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:21:22.32,0:21:23.86,Default,,0000,0000,0000,,This is Amande.
+Dialogue: 0,0:21:23.90,0:21:26.95,Default,,0000,0000,0000,,The enemy ship fled\Nto the sky.
+Dialogue: 0,0:21:27.11,0:21:28.24,Default,,0000,0000,0000,,{\i1}The sky?!{\i}
+Dialogue: 0,0:21:32.20,0:21:34.21,Default,,0000,0000,0000,,Hey, where's Luffy?!
+Dialogue: 0,0:21:39.13,0:21:41.63,Default,,0000,0000,0000,,--That's Straw Hat!\N--Run!
+Dialogue: 0,0:21:47.93,0:21:53.14,DefaultLow,,0000,0000,0000,,MIRROWORLD
+Dialogue: 0,0:22:03.03,0:22:04.69,Default,,0000,0000,0000,,You succeeded...
+Dialogue: 0,0:22:05.53,0:22:08.16,Default,,0000,0000,0000,,Here, I can pummel you as much as I want!
+Dialogue: 0,0:22:11.62,0:22:15.04,Default,,0000,0000,0000,,--The path to the ship!\N--He cut it off himself!
+Dialogue: 0,0:22:32.81,0:22:36.64,Default,,0000,0000,0000,,So that's a captain's determination...
+Dialogue: 0,0:22:37.64,0:22:40.77,Default,,0000,0000,0000,,But you're no match for me.
+Dialogue: 0,0:22:40.81,0:22:43.48,Default,,0000,0000,0000,,This place will be your graveyard.
+Dialogue: 0,0:22:43.86,0:22:46.32,Default,,0000,0000,0000,,I'll go back to the Sunny!
+Dialogue: 0,0:22:46.36,0:22:48.45,Default,,0000,0000,0000,,After I take you down!
+Dialogue: 0,0:23:24.40,0:23:29.49,Default,,0000,0000,0000,,{\i1}Unbelievable power and speed, as well as\NHaki of the Color of Observation that allows him to see the future!{\i}
+Dialogue: 0,0:23:29.53,0:23:34.99,Default,,0000,0000,0000,,{\i1}The Big Mom's Pirates' most formidable agent,\NKatakuri's extraordinary fighting strength!{\i}
+Dialogue: 0,0:23:35.03,0:23:40.00,Default,,0000,0000,0000,,{\i1}To save his friends,\NLuffy faces his biggest-ever challenge!{\i}
+Dialogue: 0,0:23:40.16,0:23:45.00,Default,,0000,0000,0000,,On the next episode of One Piece! "The Man with a\NBounty of Billion! The Strongest Sweet General, Katakuri!"
+Dialogue: 0,0:23:45.04,0:23:48.76,Default,,0000,0000,0000,,I'm gonna become the King of the Pirates!

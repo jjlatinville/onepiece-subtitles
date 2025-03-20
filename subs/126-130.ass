@@ -1,0 +1,1633 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.40,0:00:11.00,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.00,0:00:13.84,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:13.84,0:00:17.01,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.01,0:00:21.01,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.01,0:00:25.68,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.19,0:00:35.69,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.69,0:00:40.20,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.20,0:00:45.37,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.37,0:00:53.71,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:53.71,0:01:03.82,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:03.82,0:01:13.33,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.33,0:01:18.34,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.34,0:01:26.01,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.01,0:01:31.68,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.68,0:01:36.19,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.19,0:01:41.36,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.36,0:01:48.57,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:50.97,0:01:55.44,Default,,0000,0000,0000,,I'm certain that what you're\Nafter isn't in this country.
+Dialogue: 0,0:01:55.44,0:01:59.24,Default,,0000,0000,0000,,Isn't that right?! To achieve\Nsomeone else's goal...
+Dialogue: 0,0:01:59.24,0:02:01.75,Default,,0000,0000,0000,,What's the point in dying over that?!
+Dialogue: 0,0:02:03.98,0:02:07.59,Default,,0000,0000,0000,,That's why I said you don't understand.
+Dialogue: 0,0:02:07.59,0:02:09.09,Default,,0000,0000,0000,,Vivi...
+Dialogue: 0,0:02:10.59,0:02:13.79,Default,,0000,0000,0000,,She tells others not to die,
+Dialogue: 0,0:02:13.79,0:02:17.96,Default,,0000,0000,0000,,but she's the first to lay down\Nher own life to save others.
+Dialogue: 0,0:02:17.96,0:02:22.83,Default,,0000,0000,0000,,That's why I'm telling you that\Nyou can just ditch that burden...!
+Dialogue: 0,0:02:22.83,0:02:27.61,Default,,0000,0000,0000,,We don't want her to die!\NThat's how friends are!
+Dialogue: 0,0:02:33.78,0:02:35.38,Default,,0000,0000,0000,,Vivi-sama...
+Dialogue: 0,0:02:35.38,0:02:39.55,Default,,0000,0000,0000,,I feel proud from the bottom\Nof my heart that I was able
+Dialogue: 0,0:02:39.55,0:02:42.59,Default,,0000,0000,0000,,to serve you, the Nefertari Family.
+Dialogue: 0,0:02:55.43,0:02:59.60,Default,,0000,0000,0000,,I am Alabasta's guardian deity... Falcon!
+Dialogue: 0,0:03:09.65,0:03:14.12,Default,,0000,0000,0000,,The one who destroys...\Nthe royal family's enemies!
+Dialogue: 0,0:03:27.27,0:03:31.24,Default,,0000,0000,0000,,"I Will Surpass You! Rain Falls In Alabasta!"
+Dialogue: 0,0:04:26.16,0:04:27.76,Default,,0000,0000,0000,,Pell...
+Dialogue: 0,0:04:34.37,0:04:36.50,Default,,0000,0000,0000,,That son of a gun...
+Dialogue: 0,0:04:39.17,0:04:42.64,Default,,0000,0000,0000,,He... protected the country...
+Dialogue: 0,0:05:02.23,0:05:06.53,Default,,0000,0000,0000,,Hey... This can't be happening...
+Dialogue: 0,0:05:12.17,0:05:14.21,Default,,0000,0000,0000,,Wait...
+Dialogue: 0,0:05:14.21,0:05:15.77,Default,,0000,0000,0000,,Stop, all of you...!
+Dialogue: 0,0:05:15.77,0:05:17.88,Default,,0000,0000,0000,,Sergeant Major! Watch out!
+Dialogue: 0,0:05:25.78,0:05:27.32,Default,,0000,0000,0000,,What...?
+Dialogue: 0,0:05:29.42,0:05:31.56,Default,,0000,0000,0000,,Tashigi...
+Dialogue: 0,0:05:31.56,0:05:35.79,Default,,0000,0000,0000,,Keep a close watch on\Nwhere this country ends up.
+Dialogue: 0,0:05:35.79,0:05:40.90,Default,,0000,0000,0000,,Something is sure to happen\Nto mark the start of a new age.
+Dialogue: 0,0:05:57.92,0:06:00.35,Default,,0000,0000,0000,,Madness...
+Dialogue: 0,0:06:00.35,0:06:04.19,Default,,0000,0000,0000,,Why... aren't they stopping?
+Dialogue: 0,0:06:04.19,0:06:05.82,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:05.82,0:06:08.39,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:08.39,0:06:09.96,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:09.96,0:06:12.40,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:12.40,0:06:13.97,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:13.97,0:06:16.47,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:16.47,0:06:18.07,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:18.07,0:06:20.41,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:20.41,0:06:21.97,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:21.97,0:06:24.98,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:24.98,0:06:26.58,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:26.58,0:06:29.45,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:29.45,0:06:31.22,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:31.22,0:06:34.22,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:34.22,0:06:36.32,Default,,0000,0000,0000,,--Please...\N--Vivi...
+Dialogue: 0,0:06:38.89,0:06:40.46,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:40.46,0:06:43.43,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:43.43,0:06:44.96,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:44.96,0:06:48.00,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:48.00,0:06:49.80,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:06:49.80,0:06:52.54,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:06:52.54,0:06:56.24,Default,,0000,0000,0000,,Please... stop fighting!
+Dialogue: 0,0:06:56.24,0:07:00.11,Default,,0000,0000,0000,,--Please... stop fighting!\N--You dummy...
+Dialogue: 0,0:07:00.11,0:07:02.85,Default,,0000,0000,0000,,You guys! What're you\Njust standing there for?!
+Dialogue: 0,0:07:02.85,0:07:05.65,Default,,0000,0000,0000,,It doesn't matter if you have to\Npunch or kick! Just stop the rebellion!
+Dialogue: 0,0:07:05.65,0:07:06.92,Default,,0000,0000,0000,,Now! Go!
+Dialogue: 0,0:07:06.92,0:07:08.42,Default,,0000,0000,0000,,Ow!
+Dialogue: 0,0:07:08.42,0:07:12.06,Default,,0000,0000,0000,,Reduce the number of casualties\Nas much as possible!
+Dialogue: 0,0:07:19.83,0:07:21.37,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:07:21.37,0:07:23.23,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:07:23.23,0:07:24.67,Default,,0000,0000,0000,,Please...
+Dialogue: 0,0:07:24.67,0:07:26.60,Default,,0000,0000,0000,,...stop fighting!
+Dialogue: 0,0:07:26.60,0:07:30.38,Default,,0000,0000,0000,,Please... stop fighting!
+Dialogue: 0,0:07:49.23,0:07:53.70,Default,,0000,0000,0000,,Finally... the beginning is here...
+Dialogue: 0,0:07:56.30,0:08:00.64,Default,,0000,0000,0000,,The day that my enormous ambition starts...
+Dialogue: 0,0:08:00.64,0:08:03.57,Default,,0000,0000,0000,,This country is mine!
+Dialogue: 0,0:08:13.55,0:08:17.16,Default,,0000,0000,0000,,We don't want her to die!\NThat's how friends are!
+Dialogue: 0,0:08:20.86,0:08:28.77,Default,,0000,0000,0000,,That's why we won't quit fighting as long\Nas she doesn't give up on her country!
+Dialogue: 0,0:08:53.16,0:08:56.46,Default,,0000,0000,0000,,You... can't...
+Dialogue: 0,0:09:00.23,0:09:02.40,Default,,0000,0000,0000,,...defeat me!
+Dialogue: 0,0:09:06.84,0:09:10.58,Default,,0000,0000,0000,,You finally manage to speak\Nand that's all you have to say?
+Dialogue: 0,0:09:12.44,0:09:18.88,Default,,0000,0000,0000,,That's a bluff that suits you well, a loser\Nwho's about to die any moment...
+Dialogue: 0,0:09:18.88,0:09:20.82,Default,,0000,0000,0000,,And it's even groundless...
+Dialogue: 0,0:09:24.09,0:09:27.76,Default,,0000,0000,0000,,I am the man who'll be King of the Pirates!
+Dialogue: 0,0:09:35.97,0:09:40.41,Default,,0000,0000,0000,,Listen up, brat. The more\Na man knows about this sea,
+Dialogue: 0,0:09:40.41,0:09:44.11,Default,,0000,0000,0000,,the less he'd make such thoughtless remarks.
+Dialogue: 0,0:09:46.38,0:09:53.79,Default,,0000,0000,0000,,I thought I told you that there're\Ntons of rookies like you in this sea.
+Dialogue: 0,0:09:56.82,0:10:00.53,Default,,0000,0000,0000,,The more you learn the level of this sea...
+Dialogue: 0,0:10:00.53,0:10:04.10,Default,,0000,0000,0000,,...the more you'll give up\Non having such dreams!
+Dialogue: 0,0:10:23.68,0:10:27.59,Default,,0000,0000,0000,,I am the man... who will surpass you!
+Dialogue: 0,0:11:33.82,0:11:39.79,Default,,0000,0000,0000,,The scorpion's poison\Nshould definitely be working...
+Dialogue: 0,0:11:39.79,0:11:44.83,Default,,0000,0000,0000,,Where is this brat getting\Nall that strength from...?
+Dialogue: 0,0:11:51.67,0:11:57.98,Default,,0000,0000,0000,,The Mr. 5 duo was taken down?\NWho the hell did it?
+Dialogue: 0,0:11:57.98,0:12:02.95,Default,,0000,0000,0000,,Monkey D. Luffy? Never heard of him...
+Dialogue: 0,0:12:02.95,0:12:04.98,Default,,0000,0000,0000,,There must be a mistake.
+Dialogue: 0,0:12:06.95,0:12:08.62,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:12:10.19,0:12:13.96,Default,,0000,0000,0000,,Are you saying they're still alive?!
+Dialogue: 0,0:12:13.96,0:12:16.86,Default,,0000,0000,0000,,Sir Crocodile...
+Dialogue: 0,0:12:16.86,0:12:19.83,Default,,0000,0000,0000,,Those pirates are in this town...
+Dialogue: 0,0:12:27.24,0:12:31.28,Default,,0000,0000,0000,,You're just a brat who comes\Nfrom who knows where...!
+Dialogue: 0,0:12:31.28,0:12:35.55,Default,,0000,0000,0000,,Who the hell do you think I am?!
+Dialogue: 0,0:12:37.38,0:12:40.02,Default,,0000,0000,0000,,I don't care who you are...
+Dialogue: 0,0:12:41.15,0:12:44.79,Default,,0000,0000,0000,,I'll surpass you!
+Dialogue: 0,0:13:06.58,0:13:11.42,Default,,0000,0000,0000,,Just fall along with this\Nsacred temple already!
+Dialogue: 0,0:13:11.42,0:13:13.52,Default,,0000,0000,0000,,Sables...!
+Dialogue: 0,0:13:18.56,0:13:20.42,Default,,0000,0000,0000,,...Pesado!
+Dialogue: 0,0:13:46.68,0:13:50.02,Default,,0000,0000,0000,,Gum-Gum...!
+Dialogue: 0,0:13:51.09,0:13:53.59,Default,,0000,0000,0000,,Desert...
+Dialogue: 0,0:13:53.59,0:13:55.43,Default,,0000,0000,0000,,...Storm!
+Dialogue: 0,0:13:55.43,0:13:58.33,Default,,0000,0000,0000,,...La Spada!
+Dialogue: 0,0:15:08.23,0:15:13.54,Default,,0000,0000,0000,,Unbelievable... There's so much\Nbedrock between here and the surface...
+Dialogue: 0,0:15:27.65,0:15:30.45,Default,,0000,0000,0000,,Hey, look...! Look at that!
+Dialogue: 0,0:15:39.03,0:15:41.27,Default,,0000,0000,0000,,Crocodile?!
+Dialogue: 0,0:15:59.32,0:16:05.09,Default,,0000,0000,0000,,At this rate, so much blood will be shed\Nthroughout the kingdom. It'll be a war!
+Dialogue: 0,0:16:05.09,0:16:10.46,Default,,0000,0000,0000,,I can't just return safely! I need\Nto return as quickly as possible!
+Dialogue: 0,0:16:10.46,0:16:15.97,Default,,0000,0000,0000,,If I don't make it in time, a million\Ncitizens will kill each other pointlessly!
+Dialogue: 0,0:16:25.08,0:16:32.15,Default,,0000,0000,0000,,I see... Then all we have to do...\Nis beat up that Crocodile, right?
+Dialogue: 0,0:16:35.19,0:16:37.32,Default,,0000,0000,0000,,Luffy-san...
+Dialogue: 0,0:16:43.39,0:16:47.80,Default,,0000,0000,0000,,I don't know why he flew out\Nfrom such a place, but...
+Dialogue: 0,0:16:47.80,0:16:54.84,Default,,0000,0000,0000,,That's right! I knew it from\Nthe start! But in any case...
+Dialogue: 0,0:16:54.84,0:16:58.54,Default,,0000,0000,0000,,He won!!
+Dialogue: 0,0:17:07.38,0:17:11.86,Default,,0000,0000,0000,,When our enemy's already gone...
+Dialogue: 0,0:17:17.56,0:17:22.23,Default,,0000,0000,0000,,Don't shed... any more blood...
+Dialogue: 0,0:17:25.20,0:17:30.11,Default,,0000,0000,0000,,Please stop fighting!
+Dialogue: 0,0:17:50.96,0:17:52.16,Default,,0000,0000,0000,,Koza!
+Dialogue: 0,0:17:52.16,0:17:54.13,Default,,0000,0000,0000,,Are you all right, Koza?!
+Dialogue: 0,0:18:01.44,0:18:02.81,Default,,0000,0000,0000,,Do you get it...?
+Dialogue: 0,0:18:02.81,0:18:04.48,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:16.25,0:18:19.56,Default,,0000,0000,0000,,Don't hold suspicion, Koza.
+Dialogue: 0,0:18:24.86,0:18:28.00,Default,,0000,0000,0000,,The rain will fall.
+Dialogue: 0,0:18:41.81,0:18:45.78,Default,,0000,0000,0000,,The battle will end...
+Dialogue: 0,0:18:50.19,0:18:51.99,Default,,0000,0000,0000,,Rain...
+Dialogue: 0,0:19:05.60,0:19:08.24,Default,,0000,0000,0000,,The madness has stopped...
+Dialogue: 0,0:19:08.24,0:19:10.47,Default,,0000,0000,0000,,They've begun hesitating...
+Dialogue: 0,0:19:13.74,0:19:16.78,Default,,0000,0000,0000,,The air is clearing up due to the rain...
+Dialogue: 0,0:19:23.62,0:19:30.23,Default,,0000,0000,0000,,Please don't fight... any more...!!
+Dialogue: 0,0:19:41.37,0:19:45.28,Default,,0000,0000,0000,,Vivi's voice has reached everyone...
+Dialogue: 0,0:19:50.15,0:19:51.85,Default,,0000,0000,0000,,Vivi-sama...
+Dialogue: 0,0:19:51.85,0:19:53.62,Default,,0000,0000,0000,,It's Vivi-sama...
+Dialogue: 0,0:19:53.62,0:19:55.05,Default,,0000,0000,0000,,Vivi...
+Dialogue: 0,0:19:55.05,0:19:57.89,Default,,0000,0000,0000,,I thought the princess was absent...
+Dialogue: 0,0:20:11.54,0:20:13.50,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:20:18.44,0:20:20.41,Default,,0000,0000,0000,,Crocodile-san...?
+Dialogue: 0,0:20:20.41,0:20:23.95,Default,,0000,0000,0000,,How come he fell into a place like this...?
+Dialogue: 0,0:20:23.95,0:20:27.15,Default,,0000,0000,0000,,Crocodile- "san,"  you said?!
+Dialogue: 0,0:20:27.15,0:20:30.85,Default,,0000,0000,0000,,I'll tell them what he did to this country.
+Dialogue: 0,0:20:30.85,0:20:33.76,Default,,0000,0000,0000,,Wait a sec. Just stay here.
+Dialogue: 0,0:20:50.31,0:20:57.72,Default,,0000,0000,0000,,The rain falling right now...\Nwill fall again as it used to...
+Dialogue: 0,0:20:57.72,0:21:01.95,Default,,0000,0000,0000,,...since our nightmares are... all over...
+Dialogue: 0,0:21:22.94,0:21:25.08,Default,,0000,0000,0000,,I give you my thanks.
+Dialogue: 0,0:21:33.48,0:21:35.49,Default,,0000,0000,0000,,No problem.
+Dialogue: 0,0:22:05.75,0:22:11.89,Default,,0000,0000,0000,,Which direction should I run towards\Nto see a more wonderful tomorrow?
+Dialogue: 0,0:22:11.89,0:22:17.66,Default,,0000,0000,0000,,I took the helm and opened the\Nmiraculous map that I stored in my heart
+Dialogue: 0,0:22:17.66,0:22:23.87,Default,,0000,0000,0000,,I aimed for the sky and sought out\Nmy dreams, though at times I got lost
+Dialogue: 0,0:22:23.87,0:22:29.31,Default,,0000,0000,0000,,It wasn't a dream; when I met you,\NI discovered the wonderful person in me
+Dialogue: 0,0:22:29.31,0:22:35.51,Default,,0000,0000,0000,,With just a bit of courage,\NI gained something grand
+Dialogue: 0,0:22:35.51,0:22:41.85,Default,,0000,0000,0000,,Now's the time for my "wish"\Nto become my "pledge"
+Dialogue: 0,0:22:41.85,0:22:44.79,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:44.79,0:22:48.89,Default,,0000,0000,0000,,Let's sketch out the tale of the future
+Dialogue: 0,0:22:48.89,0:22:53.80,Default,,0000,0000,0000,,I'll put all my feelings\Nin a brand new wind now
+Dialogue: 0,0:22:53.80,0:22:56.77,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:56.77,0:22:59.94,Default,,0000,0000,0000,,A never-ending journey to be together
+Dialogue: 0,0:22:59.94,0:23:04.44,Default,,0000,0000,0000,,I'll chase after you\Nwherever you go, Shining ray
+Dialogue: 0,0:23:10.35,0:23:13.32,Default,,0000,0000,0000,,The guy on your back is\None of ours. I'll take him.
+Dialogue: 0,0:23:13.32,0:23:14.45,Default,,0000,0000,0000,,Who are you, old man?
+Dialogue: 0,0:23:14.45,0:23:16.22,Default,,0000,0000,0000,,Everyone...! Daddy...!
+Dialogue: 0,0:23:16.22,0:23:19.22,Default,,0000,0000,0000,,D... Daddy?! Is he Vivi-chan's father?!
+Dialogue: 0,0:23:19.22,0:23:21.19,Default,,0000,0000,0000,,--Vivi. Go back to the Square.\N--What?
+Dialogue: 0,0:23:21.19,0:23:23.19,Default,,0000,0000,0000,,Of course! The rebellion has finally stopped.
+Dialogue: 0,0:23:23.19,0:23:26.93,Default,,0000,0000,0000,,It wouldn't be proper if the king\Nor princess didn't say a few words.
+Dialogue: 0,0:23:26.93,0:23:28.33,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:28.33,0:23:31.70,Default,,0000,0000,0000,,"A Farewell to Arms!\NPirates and Different Ideas of Justice"
+Dialogue: 0,0:23:31.70,0:23:34.04,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:34.04,0:23:38.54,Default,,0000,0000,0000,,
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.40,0:00:11.00,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.00,0:00:13.84,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:13.84,0:00:17.01,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.01,0:00:21.01,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.01,0:00:25.68,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.19,0:00:35.69,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.69,0:00:40.20,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.20,0:00:45.37,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.37,0:00:53.71,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:53.71,0:01:03.82,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:03.82,0:01:13.33,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.33,0:01:18.34,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.34,0:01:26.01,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.01,0:01:31.68,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.68,0:01:36.19,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.19,0:01:41.36,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.36,0:01:48.57,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:50.67,0:01:56.31,Default,,0000,0000,0000,,I am... I am... the man\Nwho'll be King of the Pirates!
+Dialogue: 0,0:02:04.88,0:02:08.72,Default,,0000,0000,0000,,Please... stop fighting!
+Dialogue: 0,0:02:15.93,0:02:19.60,Default,,0000,0000,0000,,The battle will end...
+Dialogue: 0,0:02:24.44,0:02:26.71,Default,,0000,0000,0000,,The rain falling right now...
+Dialogue: 0,0:02:28.64,0:02:32.31,Default,,0000,0000,0000,,...will fall again as it used to...
+Dialogue: 0,0:02:35.01,0:02:39.22,Default,,0000,0000,0000,,...since our nightmares are... all over...
+Dialogue: 0,0:02:51.30,0:02:55.90,Default,,0000,0000,0000,,"A Farewell to Arms!\NPirates and Different Ideas of Justice"
+Dialogue: 0,0:03:05.18,0:03:07.48,Default,,0000,0000,0000,,The nightmares are over...?
+Dialogue: 0,0:03:07.48,0:03:09.15,Default,,0000,0000,0000,,You can't be serious!
+Dialogue: 0,0:03:09.15,0:03:11.68,Default,,0000,0000,0000,,There's no way what happened\Nwas just "nightmares"!
+Dialogue: 0,0:03:11.68,0:03:15.45,Default,,0000,0000,0000,,That's right! We saw the king\Nattack Nanohana with our own eyes!
+Dialogue: 0,0:03:15.45,0:03:19.02,Default,,0000,0000,0000,,That's right! Koza-san was\Nalso shot by the Royal Army!
+Dialogue: 0,0:03:19.02,0:03:23.26,Default,,0000,0000,0000,,How do you explain the Royal\NArmy's misconduct up until now?!
+Dialogue: 0,0:03:23.26,0:03:26.70,Default,,0000,0000,0000,,That's not good enough for\Nthose who fell in this rebellion!
+Dialogue: 0,0:03:26.70,0:03:28.97,Default,,0000,0000,0000,,That's right! That's right!
+Dialogue: 0,0:03:39.71,0:03:43.48,Default,,0000,0000,0000,,Drop your weapons! Royal Army!
+Dialogue: 0,0:03:47.72,0:03:49.49,Default,,0000,0000,0000,,Chaka-sama!
+Dialogue: 0,0:03:50.72,0:03:52.99,Default,,0000,0000,0000,,Chaka...
+Dialogue: 0,0:03:52.99,0:03:54.93,Default,,0000,0000,0000,,Hey, what's going on?
+Dialogue: 0,0:03:54.93,0:03:57.53,Default,,0000,0000,0000,,You...
+Dialogue: 0,0:03:57.53,0:04:00.23,Default,,0000,0000,0000,,Ma-ma-ma...
+Dialogue: 0,0:04:00.23,0:04:03.10,Default,,0000,0000,0000,,You too, Rebel Army!
+Dialogue: 0,0:04:05.44,0:04:07.44,Default,,0000,0000,0000,,I... Igaram-san!
+Dialogue: 0,0:04:07.44,0:04:09.31,Default,,0000,0000,0000,,Squad Captain!
+Dialogue: 0,0:04:16.51,0:04:18.48,Default,,0000,0000,0000,,Igaram...
+Dialogue: 0,0:04:23.52,0:04:25.52,Default,,0000,0000,0000,,Igaram-san...
+Dialogue: 0,0:04:28.86,0:04:32.90,Default,,0000,0000,0000,,Let us meet safely at our motherland.
+Dialogue: 0,0:04:35.90,0:04:39.00,Default,,0000,0000,0000,,That's the old pervert from Whisky Peak!
+Dialogue: 0,0:04:39.00,0:04:41.91,Default,,0000,0000,0000,,--So he was alive!\N--Uhm, who's that?
+Dialogue: 0,0:04:44.11,0:04:47.18,Default,,0000,0000,0000,,Hey, can you talk?
+Dialogue: 0,0:04:47.18,0:04:48.18,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:04:48.18,0:04:50.15,Default,,0000,0000,0000,,That's the boy from Nanohana...
+Dialogue: 0,0:04:50.15,0:04:53.22,Default,,0000,0000,0000,,That's right... He's the kid who\Nwas harmed by the Royal Army.
+Dialogue: 0,0:04:53.22,0:04:58.69,Default,,0000,0000,0000,,It's not true... They weren't\Nthe ones who hurt me...
+Dialogue: 0,0:04:58.69,0:05:01.59,Default,,0000,0000,0000,,Everyone, listen! I saw it!
+Dialogue: 0,0:05:03.46,0:05:07.20,Default,,0000,0000,0000,,I just can't feel relaxed without this on!
+Dialogue: 0,0:05:10.50,0:05:12.17,Default,,0000,0000,0000,,It's vague!
+Dialogue: 0,0:05:15.57,0:05:22.88,Default,,0000,0000,0000,,That's right... This battle was\Na plot from the beginning...
+Dialogue: 0,0:05:22.88,0:05:26.25,Default,,0000,0000,0000,,--Koza-san!\N--Leader!
+Dialogue: 0,0:05:26.25,0:05:33.53,Default,,0000,0000,0000,,I will explain everything...\Nthat happened to this country.
+Dialogue: 0,0:05:33.53,0:05:36.33,Default,,0000,0000,0000,,Everyone, drop your weapons!
+Dialogue: 0,0:05:50.31,0:05:51.81,Default,,0000,0000,0000,,Vivi-sama!
+Dialogue: 0,0:05:54.11,0:05:57.38,Default,,0000,0000,0000,,Where's... everyone?
+Dialogue: 0,0:06:00.49,0:06:02.99,Default,,0000,0000,0000,,Hey, walk steady.
+Dialogue: 0,0:06:02.99,0:06:07.59,Default,,0000,0000,0000,,Ahh... Well, listen... I'm coming down\Nwith "if I walk more, I'll die" disease...
+Dialogue: 0,0:06:07.59,0:06:08.76,Default,,0000,0000,0000,,Then stay there.
+Dialogue: 0,0:06:08.76,0:06:12.60,Default,,0000,0000,0000,,What?! Well, w-wait! Whoa! Hey! Hey! Hey!
+Dialogue: 0,0:06:12.60,0:06:14.10,Default,,0000,0000,0000,,Why're you pulling me by my foot?
+Dialogue: 0,0:06:14.10,0:06:16.10,Default,,0000,0000,0000,,--Hm?\N--Found him?
+Dialogue: 0,0:06:20.44,0:06:21.91,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:06:21.91,0:06:26.85,Default,,0000,0000,0000,,Ahh... Thanks for carrying\Nthat guy on your back.
+Dialogue: 0,0:06:26.85,0:06:29.55,Default,,0000,0000,0000,,He's one of ours. I'll take him now.
+Dialogue: 0,0:06:29.55,0:06:36.02,Default,,0000,0000,0000,,Then you're the pirates who\Nbrought Vivi back to this country?
+Dialogue: 0,0:06:36.02,0:06:37.26,Default,,0000,0000,0000,,Who are you, old guy?
+Dialogue: 0,0:06:37.26,0:06:39.09,Default,,0000,0000,0000,,Daddy!
+Dialogue: 0,0:06:39.09,0:06:41.16,Default,,0000,0000,0000,,Everyone!
+Dialogue: 0,0:06:41.16,0:06:43.60,Default,,0000,0000,0000,,Ah, it's Vivi!
+Dialogue: 0,0:06:43.60,0:06:46.03,Default,,0000,0000,0000,,Daddy?
+Dialogue: 0,0:06:46.03,0:06:48.63,Default,,0000,0000,0000,,Vivi-chan's father?!
+Dialogue: 0,0:06:48.63,0:06:50.54,Default,,0000,0000,0000,,Are you the King?
+Dialogue: 0,0:06:50.54,0:06:56.04,Default,,0000,0000,0000,,I prepared myself to die at\None point, but he saved me...
+Dialogue: 0,0:06:56.04,0:06:59.28,Default,,0000,0000,0000,,When his body was exhausted\Nafter the fight with Crocodile,
+Dialogue: 0,0:06:59.28,0:07:02.78,Default,,0000,0000,0000,,he carried two people\Nand rushed above ground.
+Dialogue: 0,0:07:02.78,0:07:06.08,Default,,0000,0000,0000,,What unbelievable strength...
+Dialogue: 0,0:07:06.08,0:07:10.09,Default,,0000,0000,0000,,Then there's no more need\Nto worry about the poison?
+Dialogue: 0,0:07:10.09,0:07:12.66,Default,,0000,0000,0000,,Right. It should be neutralized by now.
+Dialogue: 0,0:07:12.66,0:07:17.80,Default,,0000,0000,0000,,But his injuries need to\Nbe treated... Yours, too...
+Dialogue: 0,0:07:20.43,0:07:22.50,Default,,0000,0000,0000,,More importantly, Vivi, go already.
+Dialogue: 0,0:07:22.50,0:07:26.00,Default,,0000,0000,0000,,--What?\N--Go back to the Square.
+Dialogue: 0,0:07:26.00,0:07:28.01,Default,,0000,0000,0000,,Of course! The rebellion has finally stopped.
+Dialogue: 0,0:07:28.01,0:07:33.51,Default,,0000,0000,0000,,It wouldn't be proper if the king\Nor princess didn't say a few words.
+Dialogue: 0,0:07:33.51,0:07:35.25,Default,,0000,0000,0000,,Yes... then I'll tell them about you, too.
+Dialogue: 0,0:07:35.25,0:07:38.48,Default,,0000,0000,0000,,Vivi-chan. You know how it is...
+Dialogue: 0,0:07:40.29,0:07:42.99,Default,,0000,0000,0000,,We're notorious.
+Dialogue: 0,0:07:42.99,0:07:46.02,Default,,0000,0000,0000,,We have no intention of\Ngetting involved with a country.
+Dialogue: 0,0:07:46.02,0:07:48.23,Default,,0000,0000,0000,,I'm hungry.
+Dialogue: 0,0:07:48.23,0:07:52.13,Default,,0000,0000,0000,,We're going on ahead to\Nthe palace. I'm exhausted.
+Dialogue: 0,0:08:11.88,0:08:15.95,Default,,0000,0000,0000,,Okay, understood, Captain Smoker.
+Dialogue: 0,0:08:15.95,0:08:19.09,Default,,0000,0000,0000,,Then Crocodile-san was...?
+Dialogue: 0,0:08:19.09,0:08:21.43,Default,,0000,0000,0000,,This guy was the ringleader for everything...?
+Dialogue: 0,0:08:21.43,0:08:24.33,Default,,0000,0000,0000,,Good heavens... I can't believe it...
+Dialogue: 0,0:08:24.33,0:08:27.73,Default,,0000,0000,0000,,Hey, look at that! It's the Navy!
+Dialogue: 0,0:08:33.57,0:08:36.71,Default,,0000,0000,0000,,We were told that a Baroque Works-owned\Nartificial rain-making ship
+Dialogue: 0,0:08:36.71,0:08:39.31,Default,,0000,0000,0000,,was discovered with dance powder on it.
+Dialogue: 0,0:08:41.01,0:08:44.15,Default,,0000,0000,0000,,Sir Crocodile, president of the\Nsecret crime syndicate Baroque Works
+Dialogue: 0,0:08:44.15,0:08:47.65,Default,,0000,0000,0000,,and one of the Seven Warlords of the Sea...
+Dialogue: 0,0:08:52.46,0:08:54.96,Default,,0000,0000,0000,,Where did the gator go?!
+Dialogue: 0,0:08:57.60,0:09:01.17,Default,,0000,0000,0000,,In the name of Navy Headquarters, an agency\Ndirectly under the World Government,
+Dialogue: 0,0:09:01.17,0:09:04.57,Default,,0000,0000,0000,,I hereby strip you of your\Nauthorization to capture enemy ships,
+Dialogue: 0,0:09:04.57,0:09:08.97,Default,,0000,0000,0000,,as well as all the titles and rights\Nbestowed upon you by the Government.
+Dialogue: 0,0:09:31.30,0:09:33.36,Default,,0000,0000,0000,,Just wait and see...
+Dialogue: 0,0:09:51.95,0:09:56.59,Default,,0000,0000,0000,,We've done an irreparable thing...
+Dialogue: 0,0:09:57.42,0:09:59.06,Default,,0000,0000,0000,,Leader...
+Dialogue: 0,0:10:00.83,0:10:05.73,Default,,0000,0000,0000,,I don't know what to say to them...
+Dialogue: 0,0:10:05.73,0:10:07.87,Default,,0000,0000,0000,,It's just natural to regret.
+Dialogue: 0,0:10:07.87,0:10:12.37,Default,,0000,0000,0000,,That unbearable feeling is also natural...
+Dialogue: 0,0:10:12.37,0:10:13.60,Default,,0000,0000,0000,,King...
+Dialogue: 0,0:10:13.60,0:10:15.37,Default,,0000,0000,0000,,Your Majesty...
+Dialogue: 0,0:10:15.37,0:10:20.34,Default,,0000,0000,0000,,We lost so much and gained nothing...
+Dialogue: 0,0:10:22.95,0:10:25.88,Default,,0000,0000,0000,,However, this is a step forward!
+Dialogue: 0,0:10:25.88,0:10:31.99,Default,,0000,0000,0000,,No matter who you fought against,\Nthe battle did occur and has now ended...
+Dialogue: 0,0:10:35.53,0:10:37.96,Default,,0000,0000,0000,,King...
+Dialogue: 0,0:10:37.96,0:10:42.63,Default,,0000,0000,0000,,No one can make the past go away.
+Dialogue: 0,0:10:46.00,0:10:50.11,Default,,0000,0000,0000,,Overcome this war and survive...!
+Dialogue: 0,0:10:59.42,0:11:01.15,Default,,0000,0000,0000,,He truly is without equal...
+Dialogue: 0,0:11:04.72,0:11:08.06,Default,,0000,0000,0000,,Alabasta Kingdom!
+Dialogue: 0,0:11:11.00,0:11:15.27,Default,,0000,0000,0000,,The battle that will be\Nengraved in history and...
+Dialogue: 0,0:11:27.88,0:11:32.72,Default,,0000,0000,0000,,...the battle that will never be told...
+Dialogue: 0,0:11:34.89,0:11:37.42,Default,,0000,0000,0000,,...have ended...
+Dialogue: 0,0:11:55.37,0:11:58.91,Default,,0000,0000,0000,,Smoker-kun! What on earth is this rain?
+Dialogue: 0,0:11:58.91,0:12:03.61,Default,,0000,0000,0000,,Don't tell me you used the Dance Powder?!
+Dialogue: 0,0:12:03.61,0:12:05.88,Default,,0000,0000,0000,,You idiot.
+Dialogue: 0,0:12:05.88,0:12:09.29,Default,,0000,0000,0000,,I do know better than to commit a crime.
+Dialogue: 0,0:12:09.29,0:12:13.99,Default,,0000,0000,0000,,The Alabasta King kept\Nhis hands off of this powder.
+Dialogue: 0,0:12:13.99,0:12:17.23,Default,,0000,0000,0000,,What's the point in me going\Nagainst his morals now?
+Dialogue: 0,0:12:17.23,0:12:21.07,Default,,0000,0000,0000,,Oh, excuse me. I apologize.
+Dialogue: 0,0:12:21.07,0:12:25.40,Default,,0000,0000,0000,,I can't believe the "White Hunter"\Nof all men would say something sweet.
+Dialogue: 0,0:12:25.40,0:12:28.51,Default,,0000,0000,0000,,I wonder if you've mellowed out a little...
+Dialogue: 0,0:12:28.51,0:12:30.51,Default,,0000,0000,0000,,That's none of your business.
+Dialogue: 0,0:12:30.51,0:12:37.25,Default,,0000,0000,0000,,At any rate, you're really something,\Nusing my elite unit just to look for a ship.
+Dialogue: 0,0:12:37.25,0:12:41.89,Default,,0000,0000,0000,,Very upset... I'm upset!
+Dialogue: 0,0:12:41.89,0:12:45.02,Default,,0000,0000,0000,,We joined the Navy in the\Nsame year. Don't say that.
+Dialogue: 0,0:12:45.02,0:12:48.89,Default,,0000,0000,0000,,You always say that. I pity Tashigi\Nfor the troubles you put her through.
+Dialogue: 0,0:12:51.56,0:12:56.43,Default,,0000,0000,0000,,More importantly, take in\Nthis artificial rain-making ship.
+Dialogue: 0,0:12:56.43,0:12:57.90,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:12:57.90,0:13:03.31,Default,,0000,0000,0000,,And also, Tashigi will bring\NCrocodile here. So take him, too.
+Dialogue: 0,0:13:03.31,0:13:07.55,Default,,0000,0000,0000,,Give me a break! What makes\Nyou think you can be so selfish?
+Dialogue: 0,0:13:16.32,0:13:17.82,Default,,0000,0000,0000,,Heads!
+Dialogue: 0,0:13:19.19,0:13:23.63,Default,,0000,0000,0000,,It's tails. You lose.
+Dialogue: 0,0:13:23.63,0:13:25.93,Default,,0000,0000,0000,,You're really selfish, you know that?!
+Dialogue: 0,0:13:25.93,0:13:30.77,Default,,0000,0000,0000,,You haven't changed a bit since we\Njoined the Navy. I'm disappointed.
+Dialogue: 0,0:13:30.77,0:13:34.31,Default,,0000,0000,0000,,That's fine. I'm well aware of it.
+Dialogue: 0,0:13:38.91,0:13:41.58,Default,,0000,0000,0000,,That's an order.
+Dialogue: 0,0:13:41.58,0:13:45.05,Default,,0000,0000,0000,,Sergeant Major! This is\Na very rare opportunity!
+Dialogue: 0,0:13:45.05,0:13:48.52,Default,,0000,0000,0000,,Once they come to, we won't be able to...
+Dialogue: 0,0:13:48.52,0:13:53.79,Default,,0000,0000,0000,,I will not allow you to lay\Na hand on them right now!
+Dialogue: 0,0:13:53.79,0:13:59.26,Default,,0000,0000,0000,,Wh-Why?! They're all sitting ducks right now!
+Dialogue: 0,0:13:59.26,0:14:01.00,Default,,0000,0000,0000,,O-On top of that...
+Dialogue: 0,0:14:05.60,0:14:09.37,Default,,0000,0000,0000,,Leader... Are your injuries okay?
+Dialogue: 0,0:14:10.64,0:14:14.98,Default,,0000,0000,0000,,You're not gonna die, are you?\NUhm, Toto-ojisan was... Yuba was...
+Dialogue: 0,0:14:14.98,0:14:19.15,Default,,0000,0000,0000,,Vivi... Looks like you're still\Nthe worrywart as always...
+Dialogue: 0,0:14:19.15,0:14:22.65,Default,,0000,0000,0000,,I don't know about Yuba,\Nbut my stubborn old man won't die,
+Dialogue: 0,0:14:22.65,0:14:25.19,Default,,0000,0000,0000,,no matter what happens.
+Dialogue: 0,0:14:25.19,0:14:29.96,Default,,0000,0000,0000,,--Leader...\N--And I've got his blood in my veins.
+Dialogue: 0,0:14:29.96,0:14:33.00,Default,,0000,0000,0000,,As soon as I get treated, I'll head to Yuba.
+Dialogue: 0,0:14:33.00,0:14:36.87,Default,,0000,0000,0000,,I'll keep you updated... so don't worry.
+Dialogue: 0,0:14:38.34,0:14:40.74,Default,,0000,0000,0000,,Okay...
+Dialogue: 0,0:14:40.74,0:14:42.61,Default,,0000,0000,0000,,It's raining!
+Dialogue: 0,0:14:42.61,0:14:45.58,Default,,0000,0000,0000,,Rain! It's raining for\Nthe first time in three years!
+Dialogue: 0,0:14:45.58,0:14:47.61,Default,,0000,0000,0000,,This rain will end the rebellion!
+Dialogue: 0,0:14:47.61,0:14:49.98,Default,,0000,0000,0000,,Our foolish sons will come back!
+Dialogue: 0,0:14:51.72,0:14:53.92,Default,,0000,0000,0000,,It's raining!
+Dialogue: 0,0:15:07.90,0:15:11.24,Default,,0000,0000,0000,,Just how long are you gonna\Nstay so stubborn, old man?!
+Dialogue: 0,0:15:11.24,0:15:17.21,Default,,0000,0000,0000,,Yuba is already finished.\NWhat're you gonna do here by yourself?
+Dialogue: 0,0:15:17.21,0:15:21.18,Default,,0000,0000,0000,,Are you gonna die with the city? Old man!
+Dialogue: 0,0:15:24.05,0:15:30.45,Default,,0000,0000,0000,,Look... Koza. The rain has fallen.
+Dialogue: 0,0:15:30.45,0:15:36.83,Default,,0000,0000,0000,,Just three years... That's all.
+Dialogue: 0,0:15:39.50,0:15:44.30,Default,,0000,0000,0000,,Right... rain...?
+Dialogue: 0,0:15:48.11,0:15:56.55,Default,,0000,0000,0000,,The rain is no longer forced and\Nfalls endlessly within the kingdom.
+Dialogue: 0,0:16:17.54,0:16:21.54,Default,,0000,0000,0000,,Vivi-sama... You're still up?
+Dialogue: 0,0:16:21.54,0:16:23.21,Default,,0000,0000,0000,,Igaram...
+Dialogue: 0,0:16:25.64,0:16:27.48,Default,,0000,0000,0000,,Can't sleep?
+Dialogue: 0,0:16:27.48,0:16:29.95,Default,,0000,0000,0000,,It's not that.
+Dialogue: 0,0:16:29.95,0:16:32.92,Default,,0000,0000,0000,,I just don't want to.
+Dialogue: 0,0:16:32.92,0:16:36.85,Default,,0000,0000,0000,,I just wanna keep watching this rain.
+Dialogue: 0,0:16:53.37,0:16:56.97,Default,,0000,0000,0000,,About Pell...
+Dialogue: 0,0:16:56.97,0:17:03.18,Default,,0000,0000,0000,,He is the most dignified and\Nstrongest among the warriors I know.
+Dialogue: 0,0:17:03.18,0:17:04.98,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:17:04.98,0:17:09.49,Default,,0000,0000,0000,,I wanted to say "thank you" to him...
+Dialogue: 0,0:17:09.49,0:17:14.09,Default,,0000,0000,0000,,He'd be... greatly honored by that...
+Dialogue: 0,0:17:23.93,0:17:28.74,Default,,0000,0000,0000,,Captain Smoker, Miss Hina!\NSergeant Major Tashigi has arrived.
+Dialogue: 0,0:17:28.74,0:17:31.21,Default,,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:17:31.21,0:17:34.45,Default,,0000,0000,0000,,It's been a while, Tashigi.
+Dialogue: 0,0:17:34.45,0:17:37.25,Default,,0000,0000,0000,,Hina-san...
+Dialogue: 0,0:17:37.25,0:17:44.02,Default,,0000,0000,0000,,Hello... I'm... a little tired,\Nso I'll go get some rest...
+Dialogue: 0,0:17:46.96,0:17:49.93,Default,,0000,0000,0000,,Captain Smoker, I've just returned!
+Dialogue: 0,0:17:49.93,0:17:53.20,Default,,0000,0000,0000,,Yeah, thanks for your work.
+Dialogue: 0,0:17:53.20,0:17:55.97,Default,,0000,0000,0000,,I heard about what happened\Nwith the Straw Hats.
+Dialogue: 0,0:17:55.97,0:17:58.17,Default,,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:17:58.17,0:18:04.21,Default,,0000,0000,0000,,I helped the pirates and let our\Nopportunity to capture them slip away.
+Dialogue: 0,0:18:04.21,0:18:08.78,Default,,0000,0000,0000,,I know that my actions\Nwere shameful as a marine.
+Dialogue: 0,0:18:08.78,0:18:15.49,Default,,0000,0000,0000,,Why do you apologize?\NDidn't you follow your justice?
+Dialogue: 0,0:18:15.49,0:18:18.69,Default,,0000,0000,0000,,No... that's not it...
+Dialogue: 0,0:18:18.69,0:18:20.29,Default,,0000,0000,0000,,Sergeant Major...
+Dialogue: 0,0:18:23.86,0:18:28.80,Default,,0000,0000,0000,,I just... didn't have any other choice...
+Dialogue: 0,0:18:28.80,0:18:35.41,Default,,0000,0000,0000,,Losers can't speak about justice.\NWe're in that kind of sea.
+Dialogue: 0,0:18:38.48,0:18:41.18,Default,,0000,0000,0000,,Where did the gator go?!
+Dialogue: 0,0:18:41.18,0:18:42.98,Default,,0000,0000,0000,,Tell me!
+Dialogue: 0,0:18:44.05,0:18:49.99,Default,,0000,0000,0000,,Even when I knew where the enemy was,\Nall I could do was tell him where...
+Dialogue: 0,0:18:49.99,0:18:55.99,Default,,0000,0000,0000,,Even when I knew the time of the attack,\Nall I could do was assist them...
+Dialogue: 0,0:18:55.99,0:19:02.67,Default,,0000,0000,0000,,There was... no justice that I could follow...
+Dialogue: 0,0:19:05.84,0:19:09.51,Default,,0000,0000,0000,,Those who you thought you\Nwere on par with up until recently
+Dialogue: 0,0:19:09.51,0:19:13.24,Default,,0000,0000,0000,,are becoming more\Nnotorious and rising rapidly.
+Dialogue: 0,0:19:15.41,0:19:22.05,Default,,0000,0000,0000,,They know that in this sea,\Nthey'll die if they don't rise up.
+Dialogue: 0,0:19:22.05,0:19:24.59,Default,,0000,0000,0000,,Go forward or die?
+Dialogue: 0,0:19:24.59,0:19:27.69,Default,,0000,0000,0000,,Who decided to come to this sea?
+Dialogue: 0,0:19:32.76,0:19:38.24,Default,,0000,0000,0000,,Excuse me... but I'll go rest a bit.
+Dialogue: 0,0:19:50.55,0:19:52.05,Default,,0000,0000,0000,,You idiot...
+Dialogue: 0,0:19:53.35,0:19:57.92,Default,,0000,0000,0000,,If you're frustrated enough\Nto cry, become stronger!
+Dialogue: 0,0:20:07.40,0:20:10.50,Default,,0000,0000,0000,,I will!
+Dialogue: 0,0:20:16.44,0:20:20.48,Default,,0000,0000,0000,,I wish you guys had guts like that, too...
+Dialogue: 0,0:20:20.48,0:20:22.95,Default,,0000,0000,0000,,Now, bring them to the ship!
+Dialogue: 0,0:20:22.95,0:20:25.02,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:20:25.02,0:20:27.45,Default,,0000,0000,0000,,Captain Smoker! You have a\Ncommunication from Headquarters!
+Dialogue: 0,0:20:27.45,0:20:28.52,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:28.52,0:20:32.49,Default,,0000,0000,0000,,This is Navy Headquarters.\NIs this Captain Smoker?
+Dialogue: 0,0:20:32.49,0:20:34.76,Default,,0000,0000,0000,,Speaking.
+Dialogue: 0,0:20:34.76,0:20:37.73,Default,,0000,0000,0000,,In regards to your subduing Crocodile,
+Dialogue: 0,0:20:37.73,0:20:40.63,Default,,0000,0000,0000,,it's been decided that the top\Nofficials of the Government
+Dialogue: 0,0:20:40.63,0:20:43.57,Default,,0000,0000,0000,,are going to give you and\NSergeant Major Tashigi a medal.
+Dialogue: 0,0:20:43.57,0:20:50.97,Default,,0000,0000,0000,,Subduing...? Hey, wait a sec!\NIt wasn't us who took Crocodile down.
+Dialogue: 0,0:20:50.97,0:20:53.14,Default,,0000,0000,0000,,Were they really listening to the report?
+Dialogue: 0,0:20:53.14,0:20:58.22,Default,,0000,0000,0000,,Furthermore, each of you will\Nbe promoted by one rank, so...
+Dialogue: 0,0:20:58.22,0:21:00.32,Default,,0000,0000,0000,,Hey! Listen up!
+Dialogue: 0,0:21:00.32,0:21:05.59,Default,,0000,0000,0000,,The ones who've been fighting Crocodile\Nand his Baroque Works all this time
+Dialogue: 0,0:21:05.59,0:21:07.86,Default,,0000,0000,0000,,were the Straw Hat gang.
+Dialogue: 0,0:21:07.86,0:21:09.83,Default,,0000,0000,0000,,It's no use, Smoker-kun.
+Dialogue: 0,0:21:09.83,0:21:13.56,Default,,0000,0000,0000,,The Government is probably\Ngoing to cover up this incident.
+Dialogue: 0,0:21:13.56,0:21:17.50,Default,,0000,0000,0000,,Everyone at the Government was\Noutwitted with regard to Alabasta's crisis.
+Dialogue: 0,0:21:17.50,0:21:21.97,Default,,0000,0000,0000,,You think they can tell the world\Nthat it was saved by pirates?
+Dialogue: 0,0:21:21.97,0:21:25.44,Default,,0000,0000,0000,,Therefore, we'd like both of you to\Nattend the medal award ceremony and...
+Dialogue: 0,0:21:25.44,0:21:27.34,Default,,0000,0000,0000,,You can't be serious!
+Dialogue: 0,0:21:27.34,0:21:29.88,Default,,0000,0000,0000,,Smoker-kun! Accept it!
+Dialogue: 0,0:21:29.88,0:21:32.48,Default,,0000,0000,0000,,If you disobey the top officials,\Nyou don't know what'll happen to you!
+Dialogue: 0,0:21:32.48,0:21:35.85,Default,,0000,0000,0000,,We took Crocodile down?!
+Dialogue: 0,0:21:35.85,0:21:39.29,Default,,0000,0000,0000,,My subordinate is in tears\Nbecause we couldn't do it.
+Dialogue: 0,0:21:39.29,0:21:44.50,Default,,0000,0000,0000,,Hey, you... Could you tell the old\Ngeezers at the top something for me...?
+Dialogue: 0,0:21:44.50,0:21:46.70,Default,,0000,0000,0000,,--Huh?\N--Smoker-kun!
+Dialogue: 0,0:21:46.70,0:21:48.80,Default,,0000,0000,0000,,"Go to hell"!
+Dialogue: 0,0:22:05.75,0:22:11.89,Default,,0000,0000,0000,,Which direction should I run towards\Nto see a more wonderful tomorrow?
+Dialogue: 0,0:22:11.89,0:22:17.66,Default,,0000,0000,0000,,I took the helm and opened the\Nmiraculous map that I stored in my heart
+Dialogue: 0,0:22:17.66,0:22:23.87,Default,,0000,0000,0000,,I aimed for the sky and sought out\Nmy dreams, though at times I got lost
+Dialogue: 0,0:22:23.87,0:22:29.31,Default,,0000,0000,0000,,It wasn't a dream; when I met you,\NI discovered the wonderful person in me
+Dialogue: 0,0:22:29.31,0:22:35.51,Default,,0000,0000,0000,,With just a bit of courage,\NI gained something grand
+Dialogue: 0,0:22:35.51,0:22:41.85,Default,,0000,0000,0000,,Now's the time for my "wish"\Nto become my "pledge"
+Dialogue: 0,0:22:41.85,0:22:44.79,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:44.79,0:22:48.89,Default,,0000,0000,0000,,Let's sketch out the tale of the future
+Dialogue: 0,0:22:48.89,0:22:53.80,Default,,0000,0000,0000,,I'll put all my feelings\Nin a brand new wind now
+Dialogue: 0,0:22:53.80,0:22:56.77,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:56.77,0:22:59.94,Default,,0000,0000,0000,,A never-ending journey to be together
+Dialogue: 0,0:22:59.94,0:23:04.44,Default,,0000,0000,0000,,I'll chase after you\Nwherever you go, Shining ray
+Dialogue: 0,0:23:10.41,0:23:12.22,Default,,0000,0000,0000,,Uhm, I'm Usopp, chief of\Nthe party department.
+Dialogue: 0,0:23:12.22,0:23:15.29,Default,,0000,0000,0000,,Thanks to all of you, we were able to\Ntake down the detestable Crocodile...
+Dialogue: 0,0:23:15.29,0:23:17.02,Default,,0000,0000,0000,,Hm? Hey! Don't eat it yet!
+Dialogue: 0,0:23:17.02,0:23:20.39,Default,,0000,0000,0000,,Well, when we think of it,\Nit was a tough battle.
+Dialogue: 0,0:23:20.39,0:23:24.80,Default,,0000,0000,0000,,Okay, okay! Well then, everyone!\NEat, drink and party like crazy for now!
+Dialogue: 0,0:23:24.80,0:23:26.20,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:23:26.20,0:23:27.66,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:27.66,0:23:30.93,Default,,0000,0000,0000,,"The Pirates' Banquet and\NOperation Escape from Alabasta!"
+Dialogue: 0,0:23:30.93,0:23:33.27,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:33.27,0:23:37.77,Default,,0000,0000,0000,,
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:07.40,0:00:11.00,Default,,0000,0000,0000,,A world... Yes!
+Dialogue: 0,0:00:11.00,0:00:13.84,Default,,0000,0000,0000,,A world for you who seek freedom
+Dialogue: 0,0:00:13.84,0:00:17.01,Default,,0000,0000,0000,,stretches out right before your eyes.
+Dialogue: 0,0:00:17.01,0:00:21.01,Default,,0000,0000,0000,,If your endless dreams are your guide,
+Dialogue: 0,0:00:21.01,0:00:25.68,Default,,0000,0000,0000,,surpass them, under the flag of your beliefs!
+Dialogue: 0,0:00:30.19,0:00:35.69,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:00:35.69,0:00:40.20,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:00:40.20,0:00:45.37,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:00:45.37,0:00:53.71,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:00:53.71,0:01:03.82,Default,,0000,0000,0000,,When the summer sun\Nsways the sails of my heart
+Dialogue: 0,0:01:03.82,0:01:13.33,Default,,0000,0000,0000,,It's the cue to open the door to a new world
+Dialogue: 0,0:01:13.33,0:01:18.34,Default,,0000,0000,0000,,Sailing through the rocky waves of despair
+Dialogue: 0,0:01:18.34,0:01:26.01,Default,,0000,0000,0000,,We head beyond the horizon
+Dialogue: 0,0:01:26.01,0:01:31.68,Default,,0000,0000,0000,,Making a splash,\NI've just started on my search
+Dialogue: 0,0:01:31.68,0:01:36.19,Default,,0000,0000,0000,,Heading towards a world without end
+Dialogue: 0,0:01:36.19,0:01:41.36,Default,,0000,0000,0000,,My heart bursting with enthusiasm,\NI'll go to the ends of the earth
+Dialogue: 0,0:01:41.36,0:01:48.57,Default,,0000,0000,0000,,In search of light yet unseen
+Dialogue: 0,0:01:53.91,0:01:58.08,Default,,0000,0000,0000,,"The Pirates' Banquet and\NOperation Escape from Alabasta!"
+Dialogue: 0,0:02:01.75,0:02:05.25,Default,,0000,0000,0000,,Oh... That compounding is amazing!
+Dialogue: 0,0:02:05.25,0:02:09.25,Default,,0000,0000,0000,,Unusual, I might say... Well, it's\Nindeed practical. It's wonderful...
+Dialogue: 0,0:02:09.25,0:02:11.19,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:02:11.19,0:02:13.89,Default,,0000,0000,0000,,Where on earth did you\Nlearn those medical skills?
+Dialogue: 0,0:02:13.89,0:02:16.36,Default,,0000,0000,0000,,Tony-kun is a doctor from Drum.
+Dialogue: 0,0:02:16.36,0:02:20.20,Default,,0000,0000,0000,,Why! Is that so? The Drum that used to\Nbe the land of advanced medical care...
+Dialogue: 0,0:02:20.20,0:02:21.87,Default,,0000,0000,0000,,--Ahh...!\N--I see...
+Dialogue: 0,0:02:21.87,0:02:23.84,Default,,0000,0000,0000,,Their medicine is advanced as I thought...
+Dialogue: 0,0:02:23.84,0:02:26.00,Default,,0000,0000,0000,,I've been a doctor for 40 years,
+Dialogue: 0,0:02:26.00,0:02:29.11,Default,,0000,0000,0000,,but I didn't know such\Ntechniques existed at all.
+Dialogue: 0,0:02:29.11,0:02:31.94,Default,,0000,0000,0000,,--Ah...\N--This is really wonderful.
+Dialogue: 0,0:02:31.94,0:02:36.62,Default,,0000,0000,0000,,Though you're so young,\NI'm no match for you.
+Dialogue: 0,0:02:36.62,0:02:41.49,Default,,0000,0000,0000,,Shut up! Don't stare at me like that,\Nyou idiot! Go away, you bastard!
+Dialogue: 0,0:02:41.49,0:02:45.99,Default,,0000,0000,0000,,"Well, have some tea and watch as much\Nas you like"... Can I take it that way?
+Dialogue: 0,0:02:45.99,0:02:48.16,Default,,0000,0000,0000,,I think you can.
+Dialogue: 0,0:02:48.16,0:02:50.73,Default,,0000,0000,0000,,Well... really, you're outstanding!
+Dialogue: 0,0:02:50.73,0:02:52.83,Default,,0000,0000,0000,,Shut up...
+Dialogue: 0,0:02:54.13,0:02:58.37,Default,,0000,0000,0000,,I can only say I'm impressed.\NBoy oh boy, you've got splendid skills!
+Dialogue: 0,0:02:58.37,0:03:01.34,Default,,0000,0000,0000,,Go away! Shut up, you bastard!
+Dialogue: 0,0:03:08.25,0:03:10.58,Default,,0000,0000,0000,,Hey! Do you have more lumber?
+Dialogue: 0,0:03:10.58,0:03:11.75,Default,,0000,0000,0000,,I don't have enough, either!
+Dialogue: 0,0:03:11.75,0:03:13.95,Default,,0000,0000,0000,,I've got some extra. Go ahead and use it.
+Dialogue: 0,0:03:13.95,0:03:15.42,Default,,0000,0000,0000,,Oh, thanks!
+Dialogue: 0,0:03:15.42,0:03:17.16,Default,,0000,0000,0000,,This country is sturdy...
+Dialogue: 0,0:03:17.16,0:03:19.06,Default,,0000,0000,0000,,That's because the princess is cute.
+Dialogue: 0,0:03:19.06,0:03:20.59,Default,,0000,0000,0000,,--That has something to do with it?\N--It does!
+Dialogue: 0,0:03:20.59,0:03:23.63,Default,,0000,0000,0000,,Dammit! House after house is penetrated!
+Dialogue: 0,0:03:23.63,0:03:26.16,Default,,0000,0000,0000,,What's this hole? It looks as if\Nsomeone kicked and broke them.
+Dialogue: 0,0:03:26.16,0:03:27.20,Default,,0000,0000,0000,,Urk!
+Dialogue: 0,0:03:27.20,0:03:30.30,Default,,0000,0000,0000,,I don't have time to go around!\NI'll take a shortcut!
+Dialogue: 0,0:03:30.30,0:03:31.47,Default,,0000,0000,0000,,Whoa! This is terrible.
+Dialogue: 0,0:03:31.47,0:03:34.74,Default,,0000,0000,0000,,Hey, Usopp! Look!\NThere's something over there...
+Dialogue: 0,0:03:34.74,0:03:36.24,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:39.78,0:03:42.41,Default,,0000,0000,0000,,I'll improve my concentration...
+Dialogue: 0,0:03:47.22,0:03:53.32,Default,,0000,0000,0000,,Until I can bring out that power any time...\NI can't consider myself stronger.
+Dialogue: 0,0:03:53.32,0:03:57.56,Default,,0000,0000,0000,,Whoa... They're all interesting books!\NIs it really okay to take them with me?
+Dialogue: 0,0:03:57.56,0:04:00.87,Default,,0000,0000,0000,,Yeah, that's fine, since I've read all of them.
+Dialogue: 0,0:04:00.87,0:04:05.14,Default,,0000,0000,0000,,Thank you! Then I'll help myself.
+Dialogue: 0,0:04:05.14,0:04:08.27,Default,,0000,0000,0000,,Did you not hear me say\NI don't know?! Go back!
+Dialogue: 0,0:04:08.27,0:04:12.21,Default,,0000,0000,0000,,If you lie, it'll harm your country!\NSheltering pirates is a felony.
+Dialogue: 0,0:04:12.21,0:04:13.31,Default,,0000,0000,0000,,--Hey, what's up?\N--Hey.
+Dialogue: 0,0:04:13.31,0:04:14.71,Default,,0000,0000,0000,,Oh, welcome back.
+Dialogue: 0,0:04:14.71,0:04:16.08,Default,,0000,0000,0000,,I think we were able to purchase enough,
+Dialogue: 0,0:04:16.08,0:04:17.88,Default,,0000,0000,0000,,--considering the state this city is in...\N--Do you have any evidence\Nthat pirates are here?!
+Dialogue: 0,0:04:17.88,0:04:19.05,Default,,0000,0000,0000,,--Yeah...\N--Do you have any evidence\Nthat pirates are here?!
+Dialogue: 0,0:04:19.05,0:04:21.12,Default,,0000,0000,0000,,W-Well, that's...
+Dialogue: 0,0:04:21.12,0:04:23.09,Default,,0000,0000,0000,,I wonder if he woke up...
+Dialogue: 0,0:04:23.09,0:04:26.02,Default,,0000,0000,0000,,If he wakes up, things'll get noisy, though...
+Dialogue: 0,0:04:26.02,0:04:29.63,Default,,0000,0000,0000,,Boy... I slept really well!
+Dialogue: 0,0:04:31.46,0:04:35.10,Default,,0000,0000,0000,,Oh? My hat? My hat! Where's my hat?!
+Dialogue: 0,0:04:35.10,0:04:39.94,Default,,0000,0000,0000,,I'm starving! Breakfast! Hey, breakfast!\NWhere's my hat?! Breakfast! My hat?!
+Dialogue: 0,0:04:39.94,0:04:42.31,Default,,0000,0000,0000,,You just woke up and you're already loud!
+Dialogue: 0,0:04:42.31,0:04:45.18,Default,,0000,0000,0000,,And it won't be breakfast.\NIt's early evening right now.
+Dialogue: 0,0:04:45.18,0:04:50.25,Default,,0000,0000,0000,,Your hat is over there. A soldier found\Nit for you in front of the palace.
+Dialogue: 0,0:04:50.25,0:04:51.58,Default,,0000,0000,0000,,Oh, good!
+Dialogue: 0,0:04:51.58,0:04:53.92,Default,,0000,0000,0000,,I'm glad you got well, Luffy-san!
+Dialogue: 0,0:04:53.92,0:04:56.52,Default,,0000,0000,0000,,Got well? I've always been well.
+Dialogue: 0,0:04:56.52,0:04:59.49,Default,,0000,0000,0000,,You dummy! You were in serious\Ncondition with a high fever and stuff.
+Dialogue: 0,0:04:59.49,0:05:02.79,Default,,0000,0000,0000,,Vivi and Chopper attended you all this time!
+Dialogue: 0,0:05:02.79,0:05:05.40,Default,,0000,0000,0000,,Really? Thanks!
+Dialogue: 0,0:05:05.40,0:05:07.07,Default,,0000,0000,0000,,Oh hey, Luffy! You woke up?
+Dialogue: 0,0:05:07.07,0:05:10.27,Default,,0000,0000,0000,,Hey, Zoro, long time no see!\N"Long time no see"?
+Dialogue: 0,0:05:10.27,0:05:13.04,Default,,0000,0000,0000,,Ahh, hey! You went out\Ntraining again, didn't you?!
+Dialogue: 0,0:05:13.04,0:05:14.81,Default,,0000,0000,0000,,What? It's my business, right?
+Dialogue: 0,0:05:14.81,0:05:18.04,Default,,0000,0000,0000,,No means no! I'm the ship doctor!\NAnd don't take off the bandages, either!
+Dialogue: 0,0:05:18.04,0:05:19.48,Default,,0000,0000,0000,,It's hard to move with them.
+Dialogue: 0,0:05:19.48,0:05:21.31,Default,,0000,0000,0000,,Don't move!
+Dialogue: 0,0:05:21.31,0:05:24.68,Default,,0000,0000,0000,,"Long time no see"...? "Long time no see"?
+Dialogue: 0,0:05:24.68,0:05:28.05,Default,,0000,0000,0000,,Well, it's probably natural to feel\Nthat way... since you slept for three days.
+Dialogue: 0,0:05:28.05,0:05:30.32,Default,,0000,0000,0000,,Three days?! Did I sleep\Nfor three whole days?!
+Dialogue: 0,0:05:30.32,0:05:31.82,Default,,0000,0000,0000,,Yep.
+Dialogue: 0,0:05:33.73,0:05:35.36,Default,,0000,0000,0000,,I missed 15 meals...
+Dialogue: 0,0:05:35.36,0:05:37.50,Default,,0000,0000,0000,,How come you can calculate so\Nquickly when it comes to food?!
+Dialogue: 0,0:05:37.50,0:05:40.43,Default,,0000,0000,0000,,On top of that, in his calculations\Nthere are five meals a day!
+Dialogue: 0,0:05:40.43,0:05:42.43,Default,,0000,0000,0000,,Did I hear right that the captain is up?!
+Dialogue: 0,0:05:42.43,0:05:45.30,Default,,0000,0000,0000,,It'll be dinner time soon,\Nso would you wait a little?
+Dialogue: 0,0:05:45.30,0:05:48.04,Default,,0000,0000,0000,,--Wha...?!\N--Oh hey, old tube-hair guy! You're alive?!
+Dialogue: 0,0:05:48.04,0:05:50.44,Default,,0000,0000,0000,,S... So you really were\Ninto that sort of thing...
+Dialogue: 0,0:05:50.44,0:05:53.41,Default,,0000,0000,0000,,No, everyone. She's Terracotta-san.
+Dialogue: 0,0:05:53.41,0:05:56.35,Default,,0000,0000,0000,,She's Igaram's wife and is also\Nthe head of the palace's servers.
+Dialogue: 0,0:05:56.35,0:05:58.55,Default,,0000,0000,0000,,Thanks for helping\NVivi-sama and my husband.
+Dialogue: 0,0:05:58.55,0:06:01.62,Default,,0000,0000,0000,,No way...! A wife could resemble\Nher husband, but this is too much!
+Dialogue: 0,0:06:01.62,0:06:03.72,Default,,0000,0000,0000,,I heard you eat a lot.
+Dialogue: 0,0:06:03.72,0:06:07.16,Default,,0000,0000,0000,,Would you have some fruit to\Nhold you over until dinner time?
+Dialogue: 0,0:06:07.16,0:06:08.33,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:06:08.33,0:06:09.79,Default,,0000,0000,0000,,Are you a magician?!
+Dialogue: 0,0:06:09.79,0:06:11.66,Default,,0000,0000,0000,,Lady, I'm gonna eat\Nthree days worth of food!
+Dialogue: 0,0:06:11.66,0:06:14.27,Default,,0000,0000,0000,,Looking forward to it! I've devoted\Nmy past 30 years to the job of serving!
+Dialogue: 0,0:06:14.27,0:06:18.40,Default,,0000,0000,0000,,I won't lose against a youngster's stomach,\Nso eat to your heart's content!
+Dialogue: 0,0:06:23.64,0:06:25.81,Default,,0000,0000,0000,,They don't have a shred of dignity...
+Dialogue: 0,0:06:25.81,0:06:30.15,Default,,0000,0000,0000,,Meals at this dining hall are\Nsupposed to be quieter than this...
+Dialogue: 0,0:06:31.68,0:06:34.22,Default,,0000,0000,0000,,So, it wasn't an empty boast.\NBut I won't lose!
+Dialogue: 0,0:06:34.22,0:06:36.52,Default,,0000,0000,0000,,Eat quick or it'll be gone!
+Dialogue: 0,0:06:37.69,0:06:40.53,Default,,0000,0000,0000,,Hey, Luffy! You just took the\Nfood from my plate, didn't you?!
+Dialogue: 0,0:06:40.53,0:06:41.86,Default,,0000,0000,0000,,Don't spit the food!
+Dialogue: 0,0:06:41.86,0:06:44.33,Default,,0000,0000,0000,,Hey hey, if you eat in\Na hurry like that, you'll...
+Dialogue: 0,0:06:44.33,0:06:45.73,Default,,0000,0000,0000,,We've got a lot, so...
+Dialogue: 0,0:06:45.73,0:06:49.40,Default,,0000,0000,0000,,Well then, wait and see, Luffy.\NI'll put the Tabasco Star on this.
+Dialogue: 0,0:06:53.04,0:06:55.94,Default,,0000,0000,0000,,Hey! When did you...?!
+Dialogue: 0,0:06:55.94,0:06:57.34,Default,,0000,0000,0000,,What do you call that dish?
+Dialogue: 0,0:06:57.34,0:07:00.48,Default,,0000,0000,0000,,This is called konafa. You bake\Nnoodles in the oven and...
+Dialogue: 0,0:07:00.48,0:07:02.15,Default,,0000,0000,0000,,Delicious!
+Dialogue: 0,0:07:02.15,0:07:04.98,Default,,0000,0000,0000,,Now, here's more!
+Dialogue: 0,0:07:04.98,0:07:07.32,Default,,0000,0000,0000,,Off man, I diffn mow mu mere meh ming!
+Dialogue: 0,0:07:07.32,0:07:10.52,Default,,0000,0000,0000,,Men mu're... muff... Mimi's mad, muh?
+Dialogue: 0,0:07:10.52,0:07:12.72,Default,,0000,0000,0000,,W-Well... we can talk after the dinner.
+Dialogue: 0,0:07:12.72,0:07:15.26,Default,,0000,0000,0000,,Meah, mu're might.
+Dialogue: 0,0:07:15.26,0:07:17.06,Default,,0000,0000,0000,,Can I have another mug full?!
+Dialogue: 0,0:07:17.06,0:07:19.63,Default,,0000,0000,0000,,Hey, we need some water here!
+Dialogue: 0,0:07:19.63,0:07:21.80,Default,,0000,0000,0000,,What a noisy dinner table...
+Dialogue: 0,0:07:21.80,0:07:24.50,Default,,0000,0000,0000,,They're too vulgar to keep watching...
+Dialogue: 0,0:07:27.61,0:07:30.88,Default,,0000,0000,0000,,How can Vivi-sama just keep laughing...?
+Dialogue: 0,0:08:00.37,0:08:03.51,Default,,0000,0000,0000,,--Whoa!\N--This is the palace's proud main bath.
+Dialogue: 0,0:08:03.51,0:08:05.21,Default,,0000,0000,0000,,We normally use this only\Nduring the rainy season.
+Dialogue: 0,0:08:05.21,0:08:07.31,Default,,0000,0000,0000,,Amazing! This is gorgeous! Gorgeous!
+Dialogue: 0,0:08:07.31,0:08:10.45,Default,,0000,0000,0000,,--I'll be the first to go in!\N--No, I'll be the first!
+Dialogue: 0,0:08:10.45,0:08:12.05,Default,,0000,0000,0000,,Are you guys enjoying that?
+Dialogue: 0,0:08:12.05,0:08:14.82,Default,,0000,0000,0000,,Well, I really enjoyed the dinner.
+Dialogue: 0,0:08:14.82,0:08:17.92,Default,,0000,0000,0000,,Because of the current situation,\NI thought we'd keep it simple,
+Dialogue: 0,0:08:17.92,0:08:22.13,Default,,0000,0000,0000,,but it seems that anything you guys\Nget involved with would become a party.
+Dialogue: 0,0:08:22.13,0:08:24.80,Default,,0000,0000,0000,,Hey Zoro, look at this! We can train here!
+Dialogue: 0,0:08:24.80,0:08:27.40,Default,,0000,0000,0000,,--Training! Training!\N--What training is that?!
+Dialogue: 0,0:08:27.40,0:08:29.33,Default,,0000,0000,0000,,So where's the women's bath?
+Dialogue: 0,0:08:29.33,0:08:31.30,Default,,0000,0000,0000,,Are you nuts?! Why would I tell you?!
+Dialogue: 0,0:08:31.30,0:08:32.77,Default,,0000,0000,0000,,Vivi-sama's there!
+Dialogue: 0,0:08:32.77,0:08:34.87,Default,,0000,0000,0000,,Don't be so stingy!
+Dialogue: 0,0:08:34.87,0:08:36.31,Default,,0000,0000,0000,,It's behind that wall!
+Dialogue: 0,0:08:36.31,0:08:37.88,Default,,0000,0000,0000,,King! You bastard!
+Dialogue: 0,0:08:37.88,0:08:40.65,Default,,0000,0000,0000,,Hey, old guy! You're not bad at all!
+Dialogue: 0,0:08:40.65,0:08:45.05,Default,,0000,0000,0000,,This feels good! I wonder if a ship\Nwith a big bath like this exists...
+Dialogue: 0,0:08:45.05,0:08:48.92,Default,,0000,0000,0000,,I'm sure it does, since the sea is so vast.
+Dialogue: 0,0:08:48.92,0:08:51.76,Default,,0000,0000,0000,,We saw giants... We saw dinosaurs...
+Dialogue: 0,0:08:51.76,0:08:54.63,Default,,0000,0000,0000,,We also saw cherry blossoms\Nbloom in a winter land...
+Dialogue: 0,0:08:54.63,0:08:59.20,Default,,0000,0000,0000,,There're more and more things in the\Nsea that are beyond our imagination!
+Dialogue: 0,0:09:02.27,0:09:04.84,Default,,0000,0000,0000,,--Well...\N--It's my turn.
+Dialogue: 0,0:09:04.84,0:09:06.00,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:09:06.00,0:09:07.54,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:09:07.54,0:09:09.77,Default,,0000,0000,0000,,Hey, what're you all doing?!
+Dialogue: 0,0:09:09.77,0:09:11.61,Default,,0000,0000,0000,,Those idiots...
+Dialogue: 0,0:09:13.18,0:09:16.65,Default,,0000,0000,0000,,It'll be 100,000 berries per person, okay?!
+Dialogue: 0,0:09:16.65,0:09:17.65,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:09:17.65,0:09:19.95,Default,,0000,0000,0000,,Happiness Punch!
+Dialogue: 0,0:09:19.95,0:09:21.72,Default,,0000,0000,0000,,Nami-san!
+Dialogue: 0,0:09:24.02,0:09:26.22,Default,,0000,0000,0000,,Mellorine...
+Dialogue: 0,0:09:29.49,0:09:31.06,Default,,0000,0000,0000,,You can't make up your mind, can you...?
+Dialogue: 0,0:09:31.06,0:09:32.06,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:09:32.06,0:09:35.50,Default,,0000,0000,0000,,I'm thinking that we might\Nwanna leave here tonight...
+Dialogue: 0,0:09:35.50,0:09:36.80,Default,,0000,0000,0000,,What? Really?
+Dialogue: 0,0:09:36.80,0:09:39.40,Default,,0000,0000,0000,,Because we no longer have\Na reason to stay here, right?
+Dialogue: 0,0:09:39.40,0:09:41.97,Default,,0000,0000,0000,,The Navy is probably at the\Nharbor ready to capture us.
+Dialogue: 0,0:09:41.97,0:09:44.14,Default,,0000,0000,0000,,Our ship will be in danger soon.
+Dialogue: 0,0:09:50.08,0:09:51.45,Default,,0000,0000,0000,,Thank you...
+Dialogue: 0,0:09:51.45,0:09:54.35,Default,,0000,0000,0000,,--You dirty old man...\N--I'm not talking about that!
+Dialogue: 0,0:09:56.39,0:09:58.42,Default,,0000,0000,0000,,I'm talking about the country.
+Dialogue: 0,0:10:05.53,0:10:09.67,Default,,0000,0000,0000,,Hey hey, is it okay... for a\Nking to do such a thing...?
+Dialogue: 0,0:10:09.67,0:10:12.17,Default,,0000,0000,0000,,This is a serious incident, Cobra-sama.
+Dialogue: 0,0:10:12.17,0:10:15.21,Default,,0000,0000,0000,,A king shouldn't bow his head to anyone.
+Dialogue: 0,0:10:15.21,0:10:20.88,Default,,0000,0000,0000,,Igaram... Authority is something\Nyou wear over your clothes.
+Dialogue: 0,0:10:20.88,0:10:25.68,Default,,0000,0000,0000,,But we're in the bath. There isn't\Nsuch a thing as a naked king.
+Dialogue: 0,0:10:25.68,0:10:28.42,Default,,0000,0000,0000,,I'd like to thank you from\Nthe bottom of my heart
+Dialogue: 0,0:10:28.42,0:10:33.42,Default,,0000,0000,0000,,as a father and as a resident of this land.
+Dialogue: 0,0:10:37.90,0:10:40.00,Default,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:10:40.00,0:10:42.70,Default,,0000,0000,0000,,I really appreciate it!
+Dialogue: 0,0:10:49.21,0:10:51.28,Default,,0000,0000,0000,,--Tonight?!\N--That's right.
+Dialogue: 0,0:10:51.28,0:10:53.14,Default,,0000,0000,0000,,Leaving here?
+Dialogue: 0,0:10:53.14,0:10:55.88,Default,,0000,0000,0000,,Well, I think it's appropriate, too,
+Dialogue: 0,0:10:55.88,0:10:58.12,Default,,0000,0000,0000,,since we no longer have\Na reason to stay here.
+Dialogue: 0,0:10:58.12,0:11:00.72,Default,,0000,0000,0000,,Yeah... I'm also worried\Nabout the Navy's actions.
+Dialogue: 0,0:11:00.72,0:11:02.49,Default,,0000,0000,0000,,Okay, then. You decide, Luffy.
+Dialogue: 0,0:11:02.49,0:11:04.69,Default,,0000,0000,0000,,Okay! We'll leave after we have\Nsome more Alabasta dishes again.
+Dialogue: 0,0:11:04.69,0:11:06.09,Default,,0000,0000,0000,,We're leaving right away, idiot!
+Dialogue: 0,0:11:06.09,0:11:07.96,Default,,0000,0000,0000,,--Idiot!\N--You don't all have to...
+Dialogue: 0,0:11:07.96,0:11:11.56,Default,,0000,0000,0000,,What should we do, Igaram-san?!\NWe have to let them know right away.
+Dialogue: 0,0:11:11.56,0:11:16.77,Default,,0000,0000,0000,,Yeah, of course. But...\Nthis is becoming a big deal...
+Dialogue: 0,0:11:16.77,0:11:19.44,Default,,0000,0000,0000,,I hope they can leave this island safely...
+Dialogue: 0,0:11:19.44,0:11:21.77,Default,,0000,0000,0000,,How quickly they prepared...!
+Dialogue: 0,0:11:22.77,0:11:26.94,Default,,0000,0000,0000,,Roronoa Zoro. His bounty\Nis 60 million berries!
+Dialogue: 0,0:11:26.94,0:11:30.85,Default,,0000,0000,0000,,Monkey D. Luffy. His bounty\Nis 100 million berries!
+Dialogue: 0,0:11:30.85,0:11:33.22,Default,,0000,0000,0000,,--Igaram-san...\N--With bounties of this level,
+Dialogue: 0,0:11:33.22,0:11:37.16,Default,,0000,0000,0000,,flag officers at Navy Headquarters\Nwill surely start taking actions.
+Dialogue: 0,0:11:37.16,0:11:40.49,Default,,0000,0000,0000,,You can no longer go back, Luffy-kun.
+Dialogue: 0,0:11:40.49,0:11:44.10,Default,,0000,0000,0000,,You and your crew took down one pillar\Nof the Seven Warlords of the Sea!
+Dialogue: 0,0:12:04.35,0:12:06.18,Default,,0000,0000,0000,,There's trouble!
+Dialogue: 0,0:12:13.06,0:12:16.79,Default,,0000,0000,0000,,Vivi-sama, where are they?!
+Dialogue: 0,0:12:16.79,0:12:19.60,Default,,0000,0000,0000,,What is it, Igaram? What's the big hurry?
+Dialogue: 0,0:12:19.60,0:12:21.90,Default,,0000,0000,0000,,Where did Luffy-kun and the others go?
+Dialogue: 0,0:12:21.90,0:12:25.24,Default,,0000,0000,0000,,To the sea... They're pirates, you know...
+Dialogue: 0,0:12:25.24,0:12:26.80,Default,,0000,0000,0000,,Oh, no...
+Dialogue: 0,0:12:28.41,0:12:32.24,Default,,0000,0000,0000,,Listen, you guys. Pirates are scum.
+Dialogue: 0,0:12:29.17,0:12:31.91,On Top,,0000,0000,0000,,"Navy Headquarters Sergeant,\NJango the Traitor"
+Dialogue: 0,0:12:32.24,0:12:35.48,Default,,0000,0000,0000,,Hey, what're you saying?\NDon't you remember?
+Dialogue: 0,0:12:33.84,0:12:37.88,On Top,,0000,0000,0000,,"Navy Headquarters Sergeant,\NIron Fists Fullbody"
+Dialogue: 0,0:12:35.48,0:12:38.02,Default,,0000,0000,0000,,You used to be a pirate, right?
+Dialogue: 0,0:12:38.02,0:12:42.49,Default,,0000,0000,0000,,Urk! That's right! You're exactly right, baby!
+Dialogue: 0,0:12:42.49,0:12:43.82,Default,,0000,0000,0000,,Wanna dance?!
+Dialogue: 0,0:12:43.82,0:12:46.46,Default,,0000,0000,0000,,Ahh! Yeah! Dance! Dance!
+Dialogue: 0,0:12:47.46,0:12:49.39,Default,,0000,0000,0000,,Dance! Dance!
+Dialogue: 0,0:12:51.70,0:12:54.83,Default,,0000,0000,0000,,Looks like those two took down\Nthe enemy ship and returned.
+Dialogue: 0,0:12:54.83,0:12:58.17,Default,,0000,0000,0000,,It took them forever.\NI wonder what they were doing.
+Dialogue: 0,0:12:58.17,0:13:02.31,Default,,0000,0000,0000,,I put trust in their ability and left the\Nship we were attacking in their hands...
+Dialogue: 0,0:13:02.31,0:13:05.11,Default,,0000,0000,0000,,Disappointed. I'm disappointed.
+Dialogue: 0,0:13:05.11,0:13:06.71,Default,,0000,0000,0000,,Have you finished deploying the ships?
+Dialogue: 0,0:13:06.71,0:13:08.41,Default,,0000,0000,0000,,Yes, ma'am! It's perfect!
+Dialogue: 0,0:13:08.41,0:13:11.98,Default,,0000,0000,0000,,We've completely blocked\Nevery harbor in the country!
+Dialogue: 0,0:13:11.98,0:13:13.95,Default,,0000,0000,0000,,--However...\N--Hm?
+Dialogue: 0,0:13:13.95,0:13:15.82,Default,,0000,0000,0000,,There's just one thing\NI'm concerned about...
+Dialogue: 0,0:13:15.82,0:13:16.82,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:13:16.82,0:13:21.53,Default,,0000,0000,0000,,About the Straw Hats' ship that I\Nthought we confirmed in Erumalu...
+Dialogue: 0,0:13:21.53,0:13:22.53,Default,,0000,0000,0000,,It's gone...
+Dialogue: 0,0:13:22.53,0:13:24.36,Default,,0000,0000,0000,,Don't tell me they've\Nalready left this country...
+Dialogue: 0,0:13:24.36,0:13:26.10,Default,,0000,0000,0000,,No... I don't think that's the case...
+Dialogue: 0,0:13:26.10,0:13:28.63,Default,,0000,0000,0000,,Then search for it... every corner of the coast!
+Dialogue: 0,0:13:28.63,0:13:30.23,Default,,0000,0000,0000,,Yes, ma'am! Will do!
+Dialogue: 0,0:13:30.23,0:13:33.70,Default,,0000,0000,0000,,--Geez...\N--Miss Hina! Sorry it took so long!
+Dialogue: 0,0:13:33.70,0:13:35.91,Default,,0000,0000,0000,,Please ask us why it took so long.
+Dialogue: 0,0:13:35.91,0:13:37.68,Default,,0000,0000,0000,,Why did it take so long?
+Dialogue: 0,0:13:37.68,0:13:41.01,Default,,0000,0000,0000,,--We were picking flowers... for you...!\N--Don't need them.
+Dialogue: 0,0:13:41.01,0:13:44.45,Default,,0000,0000,0000,,Man your positions right away!\NWe'll take down the Straw Hat gang!
+Dialogue: 0,0:13:44.45,0:13:46.45,Default,,0000,0000,0000,,S-Straw Hats?!
+Dialogue: 0,0:13:49.75,0:13:51.76,Default,,0000,0000,0000,,Hmmm... This is nice.
+Dialogue: 0,0:13:51.76,0:13:54.23,Default,,0000,0000,0000,,So this is finally farewell\Nto the sand kingdom...
+Dialogue: 0,0:13:54.23,0:13:55.99,Default,,0000,0000,0000,,Hey, Luffy, when are you gonna stop eating?
+Dialogue: 0,0:13:55.99,0:13:59.76,Default,,0000,0000,0000,,The Alabasta dishes are great!\NSanji, make them sometime...
+Dialogue: 0,0:13:59.76,0:14:03.63,Default,,0000,0000,0000,,Yeah. I was interested, too, so I got\Nsome recipes from Terracotta-san.
+Dialogue: 0,0:14:03.63,0:14:06.04,Default,,0000,0000,0000,,Some spices, too.
+Dialogue: 0,0:14:06.04,0:14:08.51,Default,,0000,0000,0000,,Nami, are you feeling sick?
+Dialogue: 0,0:14:10.27,0:14:13.48,Default,,0000,0000,0000,,Nami, do you want one piece\Nof meat? Just one piece, though.
+Dialogue: 0,0:14:15.18,0:14:17.55,Default,,0000,0000,0000,,Nami-san, you're thinking\Nabout Vivi-chan, right?
+Dialogue: 0,0:14:17.55,0:14:22.65,Default,,0000,0000,0000,,I understand how you're feeling...\Nbut thinking doesn't get you anywhere.
+Dialogue: 0,0:14:22.65,0:14:25.39,Default,,0000,0000,0000,,Yeah, I know... you two were really close...
+Dialogue: 0,0:14:25.39,0:14:28.13,Default,,0000,0000,0000,,But hey... chin up.
+Dialogue: 0,0:14:32.56,0:14:34.13,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:14:37.57,0:14:41.74,Default,,0000,0000,0000,,For Vivi's sake... I'm willing to give up...
+Dialogue: 0,0:14:41.74,0:14:42.97,Default,,0000,0000,0000,,...on the 1 billion berries...
+Dialogue: 0,0:14:42.97,0:14:45.78,Default,,0000,0000,0000,,--Of course you should!\N--So it was about money?!
+Dialogue: 0,0:14:45.78,0:14:47.24,Default,,0000,0000,0000,,Ah! Usopp fell!
+Dialogue: 0,0:14:47.24,0:14:49.58,Default,,0000,0000,0000,,Nami! Don't act misleading!
+Dialogue: 0,0:14:49.58,0:14:51.75,Default,,0000,0000,0000,,What?! What're you guys worked up about?
+Dialogue: 0,0:14:51.75,0:14:54.12,Default,,0000,0000,0000,,If it's about Vivi, it's no use\Nworrying about it, right?
+Dialogue: 0,0:14:54.12,0:14:55.75,Default,,0000,0000,0000,,Hey! Usopp fell!
+Dialogue: 0,0:14:55.75,0:14:57.36,Default,,0000,0000,0000,,Leave him be.
+Dialogue: 0,0:14:57.36,0:14:59.02,Default,,0000,0000,0000,,It was your fault!
+Dialogue: 0,0:15:00.12,0:15:02.79,Default,,0000,0000,0000,,Karoo! Where are you, Karoo?!
+Dialogue: 0,0:15:04.00,0:15:05.50,Default,,0000,0000,0000,,It's no use, Igaram.
+Dialogue: 0,0:15:05.50,0:15:09.13,Default,,0000,0000,0000,,Why? We should at least let them\Nknow their current situation.
+Dialogue: 0,0:15:09.13,0:15:12.97,Default,,0000,0000,0000,,Since I had the Duck Squadron\Ntake them, even Karoo can't catch up.
+Dialogue: 0,0:15:12.97,0:15:14.31,Default,,0000,0000,0000,,And it won't change anything...
+Dialogue: 0,0:15:14.31,0:15:15.84,Default,,0000,0000,0000,,What won't change?
+Dialogue: 0,0:15:15.84,0:15:20.04,Default,,0000,0000,0000,,They'll be happy when they know it.\NThat's all. Nothing will change.
+Dialogue: 0,0:15:20.04,0:15:22.58,Default,,0000,0000,0000,,--But...!\N--They'll be fine!
+Dialogue: 0,0:15:22.58,0:15:26.62,Default,,0000,0000,0000,,Now, leave! I'm going to bed!\NYou have to get up early, right?
+Dialogue: 0,0:15:26.62,0:15:31.49,Default,,0000,0000,0000,,Ah... yes. That's right. We have to let\Nthe entire country hear your voice.
+Dialogue: 0,0:15:31.49,0:15:35.69,Default,,0000,0000,0000,,I know. Come here, Karoo.\NLet's sleep together.
+Dialogue: 0,0:15:41.33,0:15:43.53,Default,,0000,0000,0000,,--Hmm...\N--Igaram-san.
+Dialogue: 0,0:15:43.53,0:15:44.94,Default,,0000,0000,0000,,Something's bothering me...
+Dialogue: 0,0:15:44.94,0:15:46.67,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:15:46.67,0:15:50.21,Default,,0000,0000,0000,,She's too calm... Hmm...
+Dialogue: 0,0:15:50.21,0:15:53.44,Default,,0000,0000,0000,,Strange... There's something strange...
+Dialogue: 0,0:16:01.19,0:16:04.86,Default,,0000,0000,0000,,It's quiet, isn't it, Karoo?
+Dialogue: 0,0:16:04.86,0:16:07.96,Default,,0000,0000,0000,,We haven't had a quiet night\Nlike this for a long time...
+Dialogue: 0,0:16:07.96,0:16:12.40,Default,,0000,0000,0000,,The cook who fights with\Nthe fridge robber is gone...
+Dialogue: 0,0:16:12.40,0:16:15.67,Default,,0000,0000,0000,,The swordsman who trains\Nevery night is also gone...
+Dialogue: 0,0:16:15.67,0:16:19.70,Default,,0000,0000,0000,,The navigator who throws her\Npillow half asleep is gone, too...
+Dialogue: 0,0:16:19.70,0:16:22.07,Default,,0000,0000,0000,,They're all gone...
+Dialogue: 0,0:16:25.24,0:16:27.81,Default,,0000,0000,0000,,Transponder snail\Ncommunication? From who?
+Dialogue: 0,0:16:27.81,0:16:29.61,Default,,0000,0000,0000,,From someone named Bon-chan.
+Dialogue: 0,0:16:29.61,0:16:31.08,Default,,0000,0000,0000,,Bon-chan? Who's that?
+Dialogue: 0,0:16:31.08,0:16:32.62,Default,,0000,0000,0000,,No one knows him.
+Dialogue: 0,0:16:32.62,0:16:35.55,Default,,0000,0000,0000,,But he insists he's your friend, so...
+Dialogue: 0,0:16:35.55,0:16:38.02,Default,,0000,0000,0000,,Our friend?
+Dialogue: 0,0:16:38.02,0:16:41.76,Default,,0000,0000,0000,,Hello? Hi there!
+Dialogue: 0,0:16:41.76,0:16:45.16,Default,,0000,0000,0000,,It's me! Me! Uhm...
+Dialogue: 0,0:16:47.23,0:16:50.20,Default,,0000,0000,0000,,What?! Shut up!
+Dialogue: 0,0:16:50.20,0:16:52.70,Default,,0000,0000,0000,,Hey, it's you, huh?\NWhat do you want from us?
+Dialogue: 0,0:16:52.70,0:16:55.97,Default,,0000,0000,0000,,Oh? That voice must be Straw Hat, right?
+Dialogue: 0,0:16:55.97,0:16:59.14,Default,,0000,0000,0000,,You're strong! I was so surprised!
+Dialogue: 0,0:16:59.14,0:17:02.38,Default,,0000,0000,0000,,Oh, yeah... Don't call me Mr. 2.
+Dialogue: 0,0:17:02.38,0:17:05.48,Default,,0000,0000,0000,,If this signal is caught by\Nthe Navy, I'll be in trouble.
+Dialogue: 0,0:17:05.48,0:17:07.32,Default,,0000,0000,0000,,You just said it yourself!
+Dialogue: 0,0:17:07.32,0:17:08.72,Default,,0000,0000,0000,,Just tell us what you want!
+Dialogue: 0,0:17:08.72,0:17:12.29,Default,,0000,0000,0000,,Oh, yeah... I took your ship.
+Dialogue: 0,0:17:12.29,0:17:13.52,Default,,0000,0000,0000,,That's not funny!
+Dialogue: 0,0:17:13.52,0:17:16.13,Default,,0000,0000,0000,,You son of a bitch! This isn't a\Njoking matter! Where're you now?!
+Dialogue: 0,0:17:16.13,0:17:18.23,Default,,0000,0000,0000,,On your ship.
+Dialogue: 0,0:17:18.23,0:17:19.76,Default,,0000,0000,0000,,Of all others, he...
+Dialogue: 0,0:17:19.76,0:17:23.60,Default,,0000,0000,0000,,No, no...! Gee...
+Dialogue: 0,0:17:23.60,0:17:27.87,Default,,0000,0000,0000,,We're friends, right?
+Dialogue: 0,0:17:33.24,0:17:36.28,Default,,0000,0000,0000,,He's at the upper reaches\Nof the Sandora River...
+Dialogue: 0,0:17:36.28,0:17:37.62,Default,,0000,0000,0000,,Can we trust him?
+Dialogue: 0,0:17:37.62,0:17:39.98,Default,,0000,0000,0000,,We became friends one time, but...
+Dialogue: 0,0:17:39.98,0:17:42.59,Default,,0000,0000,0000,,In your case, you may be able to make\Nfriends with him again, which is scary...
+Dialogue: 0,0:17:42.59,0:17:44.32,Default,,0000,0000,0000,,But we have no choice but to go...
+Dialogue: 0,0:17:44.32,0:17:46.56,Default,,0000,0000,0000,,He's right. He has our ship.
+Dialogue: 0,0:17:46.56,0:17:49.99,Default,,0000,0000,0000,,If he tries to trick us,\Nthen we'll just beat him up.
+Dialogue: 0,0:17:49.99,0:17:51.73,Default,,0000,0000,0000,,Now that it's decided, let's get ready quickly.
+Dialogue: 0,0:17:51.73,0:17:54.80,Default,,0000,0000,0000,,Okay! Let's hurry. If we don't\Nget there quickly, our ship will...
+Dialogue: 0,0:17:54.80,0:17:56.87,Default,,0000,0000,0000,,Say, everyone...
+Dialogue: 0,0:17:59.87,0:18:02.74,Default,,0000,0000,0000,,Say... everyone...
+Dialogue: 0,0:18:03.84,0:18:08.25,Default,,0000,0000,0000,,What... should I do...?
+Dialogue: 0,0:18:10.38,0:18:14.02,Default,,0000,0000,0000,,Listen well, Vivi. We'll give you 12 hours.
+Dialogue: 0,0:18:13.28,0:18:18.36,On Top,,0000,0000,0000,,"Current Location: Alubarna"\N"Nanohana" "Sandora River"
+Dialogue: 0,0:18:14.02,0:18:16.89,Default,,0000,0000,0000,,Once we take our ship\Nback on the Sandora River,
+Dialogue: 0,0:18:16.89,0:18:21.73,Default,,0000,0000,0000,,we'll draw the ship near the eastern harbor\Njust once at exactly noon tomorrow.
+Dialogue: 0,0:18:18.36,0:18:23.06,On Top,,0000,0000,0000,,"Eastern Harbor"
+Dialogue: 0,0:18:21.73,0:18:23.76,Default,,0000,0000,0000,,We probably won't be able to anchor.
+Dialogue: 0,0:18:23.76,0:18:26.86,Default,,0000,0000,0000,,If you want to continue traveling with us,
+Dialogue: 0,0:18:26.86,0:18:30.17,Default,,0000,0000,0000,,that moment is the only\Nchance to come aboard.
+Dialogue: 0,0:18:30.17,0:18:34.34,Default,,0000,0000,0000,,If that happens, we'll welcome you...\Nthough you'll become a pirate.
+Dialogue: 0,0:18:34.34,0:18:38.34,Default,,0000,0000,0000,,Since you're a princess of a country,\Nthis is the best we can do to invite you.
+Dialogue: 0,0:18:38.34,0:18:40.84,Default,,0000,0000,0000,,Come, Vivi! Definitely come! Come now!
+Dialogue: 0,0:18:40.84,0:18:42.91,Default,,0000,0000,0000,,--Stop it, Luffy.\N--Let's go.
+Dialogue: 0,0:18:42.91,0:18:45.08,Default,,0000,0000,0000,,Why?! Don't you want her to come?
+Dialogue: 0,0:18:45.08,0:18:48.85,Default,,0000,0000,0000,,That's not the point!\NIt's something Vivi has to decide!
+Dialogue: 0,0:18:53.92,0:18:56.29,Default,,0000,0000,0000,,Noon tomorrow...
+Dialogue: 0,0:18:56.29,0:19:00.00,Default,,0000,0000,0000,,If it's the eastern harbor, it'll take\Nfour hours to get there on Karoo...
+Dialogue: 0,0:19:00.00,0:19:03.10,Default,,0000,0000,0000,,If I leave here at 8, I'll make it on time...
+Dialogue: 0,0:19:03.10,0:19:07.17,Default,,0000,0000,0000,,I've never thought of becoming a pirate.
+Dialogue: 0,0:19:07.17,0:19:14.88,Default,,0000,0000,0000,,If I miss this chance, I'll never have\Nsuch a choice for the rest of my life...
+Dialogue: 0,0:19:14.88,0:19:18.38,Default,,0000,0000,0000,,I've never thought that being\Na princess was uninteresting,
+Dialogue: 0,0:19:18.38,0:19:22.95,Default,,0000,0000,0000,,and the country is still at a critical point,\Nthough the rebellion is over...
+Dialogue: 0,0:19:25.72,0:19:31.00,Default,,0000,0000,0000,,If I go, you'll go too, right?
+Dialogue: 0,0:19:31.00,0:19:35.10,Default,,0000,0000,0000,,Say... Karoo...
+Dialogue: 0,0:19:35.10,0:19:38.94,Default,,0000,0000,0000,,What... would you like to do?
+Dialogue: 0,0:19:40.27,0:19:43.51,Default,,0000,0000,0000,,I've been waiting, you guys!
+Dialogue: 0,0:19:43.51,0:19:45.68,Default,,0000,0000,0000,,Long time no see!
+Dialogue: 0,0:19:45.68,0:19:46.84,Default,,0000,0000,0000,,We're here!
+Dialogue: 0,0:19:46.84,0:19:50.15,Default,,0000,0000,0000,,Okay, unload! Thanks, you guys!
+Dialogue: 0,0:19:50.15,0:19:52.05,Default,,0000,0000,0000,,We have to say goodbye to you here.
+Dialogue: 0,0:19:52.05,0:19:53.58,Default,,0000,0000,0000,,Have a safe trip back!
+Dialogue: 0,0:19:53.58,0:19:56.45,Default,,0000,0000,0000,,Say hello to the King, the old\Ntube-hair guy and the others!
+Dialogue: 0,0:19:56.45,0:19:58.49,Default,,0000,0000,0000,,Take care!
+Dialogue: 0,0:19:58.49,0:20:05.70,Default,,0000,0000,0000,,I'll see you... definitely\Nsee you again someday!
+Dialogue: 0,0:20:05.70,0:20:07.53,Default,,0000,0000,0000,,Hm? Wait a sec!
+Dialogue: 0,0:20:07.53,0:20:09.83,Default,,0000,0000,0000,,--What?!\N--Don't "what" me!
+Dialogue: 0,0:20:09.83,0:20:14.04,Default,,0000,0000,0000,,That's not how you should\Ntreat your friend, is it?!
+Dialogue: 0,0:20:14.04,0:20:17.61,Default,,0000,0000,0000,,What do you mean "friend"?\NWe were enemies. You lied to us!
+Dialogue: 0,0:20:17.61,0:20:21.48,Default,,0000,0000,0000,,I didn't lie! I didn't know it, either!
+Dialogue: 0,0:20:21.48,0:20:24.25,Default,,0000,0000,0000,,But you see... who cares about it anymore?
+Dialogue: 0,0:20:24.25,0:20:28.45,Default,,0000,0000,0000,,Baroque Works fell. We're no longer enemi...
+Dialogue: 0,0:20:28.45,0:20:30.49,Default,,0000,0000,0000,,--Hey, move over...\N--Oh, sorry.
+Dialogue: 0,0:20:30.49,0:20:35.13,Default,,0000,0000,0000,,Even if we're not enemies,\Nwhy are you on our ship?!
+Dialogue: 0,0:20:35.13,0:20:37.63,Default,,0000,0000,0000,,--You stupid head!\N--What'd you say?!
+Dialogue: 0,0:20:37.63,0:20:40.03,Default,,0000,0000,0000,,Listen! If I wasn't on this ship now,
+Dialogue: 0,0:20:40.03,0:20:42.97,Default,,0000,0000,0000,,what do you think would've happened to it?!
+Dialogue: 0,0:20:42.97,0:20:44.94,Default,,0000,0000,0000,,It might've been taken by the Navy.
+Dialogue: 0,0:20:44.94,0:20:47.94,Default,,0000,0000,0000,,--What?!\N--It's not "might've"!\NIt definitely would've happened!
+Dialogue: 0,0:20:47.94,0:20:50.61,Default,,0000,0000,0000,,Do you know what's going on\Naround this island right now?!
+Dialogue: 0,0:20:50.61,0:20:53.61,Default,,0000,0000,0000,,It's completely blocked by\Nthe Navy ships! It's blocked!
+Dialogue: 0,0:20:53.61,0:20:57.78,Default,,0000,0000,0000,,What?! Then you protected\Nthe Going Merry from the Navy?!
+Dialogue: 0,0:20:57.78,0:20:59.62,Default,,0000,0000,0000,,--Why?!\N--How come?!
+Dialogue: 0,0:21:00.88,0:21:03.22,Default,,0000,0000,0000,,Because we're friends!
+Dialogue: 0,0:21:09.59,0:21:10.59,Default,,0000,0000,0000,,Do we still have stuff to load?
+Dialogue: 0,0:21:10.59,0:21:12.43,Default,,0000,0000,0000,,Nope. This is the last one.
+Dialogue: 0,0:21:12.43,0:21:14.13,Default,,0000,0000,0000,,In other words, Mr. 2...
+Dialogue: 0,0:21:14.13,0:21:18.24,Default,,0000,0000,0000,,You guys couldn't get off of the\Nisland due to the Navy's coast siege,
+Dialogue: 0,0:21:18.24,0:21:20.67,Default,,0000,0000,0000,,so you wanted to find allies...\NIsn't that right?
+Dialogue: 0,0:21:20.67,0:21:22.27,Default,,0000,0000,0000,,Bon-chan!
+Dialogue: 0,0:21:22.27,0:21:25.58,Default,,0000,0000,0000,,That's right... In a time like this...\NBecause it's a time like this...
+Dialogue: 0,0:21:25.58,0:21:27.64,Default,,0000,0000,0000,,Gather! In the name of friendship!
+Dialogue: 0,0:21:27.64,0:21:30.51,Default,,0000,0000,0000,,Let's unite our strength and fight together!
+Dialogue: 0,0:21:30.51,0:21:33.72,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:33.72,0:21:35.42,Default,,0000,0000,0000,,Geez...
+Dialogue: 0,0:21:35.42,0:21:36.82,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:36.82,0:21:38.32,Default,,0000,0000,0000,,So, thanks in advance!
+Dialogue: 0,0:21:38.32,0:21:40.49,Default,,0000,0000,0000,,You were there?!
+Dialogue: 0,0:21:40.49,0:21:43.16,Default,,0000,0000,0000,,Miss Hina! Miss Hina!
+Dialogue: 0,0:21:43.16,0:21:45.90,Default,,0000,0000,0000,,We found it! We found the Straw Hats' ship!
+Dialogue: 0,0:21:45.90,0:21:47.90,Default,,0000,0000,0000,,Near the upper reaches of the Sandora River!
+Dialogue: 0,0:21:49.50,0:21:51.47,Default,,0000,0000,0000,,Prepare to fight.
+Dialogue: 0,0:22:05.75,0:22:11.89,Default,,0000,0000,0000,,Which direction should I run towards\Nto see a more wonderful tomorrow?
+Dialogue: 0,0:22:11.89,0:22:17.66,Default,,0000,0000,0000,,I took the helm and opened the\Nmiraculous map that I stored in my heart
+Dialogue: 0,0:22:17.66,0:22:23.87,Default,,0000,0000,0000,,I aimed for the sky and sought out\Nmy dreams, though at times I got lost
+Dialogue: 0,0:22:23.87,0:22:29.31,Default,,0000,0000,0000,,It wasn't a dream; when I met you,\NI discovered the wonderful person in me
+Dialogue: 0,0:22:29.31,0:22:35.51,Default,,0000,0000,0000,,With just a bit of courage,\NI gained something grand
+Dialogue: 0,0:22:35.51,0:22:41.85,Default,,0000,0000,0000,,Now's the time for my "wish"\Nto become my "pledge"
+Dialogue: 0,0:22:41.85,0:22:44.79,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:44.79,0:22:48.89,Default,,0000,0000,0000,,Let's sketch out the tale of the future
+Dialogue: 0,0:22:48.89,0:22:53.80,Default,,0000,0000,0000,,I'll put all my feelings\Nin a brand new wind now
+Dialogue: 0,0:22:53.80,0:22:56.77,Default,,0000,0000,0000,,Shining ray! Find your brand new way
+Dialogue: 0,0:22:56.77,0:22:59.94,Default,,0000,0000,0000,,A never-ending journey to be together
+Dialogue: 0,0:22:59.94,0:23:04.44,Default,,0000,0000,0000,,I'll chase after you\Nwherever you go, Shining ray
+Dialogue: 0,0:23:10.48,0:23:11.78,Default,,0000,0000,0000,,Vivi will come, right?
+Dialogue: 0,0:23:11.78,0:23:13.98,Default,,0000,0000,0000,,Adventures are fun.\NThere's no way she won't come.
+Dialogue: 0,0:23:13.98,0:23:17.12,Default,,0000,0000,0000,,Give up, Luffy. Her case\Nis different from ours.
+Dialogue: 0,0:23:17.12,0:23:19.49,Default,,0000,0000,0000,,Hey, this is bad! The Navy\Nis following us again!
+Dialogue: 0,0:23:19.49,0:23:21.89,Default,,0000,0000,0000,,There's no way she won't come!\NShe'll be a pirate with us!
+Dialogue: 0,0:23:21.89,0:23:25.63,Default,,0000,0000,0000,,Father... Igaram... I have something\Nimportant to talk with you about.
+Dialogue: 0,0:23:25.63,0:23:26.93,Default,,0000,0000,0000,,On the next episode of One Piece!
+Dialogue: 0,0:23:26.93,0:23:30.07,Default,,0000,0000,0000,,"It All Started on That Day!\NVivi Tells the Story of Her Adventure!"
+Dialogue: 0,0:23:30.07,0:23:32.40,Default,,0000,0000,0000,,I'm gonna be King of the Pirates!!
+Dialogue: 0,0:23:32.40,0:23:36.90,Default,,0000,0000,0000,,
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.81,0:00:08.88,Default,,0,0,0,,The world...
+Dialogue: 0,0:00:09.90,0:00:10.72,Default,,0,0,0,,Yes!
+Dialogue: 0,0:00:11.47,0:00:12.74,Default,,0,0,0,,Seek freedom,
+Dialogue: 0,0:00:12.74,0:00:16.94,Default,,0,0,0,,And your world will stand stretched out before your eyes.
+Dialogue: 0,0:00:17.48,0:00:20.65,Default,,0,0,0,,If the endless dream guides your spirits,
+Dialogue: 0,0:00:21.55,0:00:22.60,Default,,0,0,0,,Conquer it!
+Dialogue: 0,0:00:23.33,0:00:25.80,Default,,0,0,0,,Bear conviction behind your flag!
+Dialogue: 0,0:00:30.66,0:00:36.20,Default,,0,0,0,,I began my search,With a blast of water,
+Dialogue: 0,0:00:36.25,0:00:39.46,Default,,0,0,0,,Toward a boundless,everlasting world
+Dialogue: 0,0:00:40.88,0:00:45.71,Default,,0,0,0,,With this overflowing passion in my chest, I'll go anywhere
+Dialogue: 0,0:00:45.71,0:00:54.14,Default,,0,0,0,,Seeking the light l've never seen
+Dialogue: 0,0:00:54.14,0:00:59.85,Default,,0,0,0,,When the summer-colored sun shakes the sall of my heart,
+Dialogue: 0,0:01:04.36,0:01:09.95,Default,,0,0,0,,It's a sign the door to a new world has opened
+Dialogue: 0,0:01:13.82,0:01:18.75,Default,,0,0,0,,Swaying between the waves, I can escape despair,
+Dialogue: 0,0:01:18.75,0:01:26.50,Default,,0,0,0,,For the horize on the other side is what I aim for!
+Dialogue: 0,0:01:26.50,0:01:32.00,Default,,0,0,0,,I began my search, With a blast of water,
+Dialogue: 0,0:01:32.00,0:01:36.68,Default,,0,0,0,,Toward a boundless, everlasting world
+Dialogue: 0,0:01:36.68,0:01:41.94,Default,,0,0,0,,With this overflowing passion in my chest, I'll go anywhere
+Dialogue: 0,0:01:41.94,0:01:48.19,Default,,0,0,0,,Seeking the light I've never seen
+Dialogue: 0,0:01:52.17,0:01:55.81,Default,,0,0,0,,If you want to continue adventuring with us,
+Dialogue: 0,0:01:55.81,0:01:58.13,Default,,0,0,0,,That will be the last chance you'll have to jump on board.
+Dialogue: 0,0:01:59.33,0:02:01.03,Default,,0,0,0,,Hey, Carue...
+Dialogue: 0,0:02:03.50,0:02:05.76,Default,,0,0,0,,What do you want to do?
+Dialogue: 0,0:02:06.71,0:02:15.30,Default,,0,0,0,,Beginning is that day!\NVivi tells of her adventures!
+Dialogue: 0,0:02:16.47,0:02:18.20,Default,,0,0,0,,Igaram? I'm...
+Dialogue: 0,0:02:20.80,0:02:22.67,Default,,0,0,0,,...going to become the Pirate Queen!
+Dialogue: 0,0:02:41.17,0:02:44.22,Default,,0,0,0,,VIVI-SAMAAA!
+Dialogue: 0,0:02:47.11,0:02:48.89,Default,,0,0,0,,Oh, Igaram, good morning.
+Dialogue: 0,0:02:48.89,0:02:51.19,Default,,0,0,0,,What's wrong? You're sweating all over.
+Dialogue: 0,0:02:51.19,0:02:52.41,Default,,0,0,0,,Hey, hey!
+Dialogue: 0,0:02:52.41,0:02:54.67,Default,,0,0,0,,Hubby, how dare you barge in here!
+Dialogue: 0,0:02:54.67,0:02:57.44,Default,,0,0,0,,Vivi-sama is dressing!
+Dialogue: 0,0:02:58.84,0:02:59.99,Default,,0,0,0,,Ah, that is- I mean...
+Dialogue: 0,0:02:59.99,0:03:01.54,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:03:01.54,0:03:02.73,Default,,0,0,0,,Did you need something?
+Dialogue: 0,0:03:02.73,0:03:03.99,Default,,0,0,0,,Ah- No...
+Dialogue: 0,0:03:03.99,0:03:06.36,Default,,0,0,0,,Then get the blazes out of here, Hubby!
+Dialogue: 0,0:03:11.10,0:03:12.62,Default,,0,0,0,,Maybe I'm over-thinking...
+Dialogue: 0,0:03:14.86,0:03:16.05,Default,,0,0,0,,Oh, Your Majesty.
+Dialogue: 0,0:03:16.05,0:03:17.35,Default,,0,0,0,,I didn't know you were there.
+Dialogue: 0,0:03:17.49,0:03:19.05,Default,,0,0,0,,Good morning to you.
+Dialogue: 0,0:03:19.35,0:03:20.92,Default,,0,0,0,,Yes, good morning.
+Dialogue: 0,0:03:21.54,0:03:24.80,Default,,0,0,0,,My, Terracotta-san is a frightening woman, isn't she?
+Dialogue: 0,0:03:24.80,0:03:26.89,Default,,0,0,0,,WHAT HAVE YOU BEEN DOING!?
+Dialogue: 0,0:03:28.95,0:03:31.90,Default,,0,0,0,,Isn't this a little tight, Terracotta-san?
+Dialogue: 0,0:03:32.23,0:03:36.30,Default,,0,0,0,,Clothing like this befits a princess of your stature!
+Dialogue: 0,0:03:37.41,0:03:39.77,Default,,0,0,0,,The Square is already packed!
+Dialogue: 0,0:03:39.77,0:03:40.53,Default,,0,0,0,,Really?
+Dialogue: 0,0:03:41.15,0:03:44.21,Default,,0,0,0,,We informed them that your speech would commence at 10 o'clock.
+Dialogue: 0,0:03:44.21,0:03:46.22,Default,,0,0,0,,But they were so eager to hear it, they came early.
+Dialogue: 0,0:03:46.22,0:03:49.12,Default,,0,0,0,,Well, I can understand how they must feel.
+Dialogue: 0,0:03:49.12,0:03:52.08,Default,,0,0,0,,They've been waiting for your Coming of Age Ceremony for two years now.
+Dialogue: 0,0:03:52.08,0:03:57.03,Default,,0,0,0,,It was supposed to be held once you turned fourteen.
+Dialogue: 0,0:03:57.42,0:04:00.18,Default,,0,0,0,,But I haven't really... done anything.
+Dialogue: 0,0:04:00.18,0:04:02.70,Default,,0,0,0,,You don't have to say things like that.
+Dialogue: 0,0:04:02.70,0:04:06.89,Default,,0,0,0,,Just show them how much you've grown. That will be enough.
+Dialogue: 0,0:04:06.89,0:04:11.38,Default,,0,0,0,,The Coming of Age Ceremony is to celebrate your transition into adulthood.
+Dialogue: 0,0:04:11.38,0:04:13.85,Default,,0,0,0,,And given the events that have happened,
+Dialogue: 0,0:04:13.85,0:04:16.29,Default,,0,0,0,,Imagine how the King will feel.
+Dialogue: 0,0:04:17.28,0:04:18.33,Default,,0,0,0,,Ah, that reminds me...
+Dialogue: 0,0:04:18.33,0:04:22.39,Default,,0,0,0,,Vivi-sama's speech will be broadcast through Den Den Mushi and loudspeakers.
+Dialogue: 0,0:04:22.39,0:04:25.35,Default,,0,0,0,,All of Arabasra will be able to listen.
+Dialogue: 0,0:04:25.35,0:04:27.04,Default,,0,0,0,,I'm certainly looking forward to it!
+Dialogue: 0,0:04:29.02,0:04:31.00,Default,,0,0,0,,I've received word that a battle has begun in the harbor.
+Dialogue: 0,0:04:31.00,0:04:31.96,Default,,0,0,0,,I see...
+Dialogue: 0,0:04:31.96,0:04:36.12,Default,,0,0,0,,Unfortunately, there is no longer anything we can do to aid them.
+Dialogue: 0,0:04:37.95,0:04:38.83,Default,,0,0,0,,FIRE!
+Dialogue: 0,0:04:38.83,0:04:40.38,Default,,0,0,0,,FIRE, FIRE!
+Dialogue: 0,0:04:43.85,0:04:46.01,Default,,0,0,0,,DAMMIT! SHOOT YOUR CANNONBALLS AT US!
+Dialogue: 0,0:04:46.28,0:04:47.87,Default,,0,0,0,,I CAN BOUNCE 'EM BACK!
+Dialogue: 0,0:04:48.06,0:04:51.24,Default,,0,0,0,,Goodness! Stop joooking around~!
+Dialogue: 0,0:04:51.24,0:04:53.57,Default,,0,0,0,,If they keep hitting the ship with these iron spears,
+Dialogue: 0,0:04:53.57,0:04:55.49,Default,,0,0,0,,It's only a matter of time before we sink!
+Dialogue: 0,0:04:57.40,0:04:58.47,Default,,0,0,0,,Here they come!
+Dialogue: 0,0:05:03.11,0:05:05.60,Default,,0,0,0,,Oi! There's no way I can patch all these holes!
+Dialogue: 0,0:05:05.60,0:05:07.74,Default,,0,0,0,,Hurry up and DO something you guys!
+Dialogue: 0,0:05:07.74,0:05:10.58,Default,,0,0,0,,We can only protect one side at a time!
+Dialogue: 0,0:05:12.85,0:05:15.34,Default,,0,0,0,,Going up against eight ships is too much!
+Dialogue: 0,0:05:15.84,0:05:19.04,Default,,0,0,0,,Even when we're stronger in hand-to-hand combat...
+Dialogue: 0,0:05:19.87,0:05:24.63,Default,,0,0,0,,Even if we rush them or retreat, they won't break their formation!
+Dialogue: 0,0:05:29.96,0:05:32.79,Default,,0,0,0,,The Black Cage Corps: Black Spear Squadron!
+Dialogue: 0,0:05:34.39,0:05:36.89,Default,,0,0,0,,You pipsqueaks won't beat us! Dorks!
+Dialogue: 0,0:05:38.12,0:05:39.87,Default,,0,0,0,,Oi, Hypnotist!
+Dialogue: 0,0:05:39.87,0:05:41.25,Default,,0,0,0,,I thought you were a pirate!
+Dialogue: 0,0:05:41.25,0:05:42.20,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:05:42.46,0:05:45.13,Default,,0,0,0,,I have my own reasons for this!
+Dialogue: 0,0:05:45.13,0:05:47.10,Default,,0,0,0,,I thinks I recognize that guy on the left...
+Dialogue: 0,0:05:47.10,0:05:49.57,Default,,0,0,0,,It may as well have been 100 years since we last met!
+Dialogue: 0,0:05:49.57,0:05:52.90,Default,,0,0,0,,That impudent, harrowing cook and his buddies...
+Dialogue: 0,0:05:52.90,0:05:54.69,Default,,0,0,0,,This is the day you sink to your doom!
+Dialogue: 0,0:05:54.69,0:05:56.89,Default,,0,0,0,,I've powered up, you see...
+Dialogue: 0,0:05:57.59,0:05:58.10,Default,,0,0,0,,Now...
+Dialogue: 0,0:05:58.70,0:06:01.42,Default,,0,0,0,,Look closely at this ring.
+Dialogue: 0,0:06:01.42,0:06:05.48,Default,,0,0,0,,This is the day I prove to you that I ain't weird.
+Dialogue: 0,0:06:06.73,0:06:07.52,Default,,0,0,0,,Oh my!
+Dialogue: 0,0:06:07.95,0:06:09.82,Default,,0,0,0,,ONE TWO
+Dialogue: 0,0:06:11.40,0:06:12.75,Default,,0,0,0,,JAN...
+Dialogue: 0,0:06:15.83,0:06:16.77,Default,,0,0,0,,BROTHER!
+Dialogue: 0,0:06:21.87,0:06:23.24,Default,,0,0,0,,Usopp! That was you!?
+Dialogue: 0,0:06:23.24,0:06:24.78,Default,,0,0,0,,Awesome!
+Dialogue: 0,0:06:25.66,0:06:28.26,Default,,0,0,0,,Y-YOSH! JUST AS I CALCULATED!
+Dialogue: 0,0:06:28.26,0:06:30.79,Default,,0,0,0,,That's what I can do when you rely on me!
+Dialogue: 0,0:06:30.79,0:06:33.48,Default,,0,0,0,,Nose-chan, amazing! Good going! 
+Dialogue: 0,0:06:33.48,0:06:34.87,Default,,0,0,0,,Now the two ships to the south are gone!
+Dialogue: 0,0:06:34.87,0:06:37.34,Default,,0,0,0,,Full speed in that direction~!
+Dialogue: 0,0:06:38.63,0:06:40.43,Default,,0,0,0,,BON CLAY-SAMA, A PROBLEM!
+Dialogue: 0,0:06:40.43,0:06:41.64,Default,,0,0,0,,WHAT IS IT!?
+Dialogue: 0,0:06:41.64,0:06:43.22,Default,,0,0,0,,IT'S THE BLACK CAGE!
+Dialogue: 0,0:06:44.65,0:06:45.52,Default,,0,0,0,,What's that?
+Dialogue: 0,0:06:45.75,0:06:49.97,Default,,0,0,0,,Black Cage Hina! The Marine Headquarters Captain who patrols this area of the sea!
+Dialogue: 0,0:06:49.97,0:06:51.66,Default,,0,0,0,,This is not good at all!
+Dialogue: 0,0:06:51.66,0:06:53.49,Default,,0,0,0,,Let's get outta here super-quick!
+Dialogue: 0,0:06:53.49,0:06:55.48,Default,,0,0,0,,Aye, Bon Clay-sama!
+Dialogue: 0,0:06:56.99,0:06:58.81,Default,,0,0,0,,Looks like they've been weakened.
+Dialogue: 0,0:06:58.81,0:07:02.05,Default,,0,0,0,,There is no ship that the Black Spear Squadron cannot bring down!
+Dialogue: 0,0:07:02.05,0:07:03.69,Default,,0,0,0,,Don't get conceited.
+Dialogue: 0,0:07:03.69,0:07:06.92,Default,,0,0,0,,Underestimating people will get you bitten in the end.
+Dialogue: 0,0:07:07.65,0:07:10.42,Default,,0,0,0,,Once we get alongside their ship, you boys step back.
+Dialogue: 0,0:07:10.42,0:07:11.68,Default,,0,0,0,,You'll only be in my way.
+Dialogue: 0,0:07:11.68,0:07:12.89,Default,,0,0,0,,Hina annoyance.
+Dialogue: 0,0:07:12.89,0:07:13.60,Default,,0,0,0,,Aye!
+Dialogue: 0,0:07:13.89,0:07:16.24,Default,,0,0,0,,What the hell are you guys doing!?
+Dialogue: 0,0:07:16.24,0:07:17.70,Default,,0,0,0,,Let's ruuun away!
+Dialogue: 0,0:07:17.70,0:07:21.01,Default,,0,0,0,,If we exit to the south, we can escape with minimum damage!
+Dialogue: 0,0:07:21.01,0:07:23.76,Default,,0,0,0,,If we stay like this, we'll be done in for sure!
+Dialogue: 0,0:07:26.56,0:07:28.01,Default,,0,0,0,,If you want to go, then go.
+Dialogue: 0,0:07:28.01,0:07:29.14,Default,,0,0,0,,We can't.
+Dialogue: 0,0:07:29.27,0:07:31.31,Default,,0,0,0,,What do you mean you can't!?
+Dialogue: 0,0:07:31.31,0:07:33.76,Default,,0,0,0,,BON CLAY-SAMA, PLEASE HURRY!
+Dialogue: 0,0:07:33.76,0:07:35.44,Default,,0,0,0,,LET'S JUST ESCAPE ON OUR OWN!
+Dialogue: 0,0:07:35.44,0:07:39.05,Default,,0,0,0,,We made a promise to be at the eastern harbor at noon.
+Dialogue: 0,0:07:39.05,0:07:40.90,Default,,0,0,0,,There's no time to sail back.
+Dialogue: 0,0:07:40.90,0:07:42.12,Default,,0,0,0,,We have to press forward.
+Dialogue: 0,0:07:42.36,0:07:45.21,Default,,0,0,0,,Really, that's the silly-silliest thing I've ever heard!
+Dialogue: 0,0:07:45.21,0:07:48.75,Default,,0,0,0,,What kind of treasure could possibly be there that's worth your lives!?
+Dialogue: 0,0:07:48.75,0:07:50.11,Default,,0,0,0,,Go ahead and die then!
+Dialogue: 0,0:07:50.11,0:07:51.98,Default,,0,0,0,,We're going to see a nakama.
+Dialogue: 0,0:08:01.97,0:08:04.59,Default,,0,0,0,,F-For a... friend?
+Dialogue: 0,0:08:14.63,0:08:16.02,Default,,0,0,0,,I'm coming in, Vivi.
+Dialogue: 0,0:08:16.02,0:08:17.36,Default,,0,0,0,,Okay. Come in.
+Dialogue: 0,0:08:18.50,0:08:20.66,Default,,0,0,0,,Vivi, about the speech-
+Dialogue: 0,0:08:21.51,0:08:25.82,Default,,0,0,0,,My! What a pleasant surprise!
+Dialogue: 0,0:08:26.24,0:08:30.13,Default,,0,0,0,,I nearly mistook you for the former queen, Vivi-sama.
+Dialogue: 0,0:08:30.35,0:08:32.14,Default,,0,0,0,,Oh my goodness...
+Dialogue: 0,0:08:32.44,0:08:33.83,Default,,0,0,0,,Sit down, Papa.
+Dialogue: 0,0:08:35.61,0:08:36.52,Default,,0,0,0,,No...
+Dialogue: 0,0:08:36.72,0:08:38.69,Default,,0,0,0,,Father, Igaram.
+Dialogue: 0,0:08:42.64,0:08:44.53,Default,,0,0,0,,I have something very important to tell you.
+Dialogue: 0,0:08:44.93,0:08:47.73,Default,,0,0,0,,BON CLAY-SAMA!!
+Dialogue: 0,0:08:49.56,0:08:52.88,Default,,0,0,0,,Running away now would defy the way of Bon Clay!
+Dialogue: 0,0:08:52.97,0:08:55.45,Default,,0,0,0,,Friends who risk their lives to see another friend...
+Dialogue: 0,0:08:55.45,0:08:57.93,Default,,0,0,0,,Knowing that you have abandoned them...
+Dialogue: 0,0:08:58.07,0:09:00.06,Default,,0,0,0,,WILL YOU ENJOY YOUR BREAKFAST TOMORROW MORNING!?
+Dialogue: 0,0:09:03.54,0:09:05.11,Default,,0,0,0,,Listen up, boys.
+Dialogue: 0,0:09:05.11,0:09:06.94,Default,,0,0,0,,And the Straw-chan team as well!
+Dialogue: 0,0:09:08.70,0:09:11.51,Default,,0,0,0,,Pay heed to my words!
+Dialogue: 0,0:09:19.50,0:09:22.20,Default,,0,0,0,,Hina-jou! The two ships have separated!
+Dialogue: 0,0:09:22.20,0:09:23.82,Default,,0,0,0,,The duck ship is heading south!
+Dialogue: 0,0:09:23.82,0:09:25.82,Default,,0,0,0,,The duck is the decoy, right?
+Dialogue: 0,0:09:26.10,0:09:31.40,Default,,0,0,0,,No! In fact, the entire Straw Hat Crew is aboard the duck ship!
+Dialogue: 0,0:09:31.40,0:09:33.60,Default,,0,0,0,,The sheep ship is the decoy!
+Dialogue: 0,0:09:36.87,0:09:39.45,Default,,0,0,0,,Follow them! Resume battle formation at once!
+Dialogue: 0,0:09:53.79,0:09:54.82,Default,,0,0,0,,Three minutes.
+Dialogue: 0,0:09:59.93,0:10:01.04,Default,,0,0,0,,Prepare the bombardment!
+Dialogue: 0,0:10:01.04,0:10:01.83,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:10:01.83,0:10:03.02,Default,,0,0,0,,FULL SPEED AHEAD!
+Dialogue: 0,0:10:04.97,0:10:09.30,Default,,0,0,0,,Could the Straw Hat Luffy you're looking for possibly be me~?
+Dialogue: 0,0:10:10.63,0:10:11.79,Default,,0,0,0,,Not a chance!
+Dialogue: 0,0:10:11.79,0:10:14.80,Default,,0,0,0,,Hina-jou! The sheep ship is escaping to the east!
+Dialogue: 0,0:10:14.80,0:10:15.51,Default,,0,0,0,,What!?
+Dialogue: 0,0:10:20.39,0:10:21.96,Default,,0,0,0,,You fell for it~!
+Dialogue: 0,0:10:21.96,0:10:25.11,Default,,0,0,0,,My boys and I are masters of disguise~!
+Dialogue: 0,0:10:25.11,0:10:26.37,Default,,0,0,0,,As well as...
+Dialogue: 0,0:10:29.03,0:10:31.55,Default,,0,0,0,,...Straw-chan's friends!
+Dialogue: 0,0:10:36.73,0:10:38.85,Default,,0,0,0,,One may stray from the path of a man,
+Dialogue: 0,0:10:38.85,0:10:40.94,Default,,0,0,0,,One may stray from the path of a woman,
+Dialogue: 0,0:10:40.94,0:10:45.25,Default,,0,0,0,,But there is no straying from the path of a HUMAN!
+Dialogue: 0,0:10:47.30,0:10:52.38,Default,,0,0,0,,}{\1c&HFF80FF&}All friends must scatter into the sky of truth, and blossom!
+Dialogue: 0,0:10:52.38,0:10:55.42,Default,,0,0,0,,OKAMA WAY!
+Dialogue: 0,0:11:04.08,0:11:06.37,Default,,0,0,0,,- by Bon Clay
+Dialogue: 0,0:11:14.03,0:11:16.67,Default,,0,0,0,,BRING IT ON!
+Dialogue: 0,0:11:18.80,0:11:20.56,Default,,0,0,0,,Hina humiliated.
+Dialogue: 0,0:11:48.99,0:11:49.92,Default,,0,0,0,,Bon-chan!
+Dialogue: 0,0:11:52.73,0:11:54.98,Default,,0,0,0,,Bon-chan, we will...
+Dialogue: 0,0:12:02.09,0:12:07.17,Default,,0,0,0,,...NEVER, EVER FORGET YOU GUYS!
+Dialogue: 0,0:12:17.23,0:12:21.68,Default,,0,0,0,,Scatter upon the water's surface, and grow where you may,
+Dialogue: 0,0:12:21.68,0:12:23.56,Default,,0,0,0,,My fellow blossoms.
+Dialogue: 0,0:12:40.16,0:12:41.96,Default,,0,0,0,,And you don't know who the puppet master is!?
+Dialogue: 0,0:12:41.96,0:12:45.28,Default,,0,0,0,,No. It is said to be a secret underground organization.
+Dialogue: 0,0:12:45.28,0:12:48.56,Default,,0,0,0,,Not even the company employees know anything about their Boss's identity.
+Dialogue: 0,0:12:48.56,0:12:51.06,Default,,0,0,0,,And they are the enemies of this country.
+Dialogue: 0,0:12:51.40,0:12:54.48,Default,,0,0,0,,If even the members know nothing, obtaining information from the outside would be impossible.
+Dialogue: 0,0:12:54.48,0:12:57.68,Default,,0,0,0,,Rather, an outside investigation would only endanger the country further.
+Dialogue: 0,0:12:57.68,0:13:00.21,Default,,0,0,0,,But, we've caught their tail.
+Dialogue: 0,0:13:00.21,0:13:01.31,Default,,0,0,0,,Yes...
+Dialogue: 0,0:13:01.31,0:13:01.91,Default,,0,0,0,,Eh...
+Dialogue: 0,0:13:02.01,0:13:03.09,Default,,0,0,0,,Eh!?
+Dialogue: 0,0:13:03.39,0:13:05.93,Default,,0,0,0,,Igaram, are you thinking what I'm thinking?
+Dialogue: 0,0:13:06.27,0:13:07.61,Default,,0,0,0,,N-No! Not at all!
+Dialogue: 0,0:13:07.61,0:13:10.51,Default,,0,0,0,,E-Excuse me, I have to get back to work!
+Dialogue: 0,0:13:10.51,0:13:11.07,Default,,0,0,0,,Igaram!
+Dialogue: 0,0:13:11.07,0:13:13.35,Default,,0,0,0,,You must not! This is not a game!
+Dialogue: 0,0:13:13.35,0:13:15.58,Default,,0,0,0,,That won't fix it, Igaram!
+Dialogue: 0,0:13:17.28,0:13:19.56,Default,,0,0,0,,I can't let this happen!
+Dialogue: 0,0:13:34.30,0:13:36.83,Default,,0,0,0,,Ah, here they come again!
+Dialogue: 0,0:13:36.83,0:13:39.34,Default,,0,0,0,,GET OUT OF OUR WAY!
+Dialogue: 0,0:13:41.21,0:13:42.86,Default,,0,0,0,,Look! It's Vivi-sama!
+Dialogue: 0,0:13:42.86,0:13:44.32,Default,,0,0,0,,Oh, Vivi-sama!
+Dialogue: 0,0:13:44.32,0:13:45.65,Default,,0,0,0,,Princess Vivi!
+Dialogue: 0,0:13:45.65,0:13:46.85,Default,,0,0,0,,I can see her!
+Dialogue: 0,0:13:47.69,0:13:50.05,Default,,0,0,0,,Vivi-sama!
+Dialogue: 0,0:13:50.05,0:13:51.74,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:13:51.74,0:13:53.69,Default,,0,0,0,,Oh, how she's grown!
+Dialogue: 0,0:13:53.69,0:13:54.60,Default,,0,0,0,,Vivi-sama!
+Dialogue: 0,0:13:54.60,0:13:56.62,Default,,0,0,0,,Princess Vivi!
+Dialogue: 0,0:13:56.92,0:13:58.46,Default,,0,0,0,,Vivi-sama!
+Dialogue: 0,0:14:02.27,0:14:03.69,Default,,0,0,0,,In that case, Vivi-sama...
+Dialogue: 0,0:14:03.69,0:14:07.04,Default,,0,0,0,,Allow me to ask you one question.
+Dialogue: 0,0:14:07.49,0:14:10.13,Default,,0,0,0,,It all began that day.
+Dialogue: 0,0:14:10.36,0:14:13.12,Default,,0,0,0,,Have you made a resolution not to die?
+Dialogue: 0,0:14:15.59,0:14:19.34,Default,,0,0,0,,I've had a little adventure.
+Dialogue: 0,0:14:19.66,0:14:22.03,Default,,0,0,0,,Oi! The Princess's speech is starting!
+Dialogue: 0,0:14:22.03,0:14:22.95,Default,,0,0,0,,I've been waiting.
+Dialogue: 0,0:14:22.95,0:14:25.88,Default,,0,0,0,,She really is alive and well! Thank goodness!
+Dialogue: 0,0:14:26.58,0:14:28.89,Default,,0,0,0,,The ceremony in Alubarna has started!
+Dialogue: 0,0:14:28.89,0:14:31.88,Default,,0,0,0,,It's two hours late. I wonder what happened.
+Dialogue: 0,0:14:33.95,0:14:35.45,Default,,0,0,0,,Well now,
+Dialogue: 0,0:14:35.45,0:14:38.08,Default,,0,0,0,,I hope this doesn't turn into a riot.
+Dialogue: 0,0:14:38.08,0:14:41.15,Default,,0,0,0,,Kohza! Hey, Kohza! Come outside!
+Dialogue: 0,0:14:41.15,0:14:42.78,Default,,0,0,0,,Vivi-chan's speech is starting!
+Dialogue: 0,0:14:42.78,0:14:45.34,Default,,0,0,0,,Those loudspeakers are at maximum volume already.
+Dialogue: 0,0:14:45.34,0:14:47.43,Default,,0,0,0,,You can hear it from anywhere in town.
+Dialogue: 0,0:14:50.25,0:14:55.85,Default,,0,0,0,,It began... as a journey across a dark sea, in search of despair.
+Dialogue: 0,0:14:55.85,0:14:58.97,Default,,0,0,0,,Away from this country, the ocean was vast.
+Dialogue: 0,0:14:58.97,0:15:02.78,Default,,0,0,0,,And the islands in it had power that was difficult to comprehend.
+Dialogue: 0,0:15:02.78,0:15:04.78,Default,,0,0,0,,There were animals I'd never seen before.
+Dialogue: 0,0:15:04.78,0:15:06.99,Default,,0,0,0,,And scenery I could never even dream of.
+Dialogue: 0,0:15:06.99,0:15:11.32,Default,,0,0,0,,The music played by the waves... was sometimes peaceful.
+Dialogue: 0,0:15:11.32,0:15:16.03,Default,,0,0,0,,Flowing calmly, enveloping all my smaller troubles.
+Dialogue: 0,0:15:16.03,0:15:17.77,Default,,0,0,0,,And at other timers it was violent.
+Dialogue: 0,0:15:17.77,0:15:22.41,Default,,0,0,0,,Laughing loudly, ripping delicate feelings asunder.
+Dialogue: 0,0:15:25.14,0:15:27.38,Default,,0,0,0,,Amidst a dark, dark storm,
+Dialogue: 0,0:15:27.38,0:15:30.41,Default,,0,0,0,,I suddenly came across a little ship.
+Dialogue: 0,0:15:30.41,0:15:33.18,Default,,0,0,0,,The ship pushed my back, saying:
+Dialogue: 0,0:15:33.70,0:15:37.15,Default,,0,0,0,,"Don't you see that light?"
+Dialogue: 0,0:15:38.55,0:15:43.37,Default,,0,0,0,,Never losing its way in the darkness, that mysterious little ship...
+Dialogue: 0,0:15:43.37,0:15:47.41,Default,,0,0,0,,...rode the mighty waves as if dancing upon them.
+Dialogue: 0,0:15:47.74,0:15:49.64,Default,,0,0,0,,It never opposed the sea,
+Dialogue: 0,0:15:49.64,0:15:54.85,Default,,0,0,0,,Yet the continued to point forward, even when the winds blew against it.
+Dialogue: 0,0:15:56.01,0:15:57.90,Default,,0,0,0,,And then it pointed a finger.
+Dialogue: 0,0:15:58.14,0:16:01.11,Default,,0,0,0,,"Look! There's the light!"
+Dialogue: 0,0:16:02.19,0:16:06.25,Default,,0,0,0,,History will likely record this as an illusion.
+Dialogue: 0,0:16:06.25,0:16:10.12,Default,,0,0,0,,But to me, it is the truth.
+Dialogue: 0,0:16:10.45,0:16:12.40,Default,,0,0,0,,What's she talking about?
+Dialogue: 0,0:16:12.40,0:16:15.77,Default,,0,0,0,,A secret battle with the Marines!
+Dialogue: 0,0:16:15.77,0:16:16.91,Default,,0,0,0,,And then...
+Dialogue: 0,0:16:20.73,0:16:21.93,Default,,0,0,0,,Vivi...
+Dialogue: 0,0:16:22.49,0:16:24.56,Default,,0,0,0,,You heard that speech, right?
+Dialogue: 0,0:16:24.56,0:16:26.92,Default,,0,0,0,,That was Vivi's voice.
+Dialogue: 0,0:16:26.92,0:16:30.43,Default,,0,0,0,,It's the broadcast of that ceremony in Alubarna.
+Dialogue: 0,0:16:30.43,0:16:33.07,Default,,0,0,0,,So it's settled. She ain't coming.
+Dialogue: 0,0:16:33.07,0:16:36.06,Default,,0,0,0,,No! That only sounded like Vivi's voice!
+Dialogue: 0,0:16:36.72,0:16:38.79,Default,,0,0,0,,She's definitely going to be at the place we promised, right?
+Dialogue: 0,0:16:38.79,0:16:40.56,Default,,0,0,0,,Yeah. She is.
+Dialogue: 0,0:16:41.16,0:16:43.26,Default,,0,0,0,,Let's go. It's past noon.
+Dialogue: 0,0:16:43.26,0:16:44.67,Default,,0,0,0,,She has to be here!
+Dialogue: 0,0:16:44.67,0:16:47.14,Default,,0,0,0,,Let's get off the ship and look! I know she's there!
+Dialogue: 0,0:16:47.14,0:16:48.38,Default,,0,0,0,,Oi, we got problem!
+Dialogue: 0,0:16:48.38,0:16:50.21,Default,,0,0,0,,The Marines are coming at us again!
+Dialogue: 0,0:16:50.21,0:16:52.40,Default,,0,0,0,,Just how many damned ship do they have!?
+Dialogue: 0,0:16:52.40,0:16:54.14,Default,,0,0,0,,Shit! We're moving on!
+Dialogue: 0,0:16:54.14,0:16:56.07,Default,,0,0,0,,Turning to starboard!
+Dialogue: 0,0:16:56.43,0:16:58.01,Default,,0,0,0,,Give it up, Luffy.
+Dialogue: 0,0:16:58.01,0:17:00.84,Default,,0,0,0,,She's from a different world.
+Dialogue: 0,0:17:05.00,0:17:07.28,Default,,0,0,0,,What does this mean?
+Dialogue: 0,0:17:07.79,0:17:09.88,Default,,0,0,0,,WHAT THE HELL'S GOING ON!?
+Dialogue: 0,0:17:11.03,0:17:13.88,Default,,0,0,0,,Oi, show us your face, you phony princess!
+Dialogue: 0,0:17:13.88,0:17:16.08,Default,,0,0,0,,No! Captain Igaram!
+Dialogue: 0,0:17:16.08,0:17:18.18,Default,,0,0,0,,Where's the real Vivi-sama!?
+Dialogue: 0,0:17:18.18,0:17:21.56,Default,,0,0,0,,Where's the Princess giving her speech from!?
+Dialogue: 0,0:17:22.75,0:17:24.40,Default,,0,0,0,,Vivi-sama is actually...
+Dialogue: 0,0:17:28.95,0:17:30.37,Default,,0,0,0,,Good shot.
+Dialogue: 0,0:17:31.38,0:17:33.43,Default,,0,0,0,,EVERYONE!!
+Dialogue: 0,0:17:45.29,0:17:46.68,Default,,0,0,0,,VIVI!
+Dialogue: 0,0:17:46.68,0:17:47.81,Default,,0,0,0,,CARUE!
+Dialogue: 0,0:17:50.40,0:17:51.20,Default,,0,0,0,,Vivi!
+Dialogue: 0,0:17:51.20,0:17:52.55,Default,,0,0,0,,See, she's here!
+Dialogue: 0,0:17:52.55,0:17:53.77,Default,,0,0,0,,VIVI-CHAN!
+Dialogue: 0,0:17:53.77,0:17:55.78,Default,,0,0,0,,Turn the ship around! Hurry!
+Dialogue: 0,0:17:55.78,0:17:58.02,Default,,0,0,0,,The Marines are almost here!
+Dialogue: 0,0:18:03.62,0:18:05.57,Default,,0,0,0,,I'm here to say good-bye!
+Dialogue: 0,0:18:08.18,0:18:09.08,Default,,0,0,0,,What'd she just...?
+Dialogue: 0,0:18:09.08,0:18:10.73,Default,,0,0,0,,Carue, give me the receicer.
+Dialogue: 0,0:18:13.23,0:18:16.76,Default,,0,0,0,,I... cannot go with you!
+Dialogue: 0,0:18:16.76,0:18:19.00,Default,,0,0,0,,Thank you for everything!
+Dialogue: 0,0:18:20.83,0:18:22.39,Default,,0,0,0,,Is she talking to someone?
+Dialogue: 0,0:18:22.39,0:18:25.04,Default,,0,0,0,,Impossible. Is that the Princess of this country?
+Dialogue: 0,0:18:25.82,0:18:28.34,Default,,0,0,0,,She should be at her ceremony in Alubarna.
+Dialogue: 0,0:18:28.34,0:18:30.79,Default,,0,0,0,,I want to have more adventures, but...
+Dialogue: 0,0:18:30.79,0:18:32.06,Default,,0,0,0,,I can't because...
+Dialogue: 0,0:18:32.06,0:18:35.26,Default,,0,0,0,,I love my country!
+Dialogue: 0,0:18:35.26,0:18:37.25,Default,,0,0,0,,Vivi-sama, where are you!?
+Dialogue: 0,0:18:37.25,0:18:39.35,Default,,0,0,0,,Get outta here, Captain Igaram!
+Dialogue: 0,0:18:39.35,0:18:41.28,Default,,0,0,0,,We didn't come here to see YOU!
+Dialogue: 0,0:18:43.85,0:18:45.85,Default,,0,0,0,,Way to go, Captain Igaram!
+Dialogue: 0,0:18:45.85,0:18:46.97,Default,,0,0,0,,Do some more!
+Dialogue: 0,0:18:46.97,0:18:49.25,Default,,0,0,0,,We came here to see Vivi-sama!
+Dialogue: 0,0:18:51.25,0:18:53.77,Default,,0,0,0,,That's why I cannot come with you!
+Dialogue: 0,0:18:55.59,0:18:56.33,Default,,0,0,0,,Oh!
+Dialogue: 0,0:18:56.90,0:18:58.21,Default,,0,0,0,,I...
+Dialogue: 0,0:19:00.15,0:19:01.72,Default,,0,0,0,,The symbol should be an ×!
+Dialogue: 0,0:19:01.72,0:19:02.84,Default,,0,0,0,,Why?
+Dialogue: 0,0:19:02.84,0:19:03.83,Default,,0,0,0,,'Cause we're pirates!
+Dialogue: 0,0:19:03.83,0:19:07.70,Default,,0,0,0,,But that means deaths to whoever sees it!
+Dialogue: 0,0:19:07.70,0:19:09.54,Default,,0,0,0,,It's good. It should be an ×!
+Dialogue: 0,0:19:09.54,0:19:11.24,Default,,0,0,0,,Right, Vivi? It's cool, huh?
+Dialogue: 0,0:19:11.24,0:19:13.09,Default,,0,0,0,,Yes! I like that!
+Dialogue: 0,0:19:13.09,0:19:14.88,Default,,0,0,0,,Whatever, just draw them!
+Dialogue: 0,0:19:14.88,0:19:16.65,Default,,0,0,0,,That's not the point!
+Dialogue: 0,0:19:20.54,0:19:21.63,Default,,0,0,0,,I...
+Dialogue: 0,0:19:26.69,0:19:27.83,Default,,0,0,0,,I...
+Dialogue: 0,0:19:28.33,0:19:29.99,Default,,0,0,0,,This is prefect!
+Dialogue: 0,0:19:30.61,0:19:33.84,Default,,0,0,0,,I WILL STAY HERE...
+Dialogue: 0,0:19:35.15,0:19:36.65,Default,,0,0,0,,This is proof that we're nakama!
+Dialogue: 0,0:19:38.49,0:19:41.22,Default,,0,0,0,,But if we ever meet again,
+Dialogue: 0,0:19:41.42,0:19:45.75,Default,,0,0,0,,Will you still call your nakama?
+Dialogue: 0,0:19:53.41,0:19:54.40,Default,,0,0,0,,You hear that!?
+Dialogue: 0,0:19:54.40,0:19:56.60,Default,,0,0,0,,Does the Princess have some sort of connection with the Straw Hat Pirates?
+Dialogue: 0,0:19:56.60,0:19:59.14,Default,,0,0,0,,A princess the nakama of pirates? Impossible!
+Dialogue: 0,0:19:59.14,0:19:59.97,Default,,0,0,0,,Anyti-!
+Dialogue: 0,0:19:59.97,0:20:00.80,Default,,0,0,0,,BAKA!
+Dialogue: 0,0:20:01.94,0:20:03.67,Default,,0,0,0,,DON'T ANSWER!
+Dialogue: 0,0:20:03.67,0:20:06.18,Default,,0,0,0,,The Marines have seen Vivi already.
+Dialogue: 0,0:20:06.90,0:20:09.99,Default,,0,0,0,,If they get any proof of Vivi's affiliation with us...
+Dialogue: 0,0:20:09.99,0:20:11.67,Default,,0,0,0,,She'll become a criminal.
+Dialogue: 0,0:20:12.92,0:20:14.87,Default,,0,0,0,,Let's just make this a silent farewell.
+Dialogue: 0,0:21:01.88,0:21:04.07,Default,,0,0,0,,From now on, whatever happens,
+Dialogue: 0,0:21:04.07,0:21:07.98,Default,,0,0,0,,This left arm is proof that we're nakama!
+Dialogue: 0,0:21:49.28,0:21:51.37,Default,,0,0,0,,SET SAIL!
+Dialogue: 0,0:21:40.27,0:21:45.68,Default,,0,0,0,,ARITTAKENO YUME WO KAKI ATSUME\N all our dreams,
+Dialogue: 0,0:21:45.68,0:21:51.50,Default,,0,0,0,,SAGASHI MONO WO SAGASHI NI YUKU NO SA\Nre looking for...
+Dialogue: 0,0:21:51.50,0:21:52.81,Default,,0,0,0,,ONE PIECE
+Dialogue: 0,0:22:06.20,0:22:12.33,Default,,0,0,0,,What course can I set that will lead me to a better tomorrow?
+Dialogue: 0,0:22:12.33,0:22:18.25,Default,,0,0,0,,Taking the helm, I spread out the map of miracles I had shut in my heart
+Dialogue: 0,0:22:18.25,0:22:24.51,Default,,0,0,0,,Aiming for the sky, searching for a dream, there were times when I lost my way
+Dialogue: 0,0:22:24.51,0:22:29.93,Default,,0,0,0,,But this isn't a dream, I found a wonderful part of myself when I met you
+Dialogue: 0,0:22:29.93,0:22:36.19,Default,,0,0,0,,With a small bit of courage, I gained something large
+Dialogue: 0,0:22:36.19,0:22:42.40,Default,,0,0,0,,So now is the time to change my dreams into vows.
+Dialogue: 0,0:22:42.40,0:22:45.38,Default,,0,0,0,,Shining Ray! Find your brand new way.
+Dialogue: 0,0:22:42.40,0:22:45.38,Default,,0,0,0,,Shining Ray! Find your brand new way.
+Dialogue: 0,0:22:45.38,0:22:49.12,Default,,0,0,0,,Let's paint a story of the future
+Dialogue: 0,0:22:49.12,0:22:54.37,Default,,0,0,0,,And put all of our thoughts into this new wind
+Dialogue: 0,0:22:54.37,0:22:57.42,Default,,0,0,0,,Shining Ray! Find your brand new way.
+Dialogue: 0,0:22:54.37,0:22:57.42,Default,,0,0,0,,Shining Ray! Find your brand new way.
+Dialogue: 0,0:22:57.42,0:23:00.38,Default,,0,0,0,,A never ending journey to be together.
+Dialogue: 0,0:22:57.42,0:23:00.38,Default,,0,0,0,,A never ending journey to be together.
+Dialogue: 0,0:23:00.38,0:23:05.59,Default,,0,0,0,,I'll chase it anywhere, this Shining Ray!
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.81,0:00:08.88,Default,,0,0,0,,The world...
+Dialogue: 0,0:00:09.90,0:00:10.72,Default,,0,0,0,,Yes!
+Dialogue: 0,0:00:11.47,0:00:12.74,Default,,0,0,0,,Seek freedom,
+Dialogue: 0,0:00:12.74,0:00:16.94,Default,,0,0,0,,And your world will stand stretched out before your eyes.
+Dialogue: 0,0:00:17.48,0:00:20.65,Default,,0,0,0,,If the endless dream guides your spirits,
+Dialogue: 0,0:00:21.55,0:00:22.60,Default,,0,0,0,,Conquer it!
+Dialogue: 0,0:00:23.33,0:00:25.80,Default,,0,0,0,,Bear conviction behind your flag!
+Dialogue: 0,0:00:30.66,0:00:36.20,Default,,0,0,0,,I began my search,With a blast of water,
+Dialogue: 0,0:00:36.25,0:00:39.46,Default,,0,0,0,,Toward a boundless,everlasting world
+Dialogue: 0,0:00:40.88,0:00:45.71,Default,,0,0,0,,With this overflowing passion in my chest, I'll go anywhere
+Dialogue: 0,0:00:45.71,0:00:54.14,Default,,0,0,0,,Seeking the light l've never seen
+Dialogue: 0,0:00:54.14,0:00:59.85,Default,,0,0,0,,When the summer-colored sun shakes the sall of my heart,
+Dialogue: 0,0:01:04.36,0:01:09.95,Default,,0,0,0,,It's a sign the door to a new world has opened
+Dialogue: 0,0:01:13.82,0:01:18.75,Default,,0,0,0,,Swaying between the waves, I can escape despair,
+Dialogue: 0,0:01:18.75,0:01:26.50,Default,,0,0,0,,For the horize on the other side is what I aim for!
+Dialogue: 0,0:01:26.50,0:01:32.00,Default,,0,0,0,,I began my search, With a blast of water,
+Dialogue: 0,0:01:32.00,0:01:36.68,Default,,0,0,0,,Toward a boundless, everlasting world
+Dialogue: 0,0:01:36.68,0:01:41.94,Default,,0,0,0,,With this overflowing passion in my chest, I'll go anywhere
+Dialogue: 0,0:01:41.94,0:01:48.19,Default,,0,0,0,,Seeking the light I've never seen
+Dialogue: 0,0:01:54.51,0:01:55.52,Default,,0,0,0,,I...
+Dialogue: 0,0:02:03.17,0:02:06.45,Default,,0,0,0,,I WILL STAY HERE...
+Dialogue: 0,0:02:10.56,0:02:13.21,Default,,0,0,0,,But if we ever meet again,
+Dialogue: 0,0:02:13.41,0:02:17.59,Default,,0,0,0,,Will you still call me your nakama?
+Dialogue: 0,0:02:32.57,0:02:41.29,Default,,0,0,0,,Beware her scent!\NThe seventh one is Nico Robin!
+Dialogue: 0,0:02:44.79,0:02:45.47,Default,,0,0,0,,Yes.
+Dialogue: 0,0:02:45.86,0:02:51.78,Default,,0,0,0,,I sank one of the ships. The one belonging to the Baroque Works Agent, Bon Clay.
+Dialogue: 0,0:02:51.78,0:02:53.18,Default,,0,0,0,,But the other one...
+Dialogue: 0,0:02:53.28,0:02:54.87,Default,,0,0,0,,Come on, keep it moving.
+Dialogue: 0,0:02:55.25,0:02:56.81,Default,,0,0,0,,So they got away?
+Dialogue: 0,0:02:58.01,0:03:00.26,Default,,0,0,0,,I was swindled by a cheap trick.
+Dialogue: 0,0:03:00.90,0:03:03.14,Default,,0,0,0,,They're pretty good at running away, huh?
+Dialogue: 0,0:03:06.13,0:03:07.23,Default,,0,0,0,,Hina-jou, watch out!
+Dialogue: 0,0:03:08.39,0:03:09.91,Default,,0,0,0,,Honestly. Pisses me off.
+Dialogue: 0,0:03:09.91,0:03:11.20,Default,,0,0,0,,Hina pissed.
+Dialogue: 0,0:03:11.20,0:03:12.98,Default,,0,0,0,,What, your ineptitude?
+Dialogue: 0,0:03:16.19,0:03:17.78,Default,,0,0,0,,No. Not at all.
+Dialogue: 0,0:03:20.86,0:03:22.90,Default,,0,0,0,,Ah! So hot!
+Dialogue: 0,0:03:22.90,0:03:24.95,Default,,0,0,0,,The sheer power of the Ori Ori Fruit!
+Dialogue: 0,0:03:22.90,0:03:24.95,Default,,0,0,0,,Ori - Cage
+Dialogue: 0,0:03:24.95,0:03:28.90,Default,,0,0,0,,"Everthing that comes near me gets LOCKED UP!"
+Dialogue: 0,0:03:28.90,0:03:29.89,Default,,0,0,0,,Say it!
+Dialogue: 0,0:03:29.89,0:03:31.66,Default,,0,0,0,,The catchphrase! Say it!
+Dialogue: 0,0:03:35.11,0:03:37.45,Default,,0,0,0,,What the hell is this!? Iron shackles!?
+Dialogue: 0,0:03:37.55,0:03:40.96,Default,,0,0,0,,You piss me off, Smoker-kun.
+Dialogue: 0,0:03:43.78,0:03:46.19,Default,,0,0,0,,I'm aware of a lot of things I do that piss you off.
+Dialogue: 0,0:03:46.83,0:03:47.83,Default,,0,0,0,,But...
+Dialogue: 0,0:03:47.83,0:03:50.47,Default,,0,0,0,,When I told you the Straw Hat Pirates escaped,
+Dialogue: 0,0:03:50.47,0:03:52.93,Default,,0,0,0,,You almost sounded happy.
+Dialogue: 0,0:03:52.93,0:03:56.09,Default,,0,0,0,,Ah. I did?
+Dialogue: 0,0:03:56.09,0:03:57.41,Default,,0,0,0,,Why do you say that?
+Dialogue: 0,0:03:57.41,0:03:58.81,Default,,0,0,0,,No idea.
+Dialogue: 0,0:03:59.90,0:04:04.15,Default,,0,0,0,,And then, she said to me, in a ceremonial manner:
+Dialogue: 0,0:04:04.15,0:04:08.37,Default,,0,0,0,,"I have something very important to tell you, Papa. No, Father."
+Dialogue: 0,0:04:08.37,0:04:13.44,Default,,0,0,0,,And I thought, as the King of this country...
+Dialogue: 0,0:04:14.14,0:04:16.67,Default,,0,0,0,,"It's hard to stop being called Papa."
+Dialogue: 0,0:04:16.67,0:04:19.04,Default,,0,0,0,,What!? What's he talking about!?
+Dialogue: 0,0:04:32.58,0:04:35.86,Default,,0,0,0,,I cannot accept your death.
+Dialogue: 0,0:04:37.88,0:04:39.40,Default,,0,0,0,,I cannot even shed tears.
+Dialogue: 0,0:04:42.01,0:04:44.49,Default,,0,0,0,,Why is this, Pell?
+Dialogue: 0,0:04:55.47,0:04:57.03,Default,,0,0,0,,FIRE! FIRE!
+Dialogue: 0,0:05:08.39,0:05:10.01,Default,,0,0,0,,What is it, Toto-san?
+Dialogue: 0,0:05:10.01,0:05:12.36,Default,,0,0,0,,You've been laughing ever since the speech ended!
+Dialogue: 0,0:05:12.36,0:05:16.47,Default,,0,0,0,,Jeez, did those sandstorms screw your brain up that bad, old man?
+Dialogue: 0,0:05:17.26,0:05:18.20,Default,,0,0,0,,It's a secret!
+Dialogue: 0,0:05:18.20,0:05:20.15,Default,,0,0,0,,I'm not telling you!
+Dialogue: 0,0:05:20.29,0:05:23.25,Default,,0,0,0,,Huh? What's that supposed to mean?
+Dialogue: 0,0:05:25.81,0:05:28.17,Default,,0,0,0,,Look after yourself, Luffy-kun!
+Dialogue: 0,0:05:28.17,0:05:31.90,Default,,0,0,0,,Come visit Yuba and drink our water again someday!
+Dialogue: 0,0:05:36.20,0:05:38.95,Default,,0,0,0,,Now, what are you guys doing?
+Dialogue: 0,0:05:38.95,0:05:40.55,Default,,0,0,0,,Go dig the well!
+Dialogue: 0,0:05:40.55,0:05:42.11,Default,,0,0,0,,I got it!
+Dialogue: 0,0:05:51.37,0:05:59.10,Default,,0,0,0,,Chiisana koro ni wa takara no chizn ga\N treasure map...
+Dialogue: 0,0:05:59.10,0:06:05.76,Default,,0,0,0,,atama no naka ni ukande ite\Nmy head...
+Dialogue: 0,0:06:05.76,0:06:13.13,Default,,0,0,0,,itsudemo sagashita kiseti no basho o\Nes I'd always sought...
+Dialogue: 0,0:06:13.13,0:06:19.89,Default,,0,0,0,,shiranai dareka ni makenai you ni\Nfrom me by someone I'd never seen.
+Dialogue: 0,0:06:23.05,0:06:25.63,Default,,0,0,0,,Ima de wa\N6&}And now...
+Dialogue: 0,0:06:27.87,0:06:33.75,Default,,0,0,0,,hokori darake no mainichi\Nre covered with dust.
+Dialogue: 0,0:06:33.75,0:06:36.10,Default,,0,0,0,,itsu no hi ka\Nut some day...
+Dialogue: 0,0:06:37.30,0:06:39.24,Default,,0,0,0,,subete no...\N...I'll leave everything...
+Dialogue: 0,0:06:42.11,0:06:48.73,Default,,0,0,0,,tokini mi o makaseru dake\Nt myself to the flow of time.
+Dialogue: 0,0:06:48.73,0:06:56.14,Default,,0,0,0,,Moshimo seki ga kawarn no nara\Nhould change...
+Dialogue: 0,0:06:56.14,0:07:03.22,Default,,0,0,0,,nanimo shiranai koro no watashi ni\Nelf, when I was still innocent...
+Dialogue: 0,0:07:03.22,0:07:17.12,Default,,0,0,0,,tsurete itte omoide ga iro asenai you ni\Nnever fade.
+Dialogue: 0,0:06:51.28,0:06:55.23,Default,,0,0,0,,Hey, who was the Princess talking to anyway?
+Dialogue: 0,0:06:55.23,0:06:57.39,Default,,0,0,0,,Dunno. It doesn't really matter though.
+Dialogue: 0,0:06:57.39,0:07:00.01,Default,,0,0,0,,I was just so happy to hear Vivi-sama's speech!
+Dialogue: 0,0:07:00.01,0:07:02.23,Default,,0,0,0,,We have to endure for her!
+Dialogue: 0,0:07:02.23,0:07:04.10,Default,,0,0,0,,Yes, that's right!
+Dialogue: 0,0:07:04.10,0:07:06.07,Default,,0,0,0,,Even us poor folk!
+Dialogue: 0,0:07:06.07,0:07:07.62,Default,,0,0,0,,Like you're poor!
+Dialogue: 0,0:07:19.15,0:07:21.94,Default,,0,0,0,,Just like we heard, Alubarna is on the verge of ruin.
+Dialogue: 0,0:07:22.56,0:07:25.12,Default,,0,0,0,,Then, we should go there.
+Dialogue: 0,0:07:25.12,0:07:29.77,Default,,0,0,0,,But we need to get Yuba back on its feet. It's the Hub of the West after all.
+Dialogue: 0,0:07:29.77,0:07:33.03,Default,,0,0,0,,Gotta fix all the canals from the Sandora River too.
+Dialogue: 0,0:07:33.03,0:07:34.59,Default,,0,0,0,,And the casino?
+Dialogue: 0,0:07:34.59,0:07:36.36,Default,,0,0,0,,The place is closed.
+Dialogue: 0,0:07:36.36,0:07:37.68,Default,,0,0,0,,Let's get going!
+Dialogue: 0,0:07:37.68,0:07:39.05,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:07:39.43,0:07:42.61,Default,,0,0,0,,Why's he getting special treatment?
+Dialogue: 0,0:07:42.61,0:07:43.67,Default,,0,0,0,,No idea.
+Dialogue: 0,0:07:43.67,0:07:46.55,Default,,0,0,0,,But Vivi-sama said so. It can't be helped.
+Dialogue: 0,0:07:46.55,0:07:49.66,Default,,0,0,0,,And I hear he wants to join the Super Spot-billed Duck Squad.
+Dialogue: 0,0:07:51.96,0:07:53.00,Default,,0,0,0,,But he's a camel.
+Dialogue: 0,0:07:54.16,0:07:55.78,Default,,0,0,0,,A camel, yeah.
+Dialogue: 0,0:07:58.98,0:08:02.25,Default,,0,0,0,,Well, thank you. You took good care of me.
+Dialogue: 0,0:08:02.25,0:08:04.58,Default,,0,0,0,,Well, aren't you an impatient one.
+Dialogue: 0,0:08:04.58,0:08:07.66,Default,,0,0,0,,You should't even be moving with injuries like that.
+Dialogue: 0,0:08:07.66,0:08:08.50,Default,,0,0,0,,Okay, see you.
+Dialogue: 0,0:08:08.50,0:08:12.26,Default,,0,0,0,,You just understand this: Go straight to bed when you get home!
+Dialogue: 0,0:08:12.26,0:08:14.81,Default,,0,0,0,,Yes, I understand.
+Dialogue: 0,0:08:14.81,0:08:16.71,Default,,0,0,0,,Oh yeah, wait up.
+Dialogue: 0,0:08:17.11,0:08:19.04,Default,,0,0,0,,You forgot this. Here.
+Dialogue: 0,0:08:19.04,0:08:21.92,Default,,0,0,0,,Ah, thank you.
+Dialogue: 0,0:08:21.92,0:08:24.92,Default,,0,0,0,,Anyhow, you've got to rest quietly. Understand?
+Dialogue: 0,0:08:24.92,0:08:27.04,Default,,0,0,0,,Leave your work to someone else.
+Dialogue: 0,0:08:27.04,0:08:30.33,Default,,0,0,0,,And eat a well-balanced, easy-to-digest meal three times a day--that's in the morning, noon and the evening-
+Dialogue: 0,0:08:30.33,0:08:32.68,Default,,0,0,0,,Un, you've done more than enough.
+Dialogue: 0,0:08:35.18,0:08:37.54,Default,,0,0,0,,Wow! Those guys are fast!
+Dialogue: 0,0:08:37.54,0:08:39.56,Default,,0,0,0,,It's more like we're losing speed.
+Dialogue: 0,0:08:39.56,0:08:41.82,Default,,0,0,0,,We're taking on water from the hole below deck.
+Dialogue: 0,0:08:41.82,0:08:43.54,Default,,0,0,0,,If those guys don't do something, we won't make it!
+Dialogue: 0,0:08:45.20,0:08:46.29,Default,,0,0,0,,Oi, Chopper!
+Dialogue: 0,0:08:46.29,0:08:47.83,Default,,0,0,0,,Are there any boards left over there?
+Dialogue: 0,0:08:47.83,0:08:49.72,Default,,0,0,0,,It's getting serious!
+Dialogue: 0,0:08:49.72,0:08:50.94,Default,,0,0,0,,CHOPPER!!
+Dialogue: 0,0:08:53.01,0:08:54.18,Default,,0,0,0,,There's only three ships.
+Dialogue: 0,0:08:54.18,0:08:55.66,Default,,0,0,0,,Guess we'll have to fight 'em.
+Dialogue: 0,0:08:55.66,0:08:56.86,Default,,0,0,0,,Yosh! Let's go!
+Dialogue: 0,0:08:57.89,0:08:58.88,Default,,0,0,0,,WHAT THE HELL!?
+Dialogue: 0,0:08:58.88,0:09:00.33,Default,,0,0,0,,Ah, those?
+Dialogue: 0,0:09:00.33,0:09:04.10,Default,,0,0,0,,Usopp asked me to keep them in case we could use them for somthing.
+Dialogue: 0,0:09:04.10,0:09:05.07,Default,,0,0,0,,THEY'RE IN THE WAY!
+Dialogue: 0,0:09:05.07,0:09:06.10,Default,,0,0,0,,WE DON'T NEED THEM!
+Dialogue: 0,0:09:06.94,0:09:07.96,Default,,0,0,0,,I'll chuck 'em.
+Dialogue: 0,0:09:07.96,0:09:09.92,Default,,0,0,0,,All hands, battle positions!
+Dialogue: 0,0:09:09.92,0:09:11.84,Default,,0,0,0,,We attack in full force as soon as we're broadside!
+Dialogue: 0,0:09:17.13,0:09:18.86,Default,,0,0,0,,Yosh! Let's get 'em!
+Dialogue: 0,0:09:19.40,0:09:20.09,Default,,0,0,0,,Huh?
+Dialogue: 0,0:09:20.91,0:09:22.23,Default,,0,0,0,,Before it's too late...
+Dialogue: 0,0:09:22.23,0:09:23.99,Default,,0,0,0,,Full speed outta here!
+Dialogue: 0,0:09:28.65,0:09:30.25,Default,,0,0,0,,Now, Carue...
+Dialogue: 0,0:09:34.29,0:09:36.57,Default,,0,0,0,,Let's go home, to Alubarna!
+Dialogue: 0,0:09:43.73,0:09:46.36,Default,,0,0,0,,My adventure is over,
+Dialogue: 0,0:09:46.36,0:09:51.10,Default,,0,0,0,,But now the challenge of restoring Arabasta lies before me.
+Dialogue: 0,0:09:51.10,0:09:56.82,Default,,0,0,0,,Right now, Arabasta is like a small ship on the water, riddled with holes.
+Dialogue: 0,0:09:56.82,0:10:00.25,Default,,0,0,0,,But, no matter what large waves should come,
+Dialogue: 0,0:10:00.25,0:10:03.84,Default,,0,0,0,,We will never back down!
+Dialogue: 0,0:10:03.84,0:10:06.76,Default,,0,0,0,,We'll keep pushing steadily ahead,
+Dialogue: 0,0:10:06.76,0:10:11.57,Default,,0,0,0,,Without never losing our course!
+Dialogue: 0,0:10:13.64,0:10:19.06,Default,,0,0,0,,Yes, just like that mysterious little boat...
+Dialogue: 0,0:10:27.20,0:10:30.98,Default,,0,0,0,,We'll see them again someday, won't we, Carue?
+Dialogue: 0,0:10:58.22,0:10:59.86,Default,,0,0,0,,Smoker-san?
+Dialogue: 0,0:10:59.86,0:11:01.92,Default,,0,0,0,,Hey, little miss.
+Dialogue: 0,0:11:01.92,0:11:03.48,Default,,0,0,0,,How are your legs feeling?
+Dialogue: 0,0:11:03.48,0:11:06.48,Default,,0,0,0,,P-Please don't call me that.
+Dialogue: 0,0:11:18.25,0:11:18.91,Default,,0,0,0,,Thank you...
+Dialogue: 0,0:11:21.07,0:11:24.24,Default,,0,0,0,,I've seen their new bounties.
+Dialogue: 0,0:11:24.24,0:11:26.92,Default,,0,0,0,,The numbers suit them.
+Dialogue: 0,0:11:26.92,0:11:29.92,Default,,0,0,0,,Do you know what his partner, the swordsman, did?
+Dialogue: 0,0:11:29.92,0:11:31.58,Default,,0,0,0,,You mean Roronoa?
+Dialogue: 0,0:11:32.62,0:11:35.97,Default,,0,0,0,,He took out 100 bounty hunters at Whiskey Peak,
+Dialogue: 0,0:11:35.97,0:11:40.17,Default,,0,0,0,,And defeated Das Bones in Alubarna.
+Dialogue: 0,0:11:40.17,0:11:42.76,Default,,0,0,0,,Das? The assassin?
+Dialogue: 0,0:11:43.04,0:11:46.70,Default,,0,0,0,,That's the name we knew him by when he was a bounty hunter in West Blue.
+Dialogue: 0,0:11:46.70,0:11:50.20,Default,,0,0,0,,But in Baroque Works, he was known as Mr. 1.
+Dialogue: 0,0:11:50.20,0:11:57.05,Default,,0,0,0,,Well, it's impressive how many poweful and renowned figures Crocodile drew into his sphere.
+Dialogue: 0,0:11:57.05,0:12:00.53,Default,,0,0,0,,But they all still lost.
+Dialogue: 0,0:12:00.92,0:12:04.74,Default,,0,0,0,,We'll set out again and continue pursuing the Straw Hat Pirates.
+Dialogue: 0,0:12:07.03,0:12:07.58,Default,,0,0,0,,Yes, Sir!
+Dialogue: 0,0:12:10.66,0:12:12.91,Default,,0,0,0,,The Marines aren't chasing us anymore!
+Dialogue: 0,0:12:16.35,0:12:18.09,Default,,0,0,0,,We shook them off, didn't we?
+Dialogue: 0,0:12:22.71,0:12:23.66,Default,,0,0,0,,Hey now...
+Dialogue: 0,0:12:23.66,0:12:26.71,Default,,0,0,0,,What's with the lifeless responses?
+Dialogue: 0,0:12:28.29,0:12:30.24,Default,,0,0,0,,WE MISS HER!
+Dialogue: 0,0:12:30.24,0:12:31.87,Default,,0,0,0,,Quit whining about it!
+Dialogue: 0,0:12:31.87,0:12:34.70,Default,,0,0,0,,If you didn't want to leave her behind...
+Dialogue: 0,0:12:34.70,0:12:36.62,Default,,0,0,0,,You should've just taken her by force!
+Dialogue: 0,0:12:36.62,0:12:38.14,Default,,0,0,0,,Ah! You neanderthal!
+Dialogue: 0,0:12:38.14,0:12:39.09,Default,,0,0,0,,You suck!
+Dialogue: 0,0:12:39.09,0:12:40.28,Default,,0,0,0,,Marimo.
+Dialogue: 0,0:12:40.28,0:12:41.51,Default,,0,0,0,,Santouryuu.
+Dialogue: 0,0:12:40.28,0:12:44.88,Default,,0,0,0,,Santouryuu - Three swords
+Dialogue: 0,0:12:41.51,0:12:44.88,Default,,0,0,0,,Wait, Luffy. "Santouryuu" isn't an insult.
+Dialogue: 0,0:12:44.88,0:12:45.95,Default,,0,0,0,,Youtouryu.
+Dialogue: 0,0:12:44.88,0:12:45.95,Default,,0,0,0,,Youtouryu - Four swords
+Dialogue: 0,0:12:45.95,0:12:47.52,Default,,0,0,0,,No, you only added one!
+Dialogue: 0,0:12:47.52,0:12:49.73,Default,,0,0,0,,Listen, You know natto, right?
+Dialogue: 0,0:12:47.52,0:12:49.73,Default,,0,0,0,,natto - Fermented soy beans
+Dialogue: 0,0:12:49.73,0:12:52.51,Default,,0,0,0,,That could mean, like "You stink", okay?
+Dialogue: 0,0:12:52.51,0:12:54.47,Default,,0,0,0,,So we finally got away from the island.
+Dialogue: 0,0:12:54.47,0:12:55.26,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:12:56.30,0:12:57.51,Default,,0,0,0,,Well done.
+Dialogue: 0,0:12:59.57,0:13:01.59,Default,,0,0,0,,Here for revenge!? Bring it on!
+Dialogue: 0,0:13:01.59,0:13:03.40,Default,,0,0,0,,Why are YOU here!?
+Dialogue: 0,0:13:03.40,0:13:04.68,Default,,0,0,0,,Take cover!
+Dialogue: 0,0:13:04.88,0:13:06.79,Default,,0,0,0,,Take cover!
+Dialogue: 0,0:13:07.85,0:13:08.45,Default,,0,0,0,,Who is she?
+Dialogue: 0,0:13:09.03,0:13:10.63,Default,,0,0,0,,It doesn't matter who she is!
+Dialogue: 0,0:13:10.63,0:13:12.81,Default,,0,0,0,,She's a beautiful lady!
+Dialogue: 0,0:13:19.11,0:13:22.58,Default,,0,0,0,,Don't point those dangerous things at me.
+Dialogue: 0,0:13:22.58,0:13:24.44,Default,,0,0,0,,I told you that before, didn't I?
+Dialogue: 0,0:13:24.44,0:13:26.39,Default,,0,0,0,,How long have you been on this ship?
+Dialogue: 0,0:13:26.39,0:13:27.85,Default,,0,0,0,,The entire time.
+Dialogue: 0,0:13:28.17,0:13:29.73,Default,,0,0,0,,These clothes are yours, aren't they?
+Dialogue: 0,0:13:29.73,0:13:30.58,Default,,0,0,0,,I'm borrowing them.
+Dialogue: 0,0:13:30.58,0:13:33.67,Default,,0,0,0,,What do you think you're doing, Baroque Works!?
+Dialogue: 0,0:13:33.96,0:13:35.97,Default,,0,0,0,,Monkey D. Luffy.
+Dialogue: 0,0:13:35.97,0:13:39.13,Default,,0,0,0,,You aren't forgetting what you did to me, are you?
+Dialogue: 0,0:13:40.11,0:13:41.03,Default,,0,0,0,,LUFFY!
+Dialogue: 0,0:13:41.03,0:13:44.38,Default,,0,0,0,,What the hell did you do to this beautiful lady!?
+Dialogue: 0,0:13:44.38,0:13:47.39,Default,,0,0,0,,WHAT- DID- YOU- DO!?
+Dialogue: 0,0:13:44.38,0:13:47.39,Default,,0,0,0,,Everyone please disembark the ship at once!
+Dialogue: 0,0:13:47.72,0:13:49.08,Default,,0,0,0,,Oi, you!
+Dialogue: 0,0:13:49.08,0:13:50.21,Default,,0,0,0,,Don't lie!
+Dialogue: 0,0:13:50.21,0:13:51.96,Default,,0,0,0,,I didn't do anything!
+Dialogue: 0,0:13:51.96,0:13:55.42,Default,,0,0,0,,Yes you did. You put me through some very excruciating treatment.
+Dialogue: 0,0:13:55.42,0:13:57.85,Default,,0,0,0,,Take responsibility.
+Dialogue: 0,0:13:57.85,0:13:58.91,Default,,0,0,0,,Who is that?
+Dialogue: 0,0:13:58.91,0:14:00.40,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:14:00.40,0:14:03.13,Default,,0,0,0,,Get out of here! I'll call the Marines!
+Dialogue: 0,0:14:03.13,0:14:06.26,Default,,0,0,0,,You'd better take responsibility!
+Dialogue: 0,0:13:57.85,0:14:01.19,Default,,0,0,0,,"Excruciating treatment"!? What the hell did you do to her!?
+Dialogue: 0,0:14:01.19,0:14:03.13,Default,,0,0,0,,What the hell did you do!?
+Dialogue: 0,0:14:03.33,0:14:06.26,Default,,0,0,0,,Serious! Usopp is serious!
+Dialogue: 0,0:14:06.46,0:14:08.51,Default,,0,0,0,,I don't know what you're talking about!
+Dialogue: 0,0:14:08.51,0:14:10.15,Default,,0,0,0,,What do you want me to do!?
+Dialogue: 0,0:14:11.69,0:14:14.32,Default,,0,0,0,,Allow me to join your nakama.
+Dialogue: 0,0:14:15.60,0:14:16.98,Default,,0,0,0,,HUH!?
+Dialogue: 0,0:14:15.60,0:14:16.98,Default,,0,0,0,,SURE! }
+Dialogue: 0,0:14:21.05,0:14:22.90,Default,,0,0,0,,Hurry, use it.
+Dialogue: 0,0:14:22.90,0:14:26.01,Default,,0,0,0,,It's the antidote for Crocodile's poison.
+Dialogue: 0,0:14:26.01,0:14:31.19,Default,,0,0,0,,Even if he is buried beneath all this rubble, his rubber body may allow him to survive.
+Dialogue: 0,0:14:32.89,0:14:35.07,Default,,0,0,0,,Back then you said...
+Dialogue: 0,0:14:35.07,0:14:38.74,Default,,0,0,0,,...that only history was inscribed there.
+Dialogue: 0,0:14:41.34,0:14:43.52,Default,,0,0,0,,Why did you lie?
+Dialogue: 0,0:14:45.87,0:14:47.58,Default,,0,0,0,,You knew?
+Dialogue: 0,0:14:47.58,0:14:49.00,Default,,0,0,0,,How naughty.
+Dialogue: 0,0:14:49.00,0:14:53.08,Default,,0,0,0,,The history of this country is not inscribed on that stone.
+Dialogue: 0,0:14:53.08,0:14:56.96,Default,,0,0,0,,All that is inscribed there are the details about the weapon your organization desired.
+Dialogue: 0,0:14:56.96,0:14:59.19,Default,,0,0,0,,And of course, its location.
+Dialogue: 0,0:14:59.19,0:15:04.83,Default,,0,0,0,,If you had translated it for Crocodile, this country would currently be his.
+Dialogue: 0,0:15:04.83,0:15:05.63,Default,,0,0,0,,Am I wrong?
+Dialogue: 0,0:15:07.35,0:15:09.14,Default,,0,0,0,,I'm not interested.
+Dialogue: 0,0:15:09.14,0:15:11.72,Default,,0,0,0,,I don't care whether people and countries live or die.
+Dialogue: 0,0:15:11.72,0:15:14.27,Default,,0,0,0,,I couldn't care less.
+Dialogue: 0,0:15:14.27,0:15:18.85,Default,,0,0,0,,I never intended to give Crocodile the weapon in the first place.
+Dialogue: 0,0:15:18.85,0:15:20.88,Default,,0,0,0,,I don't understand.
+Dialogue: 0,0:15:20.88,0:15:23.38,Default,,0,0,0,,Then why did you come here?
+Dialogue: 0,0:15:23.38,0:15:26.85,Default,,0,0,0,,Hopes and expectations are two different things.
+Dialogue: 0,0:15:26.85,0:15:31.00,Default,,0,0,0,,What I wanted to find was... the Rio Poneglyph.
+Dialogue: 0,0:15:31.80,0:15:35.66,Default,,0,0,0,,Out of all the Poneglyphs existing in this world...
+Dialogue: 0,0:15:35.66,0:15:37.77,Default,,0,0,0,,It is the one stone that tells the True History.
+Dialogue: 0,0:15:39.43,0:15:41.31,Default,,0,0,0,,That is the Rio Poneglyph.
+Dialogue: 0,0:15:42.88,0:15:44.74,Default,,0,0,0,,The True History?
+Dialogue: 0,0:15:44.74,0:15:46.48,Default,,0,0,0,,What is that?
+Dialogue: 0,0:15:47.72,0:15:49.17,Default,,0,0,0,,Enough.
+Dialogue: 0,0:15:49.17,0:15:51.53,Default,,0,0,0,,I've searched for 20 years...
+Dialogue: 0,0:15:51.53,0:15:53.70,Default,,0,0,0,,And this was the only lead I found.
+Dialogue: 0,0:15:53.70,0:15:57.58,Default,,0,0,0,,This place was my last hope, and it was a failure.
+Dialogue: 0,0:15:57.58,0:16:00.41,Default,,0,0,0,,If I am to die here, that suits me fine.
+Dialogue: 0,0:16:02.00,0:16:05.55,Default,,0,0,0,,I'm tired of walking the road I followed here.
+Dialogue: 0,0:16:10.32,0:16:14.47,Default,,0,0,0,,When all I want is to learn of a history,
+Dialogue: 0,0:16:15.18,0:16:19.28,Default,,0,0,0,,There are too many enemies within my dream.
+Dialogue: 0,0:16:19.85,0:16:21.90,Default,,0,0,0,,One further question, if I may...
+Dialogue: 0,0:16:22.45,0:16:25.86,Default,,0,0,0,,Are you saying the threads of the history that cannot be told can be woven together?
+Dialogue: 0,0:16:25.86,0:16:29.81,Default,,0,0,0,,And that Poneglyph is the record of it?
+Dialogue: 0,0:16:30.75,0:16:33.38,Default,,0,0,0,,If that is so, then why have we been...?
+Dialogue: 0,0:16:38.82,0:16:40.11,Default,,0,0,0,,Yosh, let's get out of here.
+Dialogue: 0,0:16:40.11,0:16:41.02,Default,,0,0,0,,Wait a second!
+Dialogue: 0,0:16:41.22,0:16:43.28,Default,,0,0,0,,I have no reason to live!
+Dialogue: 0,0:16:43.28,0:16:45.50,Default,,0,0,0,,Put me down and leave!
+Dialogue: 0,0:16:46.01,0:16:49.25,Default,,0,0,0,,Why the hell should I listen to you?
+Dialogue: 0,0:16:52.77,0:16:56.59,Default,,0,0,0,,Back then, you forced me to live when I wished to die.
+Dialogue: 0,0:16:56.59,0:16:58.39,Default,,0,0,0,,That is your crime.
+Dialogue: 0,0:16:58.83,0:17:02.49,Default,,0,0,0,,I have no place to go or return to.
+Dialogue: 0,0:17:02.49,0:17:04.54,Default,,0,0,0,,So, are you going to let me stay on your ship?
+Dialogue: 0,0:17:04.54,0:17:05.73,Default,,0,0,0,,I get it.
+Dialogue: 0,0:17:05.73,0:17:07.28,Default,,0,0,0,,Guess that's that.
+Dialogue: 0,0:17:07.28,0:17:07.93,Default,,0,0,0,,Okay.
+Dialogue: 0,0:17:07.93,0:17:09.54,Default,,0,0,0,,LUFFY!
+Dialogue: 0,0:17:07.93,0:17:09.54,Default,,0,0,0,,LUFFY! 
+Dialogue: 0,0:17:09.99,0:17:11.95,Default,,0,0,0,,Don't worry!
+Dialogue: 0,0:17:11.95,0:17:14.20,Default,,0,0,0,,She's not a bad person!
+Dialogue: 0,0:17:14.20,0:17:16.63,Default,,0,0,0,,Mellorine! Mello... 
+Dialogue: 0,0:17:36.52,0:17:37.90,Default,,0,0,0,,Look at me when I'm talking to you!
+Dialogue: 0,0:17:37.90,0:17:40.48,Default,,0,0,0,,I want you to answer all of my questions truthfully.
+Dialogue: 0,0:17:40.48,0:17:42.01,Default,,0,0,0,,I'll ask you again.
+Dialogue: 0,0:17:42.01,0:17:43.29,Default,,0,0,0,,Your full name...?
+Dialogue: 0,0:17:44.63,0:17:47.15,Default,,0,0,0,,Oh, I'm Usopp. Nice to meet you. No, no, pleased to meet you.
+Dialogue: 0,0:17:47.15,0:17:48.65,Default,,0,0,0,,Nico Robin.
+Dialogue: 0,0:17:48.65,0:17:50.02,Default,,0,0,0,,Yosh! Nico Robin.
+Dialogue: 0,0:17:50.02,0:17:51.65,Default,,0,0,0,,And what's your occupation?
+Dialogue: 0,0:17:51.65,0:17:52.86,Default,,0,0,0,,I'm an archaeologist.
+Dialogue: 0,0:17:52.86,0:17:54.29,Default,,0,0,0,,Archaeologist!?
+Dialogue: 0,0:17:54.29,0:17:58.21,Default,,0,0,0,,I'm from a long line of archaeologists.
+Dialogue: 0,0:17:58.21,0:18:01.90,Default,,0,0,0,,I see. From a long line, eh?
+Dialogue: 0,0:18:01.90,0:18:03.32,Default,,0,0,0,,What the hell is this?
+Dialogue: 0,0:18:03.32,0:18:04.22,Default,,0,0,0,,And?
+Dialogue: 0,0:18:04.22,0:18:06.34,Default,,0,0,0,,I became an archaeologist,
+Dialogue: 0,0:18:06.34,0:18:11.09,Default,,0,0,0,,And then I became wanted by the World Government at the age of eight.
+Dialogue: 0,0:18:11.09,0:18:16.52,Default,,0,0,0,,For the past 20 years, I've kept myself hidden from society.
+Dialogue: 0,0:18:16.52,0:18:18.54,Default,,0,0,0,,Since you were eight?
+Dialogue: 0,0:18:18.54,0:18:21.26,Default,,0,0,0,,And you were alone that entire time?
+Dialogue: 0,0:18:21.53,0:18:23.20,Default,,0,0,0,,Not exactly.
+Dialogue: 0,0:18:23.20,0:18:27.09,Default,,0,0,0,,A child can't survive on the ocean by herself.
+Dialogue: 0,0:18:27.09,0:18:33.04,Default,,0,0,0,,Over the years, I worked for various villainous characters as a way of protecting myself...
+Dialogue: 0,0:18:33.04,0:18:37.25,Default,,0,0,0,,...and achieving my goal.
+Dialogue: 0,0:18:37.25,0:18:38.49,Default,,0,0,0,,That's the story.
+Dialogue: 0,0:18:38.49,0:18:42.63,Default,,0,0,0,,And would you say Crocodile was just one of the those people?
+Dialogue: 0,0:18:42.63,0:18:44.26,Default,,0,0,0,,I would.
+Dialogue: 0,0:18:44.26,0:18:47.18,Default,,0,0,0,,In order to locate the Rio Poneglyph.
+Dialogue: 0,0:18:47.18,0:18:48.83,Default,,0,0,0,,Rio?
+Dialogue: 0,0:18:49.80,0:18:53.14,Default,,0,0,0,,It's given me a lot of experience in covert operations.
+Dialogue: 0,0:18:53.14,0:18:55.65,Default,,0,0,0,,I would be an asset to you.
+Dialogue: 0,0:18:55.65,0:18:58.65,Default,,0,0,0,,Hmm, you seem pretty confident about yourself.
+Dialogue: 0,0:18:58.65,0:19:00.80,Default,,0,0,0,,What's your speciality?
+Dialogue: 0,0:19:02.15,0:19:03.34,Default,,0,0,0,,Assassination. 
+Dialogue: 0,0:19:03.34,0:19:04.57,Default,,0,0,0,,AH, LUFFY!
+Dialogue: 0,0:19:04.57,0:19:07.67,Default,,0,0,0,,The interview has concluded that this woman is TOO DANGEROUS to hire!
+Dialogue: 0,0:19:08.93,0:19:10.91,Default,,0,0,0,,LISTEN TO WHAT I'M SAYING, DAMN IT!
+Dialogue: 0,0:19:11.24,0:19:13.01,Default,,0,0,0,,Pathetic.
+Dialogue: 0,0:19:13.01,0:19:15.65,Default,,0,0,0,,Look how easily you let her walk all over you.
+Dialogue: 0,0:19:15.65,0:19:19.41,Default,,0,0,0,,She was the Vice President of an enormous criminal organization until this very day.
+Dialogue: 0,0:19:19.41,0:19:22.43,Default,,0,0,0,,Give me one good reason why we should let her join us.
+Dialogue: 0,0:19:23.52,0:19:27.33,Default,,0,0,0,,You may have fooled these idiots, but it won't work on me!
+Dialogue: 0,0:19:27.33,0:19:31.06,Default,,0,0,0,,If you ever try anything, I'm kicking you out.
+Dialogue: 0,0:19:32.03,0:19:35.05,Default,,0,0,0,,Yes, I'll keep that in mind.
+Dialogue: 0,0:19:35.05,0:19:36.86,Default,,0,0,0,,By the way...
+Dialogue: 0,0:19:36.86,0:19:39.81,Default,,0,0,0,,I brought along some of Crocodile's jewels.
+Dialogue: 0,0:19:41.76,0:19:44.13,Default,,0,0,0,,OHH! I love you, Onee-sama! 
+Dialogue: 0,0:19:44.69,0:19:45.82,Default,,0,0,0,,Oi, oi, oi, oi...
+Dialogue: 0,0:19:45.82,0:19:47.38,Default,,0,0,0,,Nami's down!
+Dialogue: 0,0:19:47.38,0:19:48.87,Default,,0,0,0,,That was dirty.
+Dialogue: 0,0:19:48.87,0:19:50.89,Default,,0,0,0,,Everything's following right along with the enemy's pace.
+Dialogue: 0,0:19:54.10,0:19:55.71,Default,,0,0,0,,Ah, love!
+Dialogue: 0,0:19:55.71,0:19:57.26,Default,,0,0,0,,Floating love!
+Dialogue: 0,0:19:57.26,0:20:02.31,Default,,0,0,0,,I am but driftwood laying my ebony-burned body down upon the flow.
+Dialogue: 0,0:20:02.62,0:20:03.75,Default,,0,0,0,,Treasure...
+Dialogue: 0,0:20:03.75,0:20:09.15,Default,,0,0,0,,Driftwood, struck by your beauty called thunder: I am sent straight along the flow.
+Dialogue: 0,0:20:09.59,0:20:11.14,Default,,0,0,0,,Here is your snack.
+Dialogue: 0,0:20:11.14,0:20:12.50,Default,,0,0,0,,Oh, thank you.
+Dialogue: 0,0:20:12.50,0:20:14.75,Default,,0,0,0,,That is without a doubt... that.
+Dialogue: 0,0:20:14.75,0:20:18.39,Default,,0,0,0,,Yeah. He was a lost cause from the get-go.
+Dialogue: 0,0:20:18.39,0:20:19.25,Default,,0,0,0,,And so...
+Dialogue: 0,0:20:20.23,0:20:23.96,Default,,0,0,0,,The two of us are the last remaining bastions against her.
+Dialogue: 0,0:20:23.96,0:20:27.49,Default,,0,0,0,,Yes, those weak-minded fools have failed us all.
+Dialogue: 0,0:20:27.49,0:20:28.37,Default,,0,0,0,,Oi, Usopp!
+Dialogue: 0,0:20:29.35,0:20:30.34,Default,,0,0,0,,Chopper!
+Dialogue: 0,0:20:37.63,0:20:39.71,Default,,0,0,0,,Should I call you Robin-chwan? 
+Dialogue: 0,0:20:39.71,0:20:41.65,Default,,0,0,0,,Or Robin-swan? 
+Dialogue: 0,0:20:41.65,0:20:43.13,Default,,0,0,0,,I can't decide! 
+Dialogue: 0,0:20:43.13,0:20:44.88,Default,,0,0,0,,Oh, which would you like?
+Dialogue: 0,0:20:48.57,0:20:50.53,Default,,0,0,0,,Ah, this is such a joy~! 
+Dialogue: 0,0:20:50.53,0:20:54.48,Default,,0,0,0,,She has a distinct, more mature beauty than Nami-san~! 
+Dialogue: 0,0:21:03.60,0:21:05.81,Default,,0,0,0,,This is a nice ship.
+Dialogue: 0,0:21:05.81,0:21:08.62,Default,,0,0,0,,Is it always as lively as this?
+Dialogue: 0,0:21:08.62,0:21:10.84,Default,,0,0,0,,Yeah, this is it.
+Dialogue: 0,0:21:10.84,0:21:12.13,Default,,0,0,0,,Oh?
+Dialogue: 0,0:21:14.74,0:21:16.02,Default,,0,0,0,,This woman...
+Dialogue: 0,0:21:16.02,0:21:17.45,Default,,0,0,0,,What's she plotting?
+Dialogue: 0,0:21:23.73,0:21:25.32,Default,,0,0,0,,By the way, Miss Navigator.
+Dialogue: 0,0:21:25.32,0:21:26.82,Default,,0,0,0,,Are we on course?
+Dialogue: 0,0:21:26.82,0:21:29.43,Default,,0,0,0,,No problems in wind or weather!
+Dialogue: 0,0:21:29.43,0:21:31.89,Default,,0,0,0,,Everything's fantastic, Robin-nee-san!
+Dialogue: 0,0:21:31.89,0:21:34.29,Default,,0,0,0,,You DEFINITELY took those jewels!
+Dialogue: 0,0:21:34.29,0:21:35.28,Default,,0,0,0,,Sanji!
+Dialogue: 0,0:21:35.28,0:21:36.46,Default,,0,0,0,,Is it snack time yet?
+Dialogue: 0,0:21:36.46,0:21:37.65,Default,,0,0,0,,Just wait one minute!
+Dialogue: 0,0:21:37.65,0:21:39.23,Default,,0,0,0,,I'm hungry!
+Dialogue: 0,0:21:39.23,0:21:42.05,Default,,0,0,0,,Me too! Me too! I'm hungry too!
+Dialogue: 0,0:21:49.35,0:21:51.51,Default,,0,0,0,,My... grave?
+Dialogue: 0,0:22:42.36,0:22:45.34,Default,,0,0,0,,Shining Ray! Find your brand new way.
+Dialogue: 0,0:22:54.33,0:22:57.38,Default,,0,0,0,,Shining Ray! Find your brand new way.
+Dialogue: 0,0:22:57.38,0:23:00.34,Default,,0,0,0,,A never ending journey to be together.
+Dialogue: 0,0:22:06.16,0:22:12.29,Default,,0,0,0,,What course can I set that will lead me to a better tomorrow?
+Dialogue: 0,0:22:12.29,0:22:18.21,Default,,0,0,0,,Taking the helm, I spread out the map of miracles I had shut in my heart
+Dialogue: 0,0:22:18.21,0:22:24.47,Default,,0,0,0,,Aiming for the sky, searching for a dream, there were times when I lost my way
+Dialogue: 0,0:22:24.47,0:22:29.89,Default,,0,0,0,,But this isn't a dream, I found a wonderful part of myself when I met you
+Dialogue: 0,0:22:29.89,0:22:36.15,Default,,0,0,0,,With a small bit of courage, I gained something large
+Dialogue: 0,0:22:36.15,0:22:42.36,Default,,0,0,0,,So now is the time to change my dreams into vows.
+Dialogue: 0,0:22:42.36,0:22:45.34,Default,,0,0,0,,Shining Ray! Find your brand new way.
+Dialogue: 0,0:22:45.34,0:22:49.08,Default,,0,0,0,,Let's paint a story of the future
+Dialogue: 0,0:22:49.08,0:22:54.33,Default,,0,0,0,,And put all of our thoughts into this new wind
+Dialogue: 0,0:22:54.33,0:22:57.38,Default,,0,0,0,,Shining Ray! Find your brand new way.
+Dialogue: 0,0:22:57.38,0:23:00.34,Default,,0,0,0,,A never ending journey to be together.
+Dialogue: 0,0:23:00.34,0:23:05.55,Default,,0,0,0,,I'll chase it anywhere, this Shining Ray!
